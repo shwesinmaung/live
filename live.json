@@ -60,11 +60,11 @@
                 
                   {
                     "type": " SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=8851e90dd529cb4fea0cd78e1676903f&txTime=641e4623"
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3739010-0/chunklist.m3u8"
                  },
                   {                   
                    "type":"HD",
-                  "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1679705695-0-0-7f8828c1c7b5e036f7bb51f4b8571a91&sub_m3u8=true&edge_slice=true&user_session_id=897a29d4c803900139918bf889686ca2"
+                  "livelink":"https://179720687.global.cdnfastest.com/live/1-3739010-0/chunklist.m3u8"
                   }
 
                  ]
