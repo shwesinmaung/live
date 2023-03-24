@@ -28,7 +28,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
             "date": "March 24",
             "time": "5:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_xsmall.png",
             "hteam" : "South Korea",
@@ -36,7 +36,7 @@
             "link":[
                 
 {
-                    "type": "Mrtv4 ",
+                    "type": "SD",
                 "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679675395-0-0-f554d7885c287b6ca8539586e917bd8d&sub_m3u8=true&edge_slice=true&user_session_id=923cb5f3f41007d2d9b7e56233358682"
         }
   
