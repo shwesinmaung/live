@@ -38,6 +38,10 @@
                        {
                     "type": "SD",
                 "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679675395-0-0-f554d7885c287b6ca8539586e917bd8d&sub_m3u8=true&edge_slice=true&user_session_id=923cb5f3f41007d2d9b7e56233358682"
+                    },
+                     {
+                    "type": "SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679682895-0-0-3e6fa6f902c931685b23e8936b327509&edge_slice=true&sub_m3u8=true&user_session_id=150146837179535de6181b2740e2e871"
                     }
                    ]
 
