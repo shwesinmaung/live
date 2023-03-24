@@ -106,11 +106,11 @@
                 
                   {
                     "type": " SD",
-                "live link":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=b8eb3777b9b55abfce9c28157c08a49f&auth_key=1679707855-0-0-ca737396d56225c8e4a98454270f1b4a"
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=b8eb3777b9b55abfce9c28157c08a49f&auth_key=1679707855-0-0-ca737396d56225c8e4a98454270f1b4a"
                  },
                   {                   
                    "type":"HD",
-                  "live link":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+                  "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
                   }
 
                  ]
