@@ -36,11 +36,11 @@
             "link":[
                 
                   {
-                    "type": "Soco HD",
+                    "type": "HD",
                 "live link":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1679705215-0-0-048e2752f8bcdc43ec20561f76d2ce2c&edge_slice=true&sub_m3u8=true&user_session_id=19ca9afd9d24369af587e86ccea40281e"
                  },
                   {                   
-                   "type":"Soco SD",
+                   "type":"SD",
                   "live link":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?user_session_id=ed090eb5a58e8f06dbaa4505082efa6f&auth_key=1679704195-0-0-eb37c42d2f68572c7ccb58f4a6f362ac&sub_m3u8=true&edge_slice=true"
                   }
 
