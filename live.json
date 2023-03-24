@@ -37,11 +37,11 @@
                 
                   {
                     "type": "HD",
-                "live link":"https://179720687.global.cdnfastest.com/live/1-3738940-0/chunklist.m3u8"
+                "livelink":"https://179720687.global.cdnfastest.com/live/1-3738940-0/chunklist.m3u8"
                  },
                   {                   
                    "type":"SD",
-                  "live link":"https://179720687.global.cdnfastest.com/live/1-3738940-0/chunklist.m3u8"
+                  "livelink":"https://179720687.global.cdnfastest.com/live/1-3738940-0/chunklist.m3u8"
                   }
 
                  ]
