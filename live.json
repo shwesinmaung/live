@@ -46,7 +46,7 @@
 
           {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
-            "date": "Mar 25",
+            "date": "March 25",
             "time": "1:30 AM",
              "isLive": false, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_small.png",
@@ -68,8 +68,8 @@
              },
 
              {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
-            "date": "Mar 25",
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
+            "date": "March 25",
             "time": "1:30 AM",
              "isLive": false, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395_xsmall.png",
