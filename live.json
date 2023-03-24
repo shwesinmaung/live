@@ -11,19 +11,19 @@
             "hteam" : "Japan",
             "ateam" : "Uruguay",
             "link":[
-                
-{
+                    
+                    {
                     "type": "SD",
                 "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=293961cce0f6e4892059872fc3106333&txTime=641dcbcb"
-        },
-                       {
+                    },
+                    {
                     "type": "HD",
                 "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-229184_lhd.m3u8?auth_key=1679674375-0-0-b21d388bbd87782c9e998503fbc3d8ac&edge_slice=true&sub_m3u8=true&user_session_id=a00d6ce58051f56addadeb978cda9a06"
-        }
-  
-]
+                   }
+                 ]
 
-},
+           },
+           
            {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
             "date": "March 24",
@@ -34,16 +34,16 @@
             "hteam" : "South Korea",
             "ateam" : "Colombia",
             "link":[
-                
-{
+                  
+                       {
                     "type": "SD",
                 "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679675395-0-0-f554d7885c287b6ca8539586e917bd8d&sub_m3u8=true&edge_slice=true&user_session_id=923cb5f3f41007d2d9b7e56233358682"
-        }
-  
-]
+                    }
+                   ]
 
-},
-{
+            },
+           
+           {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
             "date": "Today",
             "time": "7:30 PM",
@@ -53,15 +53,15 @@
             "hteam" : "DR Congo",
             "ateam" : "Mauritania",
             "link":[
-                
-{
+                   
+                   {
                     "type": "Mrtv4 ",
                 "livelink":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
-        }
-]
-},
+                    }
+                   ]
+           },
 
-{
+          {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
             "date": "Mar 25",
             "time": "1:30 AM",
@@ -72,20 +72,20 @@
             "ateam" : "Malawi",
             "link":[
                 
-{
+                  {
                     "type": "Soco HD",
                 "live link":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679671915-0-0-b4807ecce028815e9a485e6d202a368f&user_session_id=a98797477268017f7751610227cdf6dc"
-        },
-{                     "type":"Soco SD",
+                 },
+                  {                   
+                   "type":"Soco SD",
+                  "live link":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1679670895-0-0-42ebe69312e508acd54648e09fede165&user_session_id=3582f31636aece67c7dd35f1362085c9&edge_slice=true&sub_m3u8=true"
+                  }
 
-                      "live link":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1679670895-0-0-42ebe69312e508acd54648e09fede165&user_session_id=3582f31636aece67c7dd35f1362085c9&edge_slice=true&sub_m3u8=true"
-}
-
-]
-},
+                 ]
+             },
            
            
-  {
+          {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
             "date": "March 25",
             "time": "2:15AM",
@@ -96,14 +96,14 @@
             "ateam" : "Netherlands",
             "link":[
                 
-{
+                  {
                     "type": "Mrtv4 ",
                 "livelink":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
-        }
+              }
   
-]
+            ]
 
-}
+        }
 
 
    
