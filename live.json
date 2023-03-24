@@ -28,7 +28,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
             "date": "March 24",
             "time": "5:30 PM",
-             "isLive": true, 
+             "isLive": false, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_xsmall.png",
             "hteam" : "South Korea",
