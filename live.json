@@ -53,18 +53,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/114.png",
             "date": "March 26",
             "time": "2:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
             "hteam" : "Germany ",
             "ateam" : "Peru",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://3e2c221109f87e7ae4b&sub_m3u8=true&auth_key=1679707675-0-0-553a04e324bd5e990b9f6996e9c92f2d&edge_slice=true"
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=b6ae4a1bd8f7d5cc0e266620626bf1c2&txTime=641fa04f"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=b6ae4a1bd8f7d5cc0e266620626bf1c2&txTime=641fa04f"
                    }
                    ]
 
