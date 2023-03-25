@@ -8,7 +8,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 25",
             "time": "11:30PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_xsmall.png",
             "hteam" : "Belarus",
