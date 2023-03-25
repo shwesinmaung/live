@@ -4,25 +4,7 @@
   
      
          
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 25",
-            "time": "11:30PM",
-             "isLive": false, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_xsmall.png",
-            "hteam" : "Belarus",
-            "ateam" : "Switzerlands",
-            "link":[
-                   {   "type": " SD",
-                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d74d0d2964241512f594b48b2fe6df74&txTime=641f761f"
-                     },
-                  
-                   {   "type":"HD",
-                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=f4d1238a8a9a724690da635894c96a75&txTime=641f7a1b"
-                    }
-                    ]
-         },
+    
            
            
   {
@@ -50,18 +32,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 26",
             "time": "2:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_xsmall.png",
             "hteam" : "Croatia ",
             "ateam" : "Wales",
             "link":[
                    {  "type": "SD ",
-                      "livelink":"https://3e2c221109f87e7ae4b&sub_m3u8=true&auth_key=1679707675-0-0-553a04e324bd5e990b9f6996e9c92f2d&edge_slice=true"
+                      "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?auth_key=1679794015-0-0-0c50256176ae24c2dca07c82cea709f7&edge_slice=true&user_session_id=68cf0af11957cd8098a2a820f31a93f3&sub_m3u8=true"
                     },
                 
                    {   "type": "HD ",
-                "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?edge_slice=true&auth_key=1679794015-0-0-0c50256176ae24c2dca07c82cea709f7&sub_m3u8=true&user_session_id=322fd96d7734eba2614671852ea062d6"
                    }
                    ]
         },
