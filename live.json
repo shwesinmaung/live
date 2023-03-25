@@ -8,7 +8,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 25",
             "time": "11:30PM",
-             "isLive": true, 
+             "isLive": false, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10057_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_xsmall.png",
             "hteam" : "Belarus",
@@ -29,18 +29,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 26",
             "time": "2:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_xsmall.png",
             "hteam" : "Spain",
             "ateam" : "Norway",
             "link":[
                    {  "type": "SD ",
-                      "livelink":"https://e53dc1th_key=1679707795-0-0-2f6d3c245e7d7137289a8b95d"
-                    },
+                      "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=00dc51af1a1df7dfcbbd11935c539aa9&txTime=641f9eab"                    },
                 
                    {  "type": "HD ",
-                      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+                      "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=00dc51af1a1df7dfcbbd11935c539aa9&txTime=641f9eab"
                    }
                    ]
 
