@@ -1,25 +1,8 @@
 [
          
          
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 25",
-            "time": "8:30PM",
-             "isLive": false, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793_xsmall.png",
-            "hteam" : "Scotland",
-            "ateam" : "Cyprus",
-            "link":[
-                   {  "type": "SD",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=ede0a7ae3dd7afd69dc0dfdd1872733e&txTime=641f4ca3"
-                    },
-                   
-                   {   "type": "HD",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=01a3e0a49aeb4f0cb5b9fae7a098032d&auth_key=1679773615-0-0-7a2b105fee06899c671e0771ae3b5ccc"
-                     }
-                   ]
-      },
+  
+     
          
     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
