@@ -114,18 +114,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 28",
             "time": "1:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_xsmall.png",
             "hteam" : "Sweden",
             "ateam" : "Azerbaijan",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"http"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&auth_key=1679964236-0-0-5085541bec740e47aabf83490365dba3&edge_slice=true&user_session_id=2a587ef09685637735e53c7be00522c2"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"http"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&auth_key=1679964236-0-0-5085541bec740e47aabf83490365dba3&edge_slice=true&user_session_id=2a587ef09685637735e53c7be00522c2"
                    }
                    ]
 
