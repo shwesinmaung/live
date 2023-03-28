@@ -1,26 +1,7 @@
 [
          
          
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "March 28",
-            "time": "7:00AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_xsmall.png",
-            "hteam" : "Chile",
-            "ateam" : "Paraguay",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679983616-0-0-88202948986f8e15f2f80e2ed445c29b&user_session_id=46185ec75dc31150e66a86db540c8f54&sub_m3u8=true&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1679983616-0-0-88202948986f8e15f2f80e2ed445c29b&user_session_id=8804b75c78d1bb74ee74ccf38aa8cb08&sub_m3u8=true&edge_slice=true"
-                   }
-                   ]
-
-        },
+ 
          {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "March 28",
