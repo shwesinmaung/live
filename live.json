@@ -1,131 +1,21 @@
 [
          
-         
- 
-      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 29",
-            "time": "1:15AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_xsmall.png",
-            "hteam" : "Scotland",
-            "ateam" : "Spain",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=fee536fd143e42ebf41a6a9b92f6f60a&txTime=642385d0"
-                   }
-                   ]
-
-        },
-         
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 29",
-            "time": "1:15AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_xsmall.png",
-            "hteam" : "Turkiey",
-            "ateam" : "Croatia",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
-                   }
-                   ]
-
-        },
-         
-         
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 29",
-            "time": "1:15AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_xsmall.png",
-            "hteam" : "Wales",
-            "ateam" : "Latvia",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1680049916-0-0-c4fb888ff0c14301f5f73af17f7f2355&sub_m3u8=true&edge_slice=true&user_session_id=cfe6d724650fb1f414d357b7f346208c"
-                   }
-                   ]
-
-        },
-         
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "March 29",
-            "time": "1:15AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8567_xsmall.png",
-            "hteam" : "Switzerland",
-            "ateam" : "Israel",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?auth_key=1680049076-0-0-7ec26a3b65c01f6ecbaea66618e36c38&user_session_id=1b6c6bf95ba7374113af0ad68ba5d303&edge_slice=true&sub_m3u8=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?auth_key=1680049076-0-0-7ec26a3b65c01f6ecbaea66618e36c38&user_session_id=1b6c6bf95ba7374113af0ad68ba5d303&edge_slice=true&sub_m3u8=true"
-                   }
-                   ]
-
-        },
-       
- 
-         
- {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
-            "date": "March 29",
-            "time": "1:15AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_xsmall.png",
-            "hteam" : "Germany",
-            "ateam" : "Belgium",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?user_session_id=8a50d1d6e1dff8f64195ddf969d367db&edge_slice=true&auth_key=1680048956-0-0-28572d618ee47aad467376c7bd1cfd0a&sub_m3u8=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?edge_slice=true&auth_key=1680048956-0-0-28572d618ee47aad467376c7bd1cfd0a&user_session_id=79beff27cadf308a7298167b40676ae1&sub_m3u8=true"
-                   }
-                   ]
-
-        },
-         
  {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
             "date": "March 29",
             "time": "6:00AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/287981_xsmall.png",
             "hteam" : "Argentina",
             "ateam" : "Curacao",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://spfa04f"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://sp1=641fa04f"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                    }
                    ]
 
