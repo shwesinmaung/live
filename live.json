@@ -6,18 +6,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 29",
             "time": "1:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_xsmall.png",
             "hteam" : "Scotland",
             "ateam" : "Spain",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sp22375c"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://spoe=6422375c"
+                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=fee536fd143e42ebf41a6a9b92f6f60a&txTime=642385d0"
                    }
                    ]
 
@@ -27,18 +27,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 29",
             "time": "1:15AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155_xsmall.png",
             "hteam" : "Turkiey",
             "ateam" : "Croatia",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://l=641fa04f"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://sporam-21=641fa04f"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
                    }
                    ]
 
