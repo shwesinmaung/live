@@ -2,26 +2,7 @@
          
          
  
-         {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
-            "date": "March 28",
-            "time": "4:50PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_xsmall.png",
-            "hteam" : "Japan",
-            "ateam" : "Colombia",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1680019856-0-0-d3e02ef6c637756c86f6646bc7c6fd61&user_session_id=7b291d1d2fc85e87096df78a306590a7&sub_m3u8=true&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1680019856-0-0-d3e02ef6c637756c86f6646bc7c6fd61&user_session_id=a171d6de42f44dbcba939548ce2969c6&sub_m3u8=true&edge_slice=true"
-                   }
-                   ]
-
-        },
+         
          
  {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
@@ -55,11 +36,11 @@
             "ateam" : "Kyrgyzstan",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports05748c"
+                       "livelink":"https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=429fa27bc4fc5dee743e30e70b1cf07d&txTime=64232fcc"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://40221ime=6422348c"
+                       "livelink":"http"
                    }
                    ]
 
