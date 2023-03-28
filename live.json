@@ -3,27 +3,7 @@
          
  
          
-         
- {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
-            "date": "March 28",
-            "time": "5:30PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_xsmall.png",
-            "hteam" : "South Korea",
-            "ateam" : "Uruguay",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?edge_slice=true&user_session_id=5532d1f0ff0b1dd752f262454d14d851&auth_key=1680021656-0-0-56d6c5afed695eaa1dbefeb496668e23&sub_m3u8=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?sub_m3u8=true&auth_key=1680021656-0-0-56d6c5afed695eaa1dbefeb496668e23&edge_slice=true&user_session_id=92fc56bbbff2d0ace9f2b0a1c27d30fe"
-                   }
-                   ]
 
-        },
        
  {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
