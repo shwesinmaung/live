@@ -5,68 +5,7 @@
          
 
        
- {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/int.png",
-            "date": "March 28",
-            "time": "7:00PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6329_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5893_xsmall.png",
-            "hteam" : "India",
-            "ateam" : "Kyrgyzstan",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=429fa27bc4fc5dee743e30e70b1cf07d&txTime=64232fcc"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933.m3u8?txSecret=8fc1b8bffef76f8872b4b97a0e258e1c&txTime=64233440"
-                   }
-                   ]
 
-        },
-         
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
-            "date": "March 28",
-            "time": "7:30PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_xsmall.png",
-            "hteam" : "Malawi",
-            "ateam" : "Egypt",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680029636-0-0-2d617fde3ec1d7745f54ac1914979a04&edge_slice=true&sub_m3u8=true&user_session_id=67e9ebf629a81b583a647dc26344dd06"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680029636-0-0-2d617fde3ec1d7745f54ac1914979a04&edge_slice=true&sub_m3u8=true&user_session_id=67e9ebf629a81b583a647dc26344dd06"
-                   }
-                   ]
-
-        },
-         
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
-            "date": "March 28",
-            "time": "7:30PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5802_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_xsmall.png",
-            "hteam" : "Namibia",
-            "ateam" : "Cameroon",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=b5f7793669a19487c7a8984cd449e08f&txTime=64233878"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=b5f7793669a19487c7a8984cd449e08f&txTime=64233878"
-                   }
-                   ]
-
-        },
          
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
