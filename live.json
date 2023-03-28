@@ -33,11 +33,11 @@
             "ateam" : "Colombia",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://6475dd68=true"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1680019856-0-0-d3e02ef6c637756c86f6646bc7c6fd61&user_session_id=7b291d1d2fc85e87096df78a306590a7&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://675dd6_m3u8=true"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1680019856-0-0-d3e02ef6c637756c86f6646bc7c6fd61&user_session_id=a171d6de42f44dbcba939548ce2969c6&sub_m3u8=true&edge_slice=true"
                    }
                    ]
 
