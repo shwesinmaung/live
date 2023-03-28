@@ -11,18 +11,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "March 28",
             "time": "10:30PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_xsmall.png",
             "hteam" : "Georgia",
             "ateam" : "Norway",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https64236-0-022c2"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"htt&auth_key=be00522c2"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
                    }
                    ]
 
