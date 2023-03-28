@@ -50,18 +50,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
             "date": "March 28",
             "time": "7:30PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6020_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10255_xsmall.png",
             "hteam" : "Malawi",
             "ateam" : "Egypt",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://e53dc1c83a7e458dc"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680029636-0-0-2d617fde3ec1d7745f54ac1914979a04&edge_slice=true&sub_m3u8=true&user_session_id=67e9ebf629a81b583a647dc26344dd06"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"httpon_id=7fbd778c7=27b"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1680029636-0-0-2d617fde3ec1d7745f54ac1914979a04&edge_slice=true&sub_m3u8=true&user_session_id=67e9ebf629a81b583a647dc26344dd06"
                    }
                    ]
 
@@ -71,18 +71,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
             "date": "March 28",
             "time": "7:30PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5802_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6629_xsmall.png",
             "hteam" : "Namibia",
             "ateam" : "Cameroon",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://3c5d992d428f9461"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=b5f7793669a19487c7a8984cd449e08f&txTime=64233878"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://e53d24c6d890&subaf9461"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=b5f7793669a19487c7a8984cd449e08f&txTime=64233878"
                    }
                    ]
 
