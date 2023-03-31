@@ -2,68 +2,7 @@
 
 
          
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-            "date": "April 1",
-            "time": "1:00AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "hteam" : "Frankfurt",
-            "ateam" : "Vfl Bochum",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=b612c5f47860ffaea3c4160c3e9da2b5&txTime=64277528"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=b612c5f47860ffaea3c4160c3e9da2b5&txTime=64277528"
-                   }
-                   ]
-
-        },
-         
-         {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 1",
-            "time": "1:30 AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-            "hteam" : "Mallorca",
-            "ateam" : "Osasuna",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680309236-0-0-da211e2a7e1be1dc012a08185299f8f0&sub_m3u8=true&user_session_id=90d1f5d2d54f28c2799a00564bdc192a"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680309236-0-0-da211e2a7e1be1dc012a08185299f8f0&sub_m3u8=true&user_session_id=90d1f5d2d54f28c2799a00564bdc192a"
-                   }
-                   ]
-
-        },
-         
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 1",
-            "time": "1:30 AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_xsmall.png",
-            "hteam" : "Marseille",
-            "ateam" : "Montpellier",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=b1dbc79083b7906b971cae90caa81b38&edge_slice=true&sub_m3u8=true&auth_key=1680309356-0-0-fee986f1b8a1cc1231e7bd8c793a8375"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=b1dbc79083b7906b971cae90caa81b38&edge_slice=true&sub_m3u8=true&auth_key=1680309356-0-0-fee986f1b8a1cc1231e7bd8c793a8375"
-                   }
-                   ]
-
-        }, 
+   
          
       
   {
