@@ -32,18 +32,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 1",
             "time": "7:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_xsmall.png",
             "hteam" : "Cremonese",
             "ateam" : "Atalanta",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obeunklist.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=2d256636461e5816b47ca2c42a1c1f9a&txTime=64287cd4"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=2d256636461e5816b47ca2c42a1c1f9a&txTime=64287cd4"
                    }
                    ]
 
