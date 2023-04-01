@@ -53,18 +53,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 1",
             "time": "8:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_xsmall.png",
             "hteam" : "Freiburg",
             "ateam" : "Hertha BSC",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179nklist.m3u8"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?auth_key=1680376376-0-0-a35f123c9be46f81d12f759072c9fcb6&user_session_id=86c055c5aae74a746ce3202c63dd42ba&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://11231/chunks.m3u8"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?user_session_id=1033549cacd5b7a8da9a0b2080665044&auth_key=1680376376-0-0-a35f123c9be46f81d12f759072c9fcb6&sub_m3u8=true&edge_slice=true"
                    }
                    ]
 
@@ -138,18 +138,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 1",
             "time": "8:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_xsmall.png",
             "hteam" : "Wolfsburg",
             "ateam" : "Augsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcima.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=066f975d3b280487f6c1acb50b6bb7ec&txTime=642882b0"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906.m3u8?txSecret=066f975d3b280487f6c1acb50b6bb7ec&txTime=642882b0"
                    }
                    ]
 
