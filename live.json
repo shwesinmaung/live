@@ -95,7 +95,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 1",
             "time": "8:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_xsmall.png",
             "hteam" : "Schalke 04",
@@ -117,18 +117,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 1",
             "time": "8:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_xsmall.png",
             "hteam" : "Union Berlin",
             "ateam" : "Vfb Stuttgart",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://ob.m3u8"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1680376976-0-0-2448144046183b64b34c45a4e91be88d&user_session_id=4820e34207a1740ef019a2786668c4bd&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://112313928m3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lhd.m3u8?edge_slice=true&auth_key=1680376976-0-0-2448144046183b64b34c45a4e91be88d&sub_m3u8=true&user_session_id=f69929136ab184370ae326d3df809e00"
                    }
                    ]
 
