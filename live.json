@@ -1,97 +1,7 @@
 [
          
  
-         
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
-            "date": "April 1",
-            "time": "10:30 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "hteam" : "Inter",
-            "ateam" : "Fiorentina",
-            "link":[ {   "type": "SD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1680384871-0-0-6d1d90d489d0f84be0f0ca05f6b8e009&sub_m3u8=true&user_session_id=b26d8f63ea92a8343015382ae495ca55&edge_slice=true"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-                   }
-                   ]
-
-        },
-         
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
-            "date": "April 1",
-            "time": "11:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_xsmall.png",
-            "hteam" : "Bayern Munchen",
-            "ateam" : "Dortmund",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=53eb1505b31c3a2a1ba6b07441ce0445&txTime=6428ac2c"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                   }
-                   ]
-
-        }, 
-         
-      
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 1",
-            "time": "11:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_xsmall.png",
-            "hteam" : "Cadiz",
-            "ateam" : "Sevilla",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1680387296-0-0-f181d79c41f8b3a936283df5ab4876ac&sub_m3u8=true&user_session_id=d43a8e2d07296e69dea6af38f239fed1&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&auth_key=1680387296-0-0-f181d79c41f8b3a936283df5ab4876ac&sub_m3u8=true&user_session_id=855ccddcdc282c37c521dd94d8be8022"
-                   }
-                   ]
-
-        },
-         
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
-            "date": "April 1",
-            "time": "11:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_xsmall.png",
-            "hteam" : "Chelsea",
-            "ateam" : "Aston Villa",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=2ce62f7932cdaa61e5f4122abe9f8d68&auth_key=1680386996-0-0-f6bcf4df65a2d021f0e81c5dba6c38e5&edge_slice=true"
-                   },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                   }
-                   ]
-
-        },        
+   
   
   {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
@@ -147,7 +57,7 @@
             "ateam" : "Lens",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcu8"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may7/chunks.m3u8"
                      },
                   
                    {   "type": "HD ",
