@@ -1,26 +1,6 @@
 [
          
-  
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 1",
-            "time": "8:45 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_xsmall.png",
-            "hteam" : "Athletic Club",
-            "ateam" : "Getafe",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=465a125e05d185b5ca77ec6f34eaddc0&auth_key=1680379196-0-0-4d5277a146709ac1a36f716be0dd86c3&sub_m3u8=true&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
-                   }
-                   ]
-
-        },
+ 
          
     {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
