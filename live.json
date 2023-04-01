@@ -17,6 +17,10 @@
                   
                    {   "type": "HD ",
                        "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f4ef405a4c232a06c9455964b4075506&txTime=642863c0"
+                   },
+                  
+                   {   "type": "FHD ",
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may133FHD/chunklist.m3u8"
                    }
                    ]
 
