@@ -7,18 +7,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 2",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_xsmall.png",
             "hteam" : "Juventus",
             "ateam" : "Hellas Verona",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimanyu8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&user_session_id=5161131c584bc454e841c100b7c59d63&edge_slice=true&auth_key=1680395456-0-0-521bf3a6e2a414fd69cc84bcb01258d4"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
                    }
                    ]
 
@@ -29,18 +29,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 2",
             "time": "1:30 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_xsmall.png",
             "hteam" : "Elche",
             "ateam" : "Barcelona",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimanm3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=83dafea8382ec6aad4dba15dc9f92787&auth_key=1680395816-0-0-7ddef5769a067ad5f72429ec73fed594"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.u8"
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                    }
                    ]
 
@@ -50,7 +50,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 2",
             "time": "1:30 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_xsmall.png",
             "hteam" : "Rennes",
@@ -61,7 +61,7 @@
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?sub_m3u8=true&user_session_id=00dbbd9dc12c61bb7b72d2df80499e14&edge_slice=true&auth_key=1680395756-0-0-0161f84dfb8c26ab0ebf7294b4a15810"
                    }
                    ]
 
