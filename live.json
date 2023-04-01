@@ -1,31 +1,6 @@
 [
 
 
-{
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
-            "date": "April 1",
-            "time": "6:00 PM",
-            "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_xsmall.png",
-            "hteam" : "Man City",
-            "ateam" : "Liverpool",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=95cb3d8d9491c6e870a1ce650eb523c7&txTime=64286384"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f4ef405a4c232a06c9455964b4075506&txTime=642863c0"
-                   },
-                  
-                   {   "type": "FHD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may133FHD/chunklist.m3u8"
-                   }
-                   ]
-
-        },
-         
          
        
   {
