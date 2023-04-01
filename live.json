@@ -26,27 +26,8 @@
 
         },
          
-         {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 1",
-            "time": "6:30 PM",
-            "isLive": false, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_xsmall.png",
-            "hteam" : "Girona",
-            "ateam" : "Espanyol",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://ob/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
-                   }
-                   ]
-
-        },
          
+       
   {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 1",
