@@ -74,18 +74,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 1",
             "time": "8:00 Pm",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_xsmall.png",
             "hteam" : "RB Leipzig",
             "ateam" : "Mainz",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevciu8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1680375896-0-0-d2b8dfb5320d677af54003f795552b88&user_session_id=0ed5a92692208e2cb19bb3daeaf2a5f6&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=8a039d8456d5a1974fcb637a0d164caf&auth_key=1680375896-0-0-d2b8dfb5320d677af54003f795552b88&edge_slice=true"
                    }
                    ]
 
