@@ -140,7 +140,9 @@
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "hteam" : "Inter",
             "ateam" : "Fiorentina",
-            "link":[
+            "link":[ {   "type": "SD ",
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1680384871-0-0-6d1d90d489d0f84be0f0ca05f6b8e009&sub_m3u8=true&user_session_id=b26d8f63ea92a8343015382ae495ca55&edge_slice=true"
+                     },
                    {   "type": "SD ",
                        "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
                      },
