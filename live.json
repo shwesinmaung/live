@@ -66,18 +66,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 2",
             "time": "10:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_xsmall.png",
             "hteam" : "Werder Bremen",
             "ateam" : "Hoffenheim",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1680469676-0-0-17d78a2c604bb9498ef0332c3392ef4e&edge_slice=true&sub_m3u8=true&user_session_id=1a1c5b5832a1a193a9f68a5929895f86"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?sub_m3u8=true&auth_key=1680469676-0-0-17d78a2c604bb9498ef0332c3392ef4e&user_session_id=037041b776f05eaf26145608299b544a&edge_slice=true"
                    }
                    ]
 
@@ -95,11 +95,11 @@
             "ateam" : "Man United",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimt.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3b6ccc107e462acd4d9c5de7c677519e&txTime=6429eee8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cnks.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3b6ccc107e462acd4d9c5de7c677519e&txTime=6429eee8"
                    }
                    ]
 
