@@ -112,18 +112,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 2",
             "time": "8:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_xsmall.png",
             "hteam" : "Koln",
             "ateam" : "Mgladbach",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimanyd13u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8"
                    }
                    ]
 
