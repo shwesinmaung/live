@@ -46,18 +46,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 2",
             "time": "6:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_xsmall.png",
             "hteam" : "Celta Vigo",
             "ateam" : "Almeria",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimast.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=f7078cfbc100df5696fe3a5f568b2996&txTime=6429bea0"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139s.m3u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
                    }
                    ]
 
