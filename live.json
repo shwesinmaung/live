@@ -24,18 +24,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 2",
             "time": "5:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_xsmall.png",
             "hteam" : "Lille",
             "ateam" : "Lorient",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcim3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?edge_slice=true&auth_key=1680453776-0-0-a1c0d71ccb26c4821d7b5a65cfc460d2&user_session_id=3201c86b25dadcf20b7a86951400fe41&sub_m3u8=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?edge_slice=true&auth_key=1680453776-0-0-a1c0d71ccb26c4821d7b5a65cfc460d2&user_session_id=44601200564ab1ffe49ab43b6f6c54e6&sub_m3u8=true"
                    }
                    ]
 
