@@ -2,90 +2,10 @@
    
           
   
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-            "date": "April 2",
-            "time": "10:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_xsmall.png",
-            "hteam" : "Werder Bremen",
-            "ateam" : "Hoffenheim",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1680469676-0-0-17d78a2c604bb9498ef0332c3392ef4e&edge_slice=true&sub_m3u8=true&user_session_id=1a1c5b5832a1a193a9f68a5929895f86"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?sub_m3u8=true&auth_key=1680469676-0-0-17d78a2c604bb9498ef0332c3392ef4e&user_session_id=037041b776f05eaf26145608299b544a&edge_slice=true"
-                   }
-                   ]
-
-        }, 
          
       
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 2",
-            "time": "10:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-            "hteam" : "Newcastle",
-            "ateam" : "Man United",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3b6ccc107e462acd4d9c5de7c677519e&txTime=6429eee8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=3b6ccc107e462acd4d9c5de7c677519e&txTime=6429eee8"
-                   }
-                   ]
-
-        },
          
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 2",
-            "time": "10:30 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_xsmall.png",
-            "hteam" : "Roma",
-            "ateam" : "Sampdoria",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?auth_key=1680471956-0-0-930788f0cd2e5e35d2d01e23283ca456&sub_m3u8=true&user_session_id=2933eaba9dd2c3ccd7df9d878960086d&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?auth_key=1680471956-0-0-930788f0cd2e5e35d2d01e23283ca456&user_session_id=2cad3fe09065cc61f5971286b67d3ec8&sub_m3u8=true&edge_slice=true"
-                   }
-                   ]
-
-        },
          
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 2",
-            "time": "11:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-            "hteam" : "Villarreal",
-            "ateam" : "real Sociedad",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1680473636-0-0-660e4f1288f2f71bc0da7aef10dccc9a&edge_slice=true&sub_m3u8=true&user_session_id=96485a986166256f4c0030c1de4da203"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1680473636-0-0-660e4f1288f2f71bc0da7aef10dccc9a&edge_slice=true&sub_m3u8=true&user_session_id=602c7f1f8630fbbfb56a64595fd7bceb"
-                   }
-                   ]
-
-        }, 
          
       
   {
