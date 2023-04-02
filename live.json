@@ -1,47 +1,6 @@
 [
    
           
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 2",
-            "time": "8:45 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_xsmall.png",
-            "hteam" : "Real Madrid",
-            "ateam" : "Real Valladolid",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d07e9a093eb2d5443343f8cf01a0f348&auth_key=1680465116-0-0-6a369d21db757fa55646439cda3b81d0"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d07e9a093eb2d5443343f8cf01a0f348&auth_key=1680465116-0-0-6a369d21db757fa55646439cda3b81d0"
-                   }
-                   ]
-
-        },
-         
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-            "date": "April 2",
-            "time": "9:35 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_xsmall.png",
-            "hteam" : "Monaco",
-            "ateam" : "Strasbourg",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1680468596-0-0-b24754993baa65585a1006ded96b8556&edge_slice=true&sub_m3u8=true&user_session_id=9ded3c4fb41ab952e271585269abb4a9"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?sub_m3u8=true&auth_key=1680468596-0-0-b24754993baa65585a1006ded96b8556&user_session_id=f4a02599343c0cc768bb9214bf2152fe&edge_slice=true"
-                   }
-                   ]
-
-        },        
   
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
