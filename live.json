@@ -3,68 +3,6 @@
           
   
          
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 4",
-            "time": "1:15 AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_xsmall.png",
-            "hteam" : "Sassuolo",
-            "ateam" : "Torino",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may82/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may82/chunklist.m3u8"
-                   }
-                   ]
-
-        },
-         
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 4",
-            "time": "1:30 AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_xsmall.png",
-            "hteam" : "Valencia",
-            "ateam" : "Rayo Vallecano",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
-                   }
-                   ]
-
-        },        
-  
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 4",
-            "time": "1:30 AM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_xsmall.png",
-            "hteam" : "Everton",
-            "ateam" : "Tottenham",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                   }
-                   ]
-
-        },        
   
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
