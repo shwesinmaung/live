@@ -5,18 +5,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 3",
             "time": "11:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_xsmall.png",
             "hteam" : "Empoli",
             "ateam" : "Lecce",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?sub_m3u8=true&auth_key=1680560156-0-0-f7d60dd4454740348111e731d3aa1b9a&user_session_id=d9e728baf309e50c41ed000e5b5d2cad&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
                    }
                    ]
 
