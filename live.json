@@ -26,18 +26,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 4",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_xsmall.png",
             "hteam" : "Sassuolo",
             "ateam" : "Torino",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevcimanyd13u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
                    }
                    ]
 
