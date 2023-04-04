@@ -1,24 +1,5 @@
 [ 
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
-            "date": "April 4",
-            "time": "10:30 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
-            "hteam" : "Frankfurt",
-            "ateam" : "Union Berlin",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=79416563337c8ce715039b0a5d73f829&txTime=642c9a58"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=79416563337c8ce715039b0a5d73f829&txTime=642c9a58"
-                   }
-                   ]
-
-        },
+  
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
             "date": "April 5",
