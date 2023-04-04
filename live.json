@@ -4,18 +4,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
             "date": "April 5",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
             "hteam" : "Bayern Munchen",
             "ateam" : "Freiburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-208390.m3u8?txSecret=01dbc7d64ae3d935189c5fb72bfa12ad&txTime=642cbe34"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-208390.m3u8?txSecret=01dbc7d64ae3d935189c5fb72bfa12ad&txTime=642cbe34"
                    }
                    ]
 
@@ -26,18 +26,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 5",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_xsmall.png",
             "hteam" : "Bournemouth",
             "ateam" : "Brighton",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=593aeeed879af01a23171cf6ab4a5803&txTime=642cbdf8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=593aeeed879af01a23171cf6ab4a5803&txTime=642cbdf8"
                    }
                    ]
 
@@ -47,18 +47,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 5",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_xsmall.png",
             "hteam" : "Leeds",
             "ateam" : "Nottm Forest",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&user_session_id=1617e5fd72142c9fe7cd364d966ec598&auth_key=1680654056-0-0-f56e7a95181485b1a702b5e90f3453e8&sub_m3u8=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680654056-0-0-f56e7a95181485b1a702b5e90f3453e8&sub_m3u8=true&user_session_id=e6b416a63cca0898cb3afb1ff8c17e02"
                    }
                    ]
 
@@ -68,18 +68,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 5",
             "time": "1:15 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_xsmall.png",
             "hteam" : "Leicester",
             "ateam" : "Aston Villa",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?sub_m3u8=true&user_session_id=d2c9bcc72fc85db79d9a88fd88fb09d8&auth_key=1680653936-0-0-b06d66d394555edeb2cbdd7c72147691&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?sub_m3u8=true&user_session_id=5bb78648860def5653b73976811cd8eb&auth_key=1680653936-0-0-b06d66d394555edeb2cbdd7c72147691&edge_slice=true"
                    }
                    ]
 
