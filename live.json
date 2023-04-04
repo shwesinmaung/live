@@ -89,18 +89,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/138.png",
             "date": "April 5",
             "time": "1:30 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "hteam" : "Athletic Club",
             "ateam" : "Osasuna",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=6d5af08f7b0ce8c51c588cd71c751b7e&txTime=642cc26c"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=6d5af08f7b0ce8c51c588cd71c751b7e&txTime=642cc26c"
                    }
                    ]
 
@@ -111,18 +111,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
             "date": "April 5",
             "time": "1:30 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
             "hteam" : "Juventus",
             "ateam" : "Inter",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?user_session_id=5d281991c9923906a87a86e86adadd9e&auth_key=1680655187-0-0-6a49ae98e20c9141b7a607cb0d4b6b07&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?edge_slice=true&auth_key=1680655187-0-0-6a49ae98e20c9141b7a607cb0d4b6b07&sub_m3u8=true&user_session_id=eecfd8d6f61dff54aa2c4673c07abc1c"
                    }
                    ]
 
@@ -132,18 +132,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 5",
             "time": "1:30 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_xsmall.png",
             "hteam" : "Chelsea",
             "ateam" : "liverpool",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://obevc.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=9ce90505407019e12be887dd78d654c9&txTime=642cc1b8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khm3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=9ce90505407019e12be887dd78d654c9&txTime=642cc1b8"
                    }
                    ]
 
