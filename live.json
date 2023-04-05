@@ -113,18 +113,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
             "date": "April 6",
             "time": "1:40 AM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
             "hteam" : "Nantes",
             "ateam" : "Lyon",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?edge_slice=true&auth_key=1680741777-0-0-99683bcdfc77bdd456d8a75eace5e39e&sub_m3u8=true&user_session_id=4ae061154e3e402aa2e1e7d6b76433e2"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may82/chunklist.m3u8"
                    }
                    ]
         },  
