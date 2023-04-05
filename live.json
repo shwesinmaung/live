@@ -1,4 +1,23 @@
-[  
+[   {
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
+            "date": "April 5",
+            "time": "10:30 PM",
+             "isLive": false, 
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+            "hteam" : "1.FC Nurnberg",
+            "ateam" : "VfB Stuttgart",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":"https://obevc.m3u8"
+                     },
+                  
+                   {   "type": "HD ",
+                       "livelink":"https://1123139281.cdn.khm3u8"
+                   }
+                   ]
+
+        },  
  
   
   
