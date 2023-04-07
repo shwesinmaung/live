@@ -34,11 +34,11 @@
             "ateam" : "Napoli",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1680907257-0-0-e0385275d5bf0da735efc7a86bff10f9&sub_m3u8=true&user_session_id=d39dad2a34094af2c4b52ae7b8213a16"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&auth_key=1680907257-0-0-e0385275d5bf0da735efc7a86bff10f9&sub_m3u8=true&user_session_id=d39dad2a34094af2c4b52ae7b8213a16"
                    }
                    ]
 
