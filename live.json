@@ -6,18 +6,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 7",
             "time": "9:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
             "hteam" : "Salernitana",
             "ateam" : "Inter",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1680899997-0-0-2f674a78c8a1421f20d9004ede3bb292&user_session_id=458dcd0515f5c1b68addaebdced986c6&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1680899997-0-0-2f674a78c8a1421f20d9004ede3bb292&user_session_id=458dcd0515f5c1b68addaebdced986c6&sub_m3u8=true&edge_slice=true"
                    }
                    ]
 
