@@ -47,18 +47,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 8",
             "time": "6:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
             "hteam" : "Osasuna",
             "ateam" : "Elche",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=e4247b1b998d997dbd103737463e16d4&txTime=6431a729"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=e4247b1b998d997dbd103737463e16d4&txTime=6431a729"
                    }
                    ]
 
