@@ -1,25 +1,6 @@
 [  
            
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 8",
-            "time": "5:00  PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
-            "hteam" : "Udinese",
-            "ateam" : "Monza",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=9eb11bb494a1a421cde6d70cae10198a&txTime=64319abd"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-                   }
-                   ]
-
-        },
+  
          
          
   {
