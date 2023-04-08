@@ -3,25 +3,7 @@
  
 
 
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 8",
-            "time": "8:45 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-            "hteam" : "Espanyol",
-            "ateam" : "Athletic Club",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
-                   }
-                   ]
-        },        
+
   
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
