@@ -1,53 +1,6 @@
 [  
            
  
-
-
-
-  
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 8",
-            "time": "9:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_xsmall.png",
-            "hteam" : "Atalanta",
-            "ateam" : "Bologna",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=a4ba5e5675a0bd72c35bc279c8953dda&txTime=6431ce4d"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-                   }
-                   ]
-
-        },
-         
-         
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 8",
-            "time": "9:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801.png",
-            "hteam" : "Sampdoria",
-            "ateam" : "Cremonese",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1680984897-0-0-a3de2db49c8e2f4ea2f4517c19c4a178&user_session_id=e2ab44b71eae0fbcc018e68c0a9ff560&sub_m3u8=true&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8"
-                   }
-                   ]
-
-        },        
-  
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 8",
