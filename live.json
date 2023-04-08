@@ -64,25 +64,6 @@
 
         },
 
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 8",
-            "time": "7:00 PM",
-             "isLive": false, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881.png",
-            "hteam" : "Fiorentina",
-            "ateam" : "Spezia",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":""
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":""
-                   }
-                   ]
-        },
 
 {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
