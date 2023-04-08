@@ -296,18 +296,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 8",
             "time": "9:30 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_xsmall.png",
             "hteam" : "Angers",
             "ateam" : "Lille",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=2244abe79cfad267c3b132f472e44ad6&txTime=6431d285"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=2244abe79cfad267c3b132f472e44ad6&txTime=6431d285"
                    }
                    ]
 
