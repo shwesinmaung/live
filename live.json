@@ -1,29 +1,6 @@
 [  
            
-  
-         
-         
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 8",
-            "time": "6:00 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "hteam" : "Man United",
-            "ateam" : "Everton",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-229285_lhd.m3u8?auth_key=1680974277-0-0-d349431bcdd41b49156a09433215e649&edge_slice=true&sub_m3u8=true&user_session_id=1cc5cbe8ce335e568d9bfb52f6beef7e"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                   }
-                   ]
-
-        },        
-  
+ 
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 8",
