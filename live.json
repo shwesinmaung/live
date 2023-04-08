@@ -1,26 +1,7 @@
 [  
            
  
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 8",
-            "time": "6:30 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-            "hteam" : "Osasuna",
-            "ateam" : "Elche",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=e4247b1b998d997dbd103737463e16d4&txTime=6431a729"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=e4247b1b998d997dbd103737463e16d4&txTime=6431a729"
-                   }
-                   ]
-
-        },        
+ 
 
     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
@@ -163,7 +144,7 @@
                      },
                   
                    {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may16/chunklist.m3u8"
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-368932_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680983997-0-0-040ba88e8c86ffc5c87b31608de0d83d&user_session_id=416666892c4584a8b3b24758956fd3a1"
                    }
                    ]
         },
