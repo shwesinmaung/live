@@ -26,18 +26,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 8",
             "time": "6:00 PM",
-             "isLive": false, 
+             "isLive": true, 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
             "hteam" : "Man United",
             "ateam" : "Everton",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
                    }
                    ]
 
