@@ -139,7 +139,7 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
             "hteam" : "Troyes",
-            "ateam" : "Clermont foot",
+            "ateam" : "Clermont Foot",
             "link":[
                    {   "type": "SD ",
                        "livelink":""
@@ -245,8 +245,8 @@
              "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-            "hteam" : "Vfl Bochum",
-            "ateam" : "Vfb Stuttgart",
+            "hteam" : "VfL Bochum",
+            "ateam" : "VfB Stuttgart",
             "link":[
                    {   "type": "SD ",
                        "livelink":""
@@ -312,7 +312,7 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "hteam" : "Lorient",
-            "ateam" : "Marsemille",
+            "ateam" : "Marseille",
             "link":[
                    {   "type": "SD ",
                        "livelink":""
@@ -355,7 +355,7 @@
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582749_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "hteam" : "Al Feiha",
-            "ateam" : "Al nassr Fc",
+            "ateam" : "Al Nassr Fc",
             "link":[
                    {   "type": "SD ",
                        "livelink":""
@@ -366,7 +366,7 @@
                    }
                    ]
 
-        },
+        }
 
   
   ]
