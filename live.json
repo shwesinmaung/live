@@ -92,18 +92,18 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 9",
             "time": "10:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
             "hteam" : "VfL Bochum",
             "ateam" : "VfB Stuttgart",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1681075317-0-0-70da5bd59d871328ebc43121484da3c0&user_session_id=6db3e3428a06a11c71fe3206c806ed1c&sub_m3u8=true&edge_slice=true"
                      },
                   
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1681075317-0-0-70da5bd59d871328ebc43121484da3c0&edge_slice=true&user_session_id=f70b070fb73e977b2f0e808b75efcde8&sub_m3u8=true"
                    }
                    ]
 
