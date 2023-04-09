@@ -2,27 +2,6 @@
            
 
 
-       
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-            "date": "April 9",
-            "time": "8:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-            "hteam" : "M'gladbach",
-            "ateam" : "Wolfsburg",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-195586_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681069737-0-0-9471e2a82359424caeba1137809062ea&user_session_id=de7904ff84f68a74baeb0186127f4257"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may100FHD/chunklist.m3u8"
-                   }
-                   ]
-
-        },
 
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
