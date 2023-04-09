@@ -1,29 +1,6 @@
 [  
            
  
- 
-
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-            "date": "April 9",
-            "time": "5:30 PM",
-             "isLive": true, 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-            "hteam" : "Lyon",
-            "ateam" : "Rennes",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=59cd02df8f5e08fb5b07fa9371696345&txTime=6432e931"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
-                   }
-                   ]
-
-        },        
-  
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 9",
