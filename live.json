@@ -1,40 +1,5 @@
 [  
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-            "date": "April 12",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-            "hteam" : "Benfica",
-            "ateam" : "Inter",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115493.m3u8?txSecret=36a0f78b7735f3b89f0c18138e73eac5&txTime=6435ff81"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                   }
-                   ]
-       },
-       {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-            "date": "April 12",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-            "hteam" : "Man City",
-            "ateam" : "Bayern Munchen",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-229285_lhd.m3u8?user_session_id=34af46a5e63573679ab5be9c2382d12a&edge_slice=true&sub_m3u8=true&auth_key=1681260117-0-0-d55249cdb9b5c683e6b6b6161097aab7"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-                   }
-                   ]
-     },
+
     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "April 13",
