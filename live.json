@@ -1,26 +1,6 @@
 [  
  
 
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 11",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-            "hteam" : "Barcelona",
-            "ateam" : "Girona",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=f1fd9ed21f4e46a5154e1a60ce4b0188&auth_key=1681173837-0-0-4948772ca3386e16d8270bdc3ccb3346&sub_m3u8=true&edge_slice=true"
-                     },
-                  
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=c62f29e311d991c9f028a1211a4654a9&sub_m3u8=true&auth_key=1681173837-0-0-4948772ca3386e16d8270bdc3ccb3346&edge_slice=true"
-                   }
-                   ]
-
-        },
 
   
   {
