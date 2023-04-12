@@ -1,41 +1,6 @@
 [  
 
-    {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-            "date": "April 13",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "hteam" : "AC Milan",
-            "ateam" : "Napoli",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?edge_slice=true&auth_key=1681346037-0-0-7d6f3b75dcd08cf8238903ee11148c90&sub_m3u8=true&user_session_id=25dc35b1eb787fea3f295a037e63ef3a"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                   }
-                   ]
-    },
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-            "date": "April 13",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-            "hteam" : "Real Madrid",
-            "ateam" : "Chelsea",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-167414_lhd.m3u8?auth_key=1681345917-0-0-a825837b39f56d2a97e797c26bd88c89&sub_m3u8=true&user_session_id=2122a553cbf2b6f8dec70fb5ec108c80&edge_slice=true"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                   }
-                   ]
-      } ,
+  
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
             "date": "April 13",
