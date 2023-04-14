@@ -41,17 +41,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 15",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
             "hteam" : "Spezia",
             "ateam" : "Lazio",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?auth_key=1681518051-0-0-4cce85038da136069efd9fee577a8772&sub_m3u8=true&user_session_id=96de9aa2363d142a590649c1914dbe1d&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681518051-0-0-4cce85038da136069efd9fee577a8772&user_session_id=721f06507ead422a39c3cff178c7f518"
                    }
                    ]
     },
