@@ -1,24 +1,6 @@
 [  
 
-  
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 15",
-            "time": "6:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-            "hteam" : "Aston Villa",
-            "ateam" : "Newcastle",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-229285_lhd.m3u8?user_session_id=108b17ddc0914145e4529d7eb41608fd&sub_m3u8=true&edge_slice=true&auth_key=1681577913-0-0-baf4b1ced72c913a025769b178837c38"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                   }
-                   ]
-    },
+ 
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 15",
