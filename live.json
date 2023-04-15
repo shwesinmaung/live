@@ -204,17 +204,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 15",
             "time": "9:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_xsmall.png",
             "hteam" : "Rennes",
             "ateam" : "Reims",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1681591833-0-0-49088b5c1152030ef627edc15c91b617&sub_m3u8=true&edge_slice=true&user_session_id=63721b59f6010d2715ee30a2ea0607ab"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?user_session_id=e3576e9f21d25749160350720e73e86f&sub_m3u8=true&auth_key=1681592146-0-0-1e4d0d922df0879de819bf28333eb4b7&edge_slice=true"
                    }
                    ]
     },
