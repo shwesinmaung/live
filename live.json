@@ -23,17 +23,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 15",
             "time": "6:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281.png",
             "hteam" : "Villarreal",
             "ateam" : "Real Valladolid",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?auth_key=1681580553-0-0-75268515c4cb66d95ba869877e201543&sub_m3u8=true&user_session_id=66c9001e7991e175cad6b2015d1fcef8&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8"
                    }
                   ]
       },
