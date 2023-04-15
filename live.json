@@ -41,17 +41,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 15",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_xsmall.png",
             "hteam" : "Bologna",
             "ateam" : "AC Milan",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=0a58904c0b6d2c1dc676ff3f5c8e84a1&txTime=643af019"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
                    }
                    ]
     },
