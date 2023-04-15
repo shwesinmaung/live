@@ -66,10 +66,10 @@
             "ateam" : "Hoffenheim",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?sub_m3u8=true&user_session_id=006e46eb4ac695504fdfc31130ad0d4e&edge_slice=true&auth_key=1681585773-0-0-6d7a02a44dde3cb4ee83da56507c5fe3"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
                    }
                    ]
       },
@@ -84,10 +84,10 @@
             "ateam" : "Mainz",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?edge_slice=true&auth_key=1681585893-0-0-bc13ca0ec4fb02b1d076559618193ca0&sub_m3u8=true&user_session_id=9249c3e0a016daa068c7fe26116255e0"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may61/chunks.m3u8"
                    }
                    ]
        },
@@ -102,10 +102,10 @@
             "ateam" : "Augsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?auth_key=1681585953-0-0-3f8765304960efe8ffb121704ad628da&sub_m3u8=true&edge_slice=true&user_session_id=3e6d5952f61b232ecedae03fb44ef482"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=29788a4b1563087ba4d0f9b1a9a91634&auth_key=1681586386-0-0-4d0caff9f1a128afc734a4fd91f2a1f6"
                    }
                    ]
       },
@@ -120,10 +120,10 @@
             "ateam" : "Dortmund",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681586013-0-0-706b42a10c25e58cfe295d08bf9a5f93&user_session_id=a418a180e099307bb5c0252efc540255"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1681586266-0-0-b67829104633e181b410366898ff9f0c&sub_m3u8=true&user_session_id=c3560246ac46310eb3a3d786a5cfbf57&edge_slice=true"
                    }
                    ]
    },
