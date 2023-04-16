@@ -3,24 +3,6 @@
  
     
      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-            "date": "April 16",
-            "time": "10:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-            "hteam" : "Union Berlin",
-            "ateam" : "VfL Bochum",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?sub_m3u8=true&auth_key=1681679434-0-0-f1aff04579db48fee798d36ca0ca5826&edge_slice=true&user_session_id=e3ef21fbed695ce91593c103332a7ef2"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?sub_m3u8=true&user_session_id=d0526aea409d9e99864551f4652cff08&auth_key=1681679434-0-0-f1aff04579db48fee798d36ca0ca5826&edge_slice=true"
-                   }
-                   ]
-       },
-     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 16",
             "time": "10:00 PM",
