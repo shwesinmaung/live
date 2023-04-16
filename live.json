@@ -68,10 +68,10 @@
             "ateam" : "Sevilla",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681691734-0-0-f47b72f3ba2cef3817effe750533fe21&user_session_id=0dfab5b196856c87d5d243354a5fa049"
                      },
                    {   "type": "HD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681691734-0-0-f47b72f3ba2cef3817effe750533fe21&user_session_id=1a3c82f2b194c11fed333da79ccb8122"
                    }
                    ]
        },
