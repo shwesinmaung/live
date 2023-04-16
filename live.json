@@ -2,24 +2,6 @@
   
  
     
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 16",
-            "time": "8:45 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_xsmall.png",
-            "hteam" : "Gatafe",
-            "ateam" : "Barcelona",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=a518556303c80c420952c0090f01a4d7&txTime=643c53a6"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=a518556303c80c420952c0090f01a4d7&txTime=643c53a6"
-                   }
-                   ]
-      },
      {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 16",
