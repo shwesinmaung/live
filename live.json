@@ -3,24 +3,6 @@
  
     
      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-            "date": "April 16",
-            "time": "9:35 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_xsmall.png",
-            "hteam" : "Monaco",
-            "ateam" : "Lorient",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-197901_lhd.m3u8?sub_m3u8=true&user_session_id=ff76ff3fd9628e12761ac61da33c12ca&edge_slice=true&auth_key=1681678534-0-0-fd0114786c7b780e232d57d55eeeca10"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-197901_lhd.m3u8?sub_m3u8=true&user_session_id=ff76ff3fd9628e12761ac61da33c12ca&edge_slice=true&auth_key=1681678534-0-0-fd0114786c7b780e232d57d55eeeca10"
-                   }
-                   ]
-       },
-     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 16",
             "time": "10:00 PM",
