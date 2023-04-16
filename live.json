@@ -96,17 +96,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 16",
             "time": "10:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
             "hteam" : "Union Berlin",
             "ateam" : "VfL Bochum",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?sub_m3u8=true&auth_key=1681679434-0-0-f1aff04579db48fee798d36ca0ca5826&edge_slice=true&user_session_id=e3ef21fbed695ce91593c103332a7ef2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?sub_m3u8=true&user_session_id=d0526aea409d9e99864551f4652cff08&auth_key=1681679434-0-0-f1aff04579db48fee798d36ca0ca5826&edge_slice=true"
                    }
                    ]
        },
@@ -114,17 +114,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 16",
             "time": "10:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "hteam" : "Nottm Forest",
             "ateam" : "Man United",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681679374-0-0-6e8c4c2d81e9821f3198a99dc31ae8ab&user_session_id=ac30651a87337b563898ba026bb43651"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681679374-0-0-6e8c4c2d81e9821f3198a99dc31ae8ab&user_session_id=de76e19f984e7690ca6d4ae7c4c31ed4"
                    }
                    ]
     },
