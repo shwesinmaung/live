@@ -3,42 +3,6 @@
  
     
      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 16",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_xsmall.png",
-            "hteam" : "West Ham",
-            "ateam" : "Arsenal",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681670254-0-0-f2f9e60eefcc79268139443a05057f43&user_session_id=3a25f61508520c9fb959a9ff2a865ab0"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-                   }
-                   ]
-       },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 16",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_xsmall.png",
-            "hteam" : "Torino",
-            "ateam" : "Salernitana",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=ce496625b8db059bc6637a5c71b7e1ef&txTime=643c442e"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may82/chunklist.m3u8"
-                   }
-                   ]
-       },
-     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 16",
             "time": "8:00 PM",
