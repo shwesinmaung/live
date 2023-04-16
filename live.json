@@ -4,24 +4,6 @@
     
      
      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 16",
-            "time": "11:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
-            "hteam" : "Atletico Madrid",
-            "ateam" : "Almeria",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3984bf230e1653500f69ed25069ea910&auth_key=1681683274-0-0-b405a161451ea0032ef49ce6cffd208a"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=943abdea47ba0a502615915058c07238&auth_key=1681683274-0-0-b405a161451ea0032ef49ce6cffd208a"
-                   }
-                   ]
-       },
-     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 17",
             "time": "12:00 AM",
@@ -43,17 +25,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 17",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "hteam" : "Marseille",
             "ateam" : "Troyes",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=4e60f384b48060d96ff95d8f2886d0c6&txTime=643c93a2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=4e60f384b48060d96ff95d8f2886d0c6&txTime=643c93a2"
                    }
                    ]
     },
@@ -61,17 +43,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 17",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "hteam" : "Roma",
             "ateam" : "Udinese",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fdb4a84699ca702c2b8f143032aa3867&auth_key=1681691614-0-0-3dc5158fd33a726234dc2e4e9e19bb55"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-161243_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cc5aa1aa409bd3d06cbda4e2604446a0&auth_key=1681691614-0-0-3dc5158fd33a726234dc2e4e9e19bb55"
                    }
                    ]
       },
@@ -86,10 +68,10 @@
             "ateam" : "Sevilla",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
