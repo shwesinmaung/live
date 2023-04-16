@@ -133,17 +133,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 16",
             "time": "8:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_xsmall.png",
             "hteam" : "Werder Bremen",
             "ateam" : "Frieburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&user_session_id=1d01395a82b3b0e4fbc7ef5254064045&auth_key=1681672294-0-0-88871d37d0589f0e461e808571904089&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&user_session_id=fe9977f499d69f2a152adc210c46e62e&auth_key=1681672294-0-0-88871d37d0589f0e461e808571904089&edge_slice=true"
                    }
                    ]
     },
