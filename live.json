@@ -4,17 +4,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "April 19",
             "time": "1:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
             "hteam" : "Chelsea",
             "ateam" : "Real Madrid",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1681864474-0-0-4a7c1ee9052273e9aa9be9003ad3b830&sub_m3u8=true&user_session_id=ff5bc9d90f923def685782fc3c2c798c"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1681864474-0-0-4a7c1ee9052273e9aa9be9003ad3b830&sub_m3u8=true&user_session_id=a4791820f9f285b54e16e677a513201c"
                    }
                    ]
       },
@@ -22,17 +22,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "April 19",
             "time": "1:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
             "hteam" : "Napoli",
             "ateam" : "AC Milan",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=2a5b663036089f8fdafa6cea10a9e073&txTime=643f3792"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=2a5b663036089f8fdafa6cea10a9e073&txTime=643f3792"
                    }
                    ]
        },
