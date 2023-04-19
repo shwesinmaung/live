@@ -5,17 +5,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "April 20",
             "time": "1:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "hteam" : "Bayern Munchen",
             "ateam" : "Man City",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=7dd2238e76976db7277f2fcb388a9d05&auth_key=1681950214-0-0-b0425d5c41e2c76d9e15b6972b548c29&sub_m3u8=true&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=096900a2afe6f095650cc625bbb77df0&auth_key=1681950214-0-0-b0425d5c41e2c76d9e15b6972b548c29&sub_m3u8=true&edge_slice=true"
                    }
                    ]
       },
