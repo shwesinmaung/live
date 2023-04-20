@@ -1,27 +1,7 @@
 [
  
       
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
-            "date": "April 20",
-            "time": "11:15 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8635.png",
-            "hteam" : "AZ Alkmaar",
-            "ateam" : "Anderlecht",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=6992d2a5dc85efb30b9b400bec6b876f&edge_slice=true&sub_m3u8=true&auth_key=1682028634-0-0-353acb166d5a934add40e9d2add26711"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&user_session_id=f7413a4e49efa28e0fc3838433dc7d91&edge_slice=true&auth_key=1682029066-0-0-effda8414bcb4fd0a515e8249a4d1bab"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                   }
-                   ]
-       },
+    
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
             "date": "April 21",
