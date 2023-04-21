@@ -6,17 +6,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
             "time": "1:00 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
             "hteam" : "Augsburg",
             "ateam" : "VfB Stuttgart",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=3a7cacf4ed6bf25e850d41056b658acb&txTime=644322b2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=3a7cacf4ed6bf25e850d41056b658acb&txTime=644322b2"
                    }
                    ]
        },
