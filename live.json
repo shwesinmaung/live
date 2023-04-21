@@ -24,17 +24,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 22",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
             "hteam" : "Hellas Verona",
             "ateam" : "Bologna",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?user_session_id=06f8f21361ff88d6fe6012e5364e2d95&sub_m3u8=true&edge_slice=true&auth_key=1682123134-0-0-babe29358b74eb1a92dc3f116c388fa2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?user_session_id=9f4035d21b8b3b5621f8c90c6cd54f97&sub_m3u8=true&edge_slice=true&auth_key=1682123134-0-0-babe29358b74eb1a92dc3f116c388fa2"
                    }
                    ]
       },
