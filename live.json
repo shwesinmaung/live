@@ -1,45 +1,6 @@
 [
  
-      
-    
-    
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 22",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-            "hteam" : "Espanyol",
-            "ateam" : "Cadiz",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1682123974-0-0-8caa190046b397c17c6329daf04c7841&edge_slice=true&sub_m3u8=true&user_session_id=48f3a15abfe3f7276fbd3f5bdce00a8f"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1682123974-0-0-8caa190046b397c17c6329daf04c7841&edge_slice=true&sub_m3u8=true&user_session_id=e4062040bc53112bad72164e4181d835"
-                   }
-                   ]
-       },
-  
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 22",
-            "time": "1:30 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-            "hteam" : "Arsenal",
-            "ateam" : "southampton",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682124094-0-0-58d29ae6d5f18f9a1c99244969313ea6&sub_m3u8=true&user_session_id=b9f1e5caccfee21151eeecf0c1d52caf"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682124094-0-0-58d29ae6d5f18f9a1c99244969313ea6&sub_m3u8=true&user_session_id=85b7929eee52ffcb007d1ec16ea29858"
-                   }
-                   ]
-       },
+     
      {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "April 22",
