@@ -2,42 +2,6 @@
  
      
      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "April 22",
-            "time": "6:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
-            "hteam" : "Fulham",
-            "ateam" : "Leeds United",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=4ec1e867de93bd859945773fc42ee835&txTime=64441d02"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                   }
-                   ]
-       },
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 22",
-            "time": "6:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-            "hteam" : "Osasuna",
-            "ateam" : "Real Betis",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=97774affc6c2c4a1b0771841c6b1214b&txTime=64441bd6"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
-                   }
-                   ]
-      },
-     {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 22",
             "time": "7:30 PM",
