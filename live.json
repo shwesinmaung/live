@@ -41,17 +41,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 22",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
             "hteam" : "Salernitana",
             "ateam" : "Sassuolo",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=deac99a009fc6bea72d6125ad082695c&auth_key=1682188414-0-0-6ccdfab0b5e6117eda2fe51b07a803b1"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&user_session_id=52ba853ef93bf653fc614f62f28201d8&auth_key=1682188414-0-0-6ccdfab0b5e6117eda2fe51b07a803b1&sub_m3u8=true"
                    }
                    ]
        },
