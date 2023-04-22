@@ -59,17 +59,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
             "time": "8:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_xsmall.png",
             "hteam" : "VfL Bochum",
             "ateam" : "Wolfsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?sub_m3u8=true&user_session_id=85edacaa3219fad9ab7846498325ded6&auth_key=1682190454-0-0-80a24c64faf46350389225c62cba0b59&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=cc840f73e69486c59afd038892cd0a3c&sub_m3u8=true&edge_slice=true&auth_key=1682190454-0-0-80a24c64faf46350389225c62cba0b59"
                    }
                    ]
       },
@@ -77,17 +77,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
             "time": "8:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
             "hteam" : "Hertha BSC",
             "ateam" : "Werder Bremen",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -95,17 +95,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
             "time": "8:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_xsmall.png",
             "hteam" : "Hoffenheim",
             "ateam" : "1. FC Köln",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1682190394-0-0-21810a6b0b7b4f3b49d71c1644eb9ec8&edge_slice=true&user_session_id=8c5e0422808c035572ee14dccfcd1251&sub_m3u8=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?edge_slice=true&auth_key=1682190394-0-0-21810a6b0b7b4f3b49d71c1644eb9ec8&sub_m3u8=true&user_session_id=10375e9a635612f09af1b9bc0d687f92"
                    }
                    ]
        },
@@ -113,17 +113,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
             "time": "8:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "hteam" : "Mainz",
             "ateam" : "Bayern München",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=583b257ff14a89e9b7f696b14abb3120&auth_key=1682190334-0-0-7273ae386434a264d00bfa1998433332&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?user_session_id=dbae65b8799d8b698fb554ad1cb4a8f5&auth_key=1682190334-0-0-7273ae386434a264d00bfa1998433332&edge_slice=true&sub_m3u8=true"
                    }
                    ]
        },
