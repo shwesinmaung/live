@@ -376,5 +376,77 @@
                        "livelink":""
                    }
                    ]
+       },
+     {
+           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
+            "date": "April 24",
+            "time": "12:00 AM",
+             "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_xsmall.png",
+            "hteam" : "M'gladbach",
+            "ateam" : "Union Berlin",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":""
+                     },
+                   {   "type": "HD ",
+                       "livelink":""
+                   }
+                   ]
+       },
+     {
+           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
+            "date": "April 24",
+            "time": "1:15 AM",
+             "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_xsmall.png",
+            "hteam" : "Lyon",
+            "ateam" : "Marseille",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":""
+                     },
+                   {   "type": "HD ",
+                       "livelink":""
+                   }
+                   ]
+       },
+   {
+           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
+            "date": "April 24",
+            "time": "1:15 AM",
+             "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_xsmall.png",
+            "hteam" : "Juventus",
+            "ateam" : "Napoli",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":""
+                     },
+                   {   "type": "HD ",
+                       "livelink":""
+                   }
+                   ]
+      },
+     {
+           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
+            "date": "April 24",
+            "time": "1:30 AM",
+             "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_xsmall.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_xsmall.png",
+            "hteam" : "Sevilla",
+            "ateam" : "Villarreal",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":""
+                     },
+                   {   "type": "HD ",
+                       "livelink":""
+                   }
+                   ]
        }
    ]
