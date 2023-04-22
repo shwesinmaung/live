@@ -1,22 +1,5 @@
 [
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "April 22",
-            "time": "8:45 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-            "hteam" : "Almeria",
-            "ateam" : "Athletic Club",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=727533e031fa388a6338719bdc61b6ed&txTime=64443a8a"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=727533e031fa388a6338719bdc61b6ed&txTime=64443a8a"
-                   }
-                   ]
-      },
+   
      {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "April 22",
