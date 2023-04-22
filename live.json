@@ -1,24 +1,6 @@
 [
  
-     
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 22",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
-            "hteam" : "Salernitana",
-            "ateam" : "Sassuolo",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=deac99a009fc6bea72d6125ad082695c&auth_key=1682188414-0-0-6ccdfab0b5e6117eda2fe51b07a803b1"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&user_session_id=52ba853ef93bf653fc614f62f28201d8&auth_key=1682188414-0-0-6ccdfab0b5e6117eda2fe51b07a803b1&sub_m3u8=true"
-                   }
-                   ]
-       },
+    
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 22",
@@ -159,7 +141,7 @@
                        "livelink":"https://sports01.livnvess.com/live/stream-951508_lhd.m3u8?txSecret=a35d30c734079b941f5905a47f5b8f08&txTime=644436ca"
                      },
                    {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-951508_lhd.m3u8?txSecret=a35d30c734079b941f5905a47f5b8f08&txTime=644436ca"
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1682197666-0-0-29fdb7c9b20d84b30db497c7b86508e2&user_session_id=fad4a76a21e9d95ba705f3bf58d2c4bd&sub_m3u8=true&edge_slice=true"
                    }
                    ]
        },
