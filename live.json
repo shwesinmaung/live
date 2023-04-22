@@ -1,23 +1,5 @@
 [
    
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-            "date": "April 22",
-            "time": "9:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-            "hteam" : "Auxerre",
-            "ateam" : "Lille",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=33501c1026dd1982bbd2694ed198eb2b&txTime=64444912"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=33501c1026dd1982bbd2694ed198eb2b&txTime=64444912"
-                   }
-                   ]
-       },
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
             "date": "April 22",
