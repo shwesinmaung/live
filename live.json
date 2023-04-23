@@ -4,24 +4,7 @@
   
      
    
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 23",
-            "time": "11:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_xsmall.png",
-            "hteam" : "Mallorca",
-            "ateam" : "Getafe",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?sub_m3u8=true&auth_key=1682287294-0-0-9b7089e75fd53d9a6c0d9efa5287e5e3&edge_slice=true&user_session_id=b001e79ffd33c09cd80fa1a003856b99"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&auth_key=1682287294-0-0-9b7089e75fd53d9a6c0d9efa5287e5e3&user_session_id=7d28377d487893dcbfa55461e32f782e&sub_m3u8=true"
-                   }
-                   ]
-       },
+     
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 24",
@@ -87,10 +70,10 @@
             "ateam" : "Villarreal",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1682296234-0-0-4c7618433f1d3571578eba3c4bb8dd17&sub_m3u8=true&user_session_id=d98eaa3bb36c4a9ddce05c0357839374&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1682296234-0-0-4c7618433f1d3571578eba3c4bb8dd17&sub_m3u8=true&edge_slice=true&user_session_id=298e48c7f9969da53578824eafb5459c"
                    }
                    ]
        },
