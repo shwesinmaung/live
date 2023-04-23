@@ -6,78 +6,7 @@
   
      
      
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_xsmall.png",
-            "hteam" : "Bournemouth",
-            "ateam" : "West Ham",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=5551e5025e2334650070e11091464dee&txTime=64457986"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-                   }
-                   ]
-      },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_xsmall.png",
-            "hteam" : "Newcastle",
-            "ateam" : "Tottenham",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=65caacd811ab2aebfeece915f1a4435a&txTime=644579c2"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                   }
-                   ]
-       },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_xsmall.png",
-            "hteam" : "Monza",
-            "ateam" : "Fiorentina",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=377f6a364b6a271ced96b070b64a00bf&txTime=64457d46"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-                   }
-                   ]
-       },
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_xsmall.png",
-            "hteam" : "Udinese",
-            "ateam" : "Cremonese",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=10a9158f0e5e106084545a4f0fff42de&txTime=64457b2a"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may13/chunklist.m3u8"
-                   }
-                   ]
-      },
+   
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 23",
@@ -143,10 +72,10 @@
             "ateam" : "RB Leipzig",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=ce6de9fea5b73496cc7001e6040bebc7&txTime=64459e16"
                      },
                    {   "type": "HD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=ce6de9fea5b73496cc7001e6040bebc7&txTime=64459e16"
                    }
                    ]
        },
