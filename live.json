@@ -6,17 +6,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 23",
             "time": "5:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_xsmall.png",
             "hteam" : "Empoli",
             "ateam" : "Inter",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?sub_m3u8=true&user_session_id=2a0d8d49ea839ff69c17c5da500874e8&edge_slice=true&auth_key=1682266414-0-0-be0f9b0a981fedba14bd58198f111537"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
                    }
                    ]
        },
