@@ -2,60 +2,8 @@
      
      
   
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
-            "date": "April 23",
-            "time": "10:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_xsmall.png",
-            "hteam" : "Leverkusen",
-            "ateam" : "RB Leipzig",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=ce6de9fea5b73496cc7001e6040bebc7&txTime=64459e16"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=ce6de9fea5b73496cc7001e6040bebc7&txTime=64459e16"
-                   }
-                   ]
-       },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
-            "date": "April 23",
-            "time": "10:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-            "hteam" : "Brighton",
-            "ateam" : "Man United",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682283574-0-0-818be405bb61c8913a5eaad4af6e2dcf&user_session_id=c69b7f534fea88fa489e929a203828be&sub_m3u8=true"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682283574-0-0-818be405bb61c8913a5eaad4af6e2dcf&user_session_id=c69b7f534fea88fa489e929a203828be&sub_m3u8=true"
-                   }
-                   ]
-       },
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
-            "date": "April 23",
-            "time": "10:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_xsmall.png",
-            "hteam" : "AC Milan",
-            "ateam" : "Lecce",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-120778_lhd.m3u8?txSecret=9fb43e9b6f5c31dc13d9050bd49878f1&txTime=6445a33e"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-120778_lhd.m3u8?txSecret=9fb43e9b6f5c31dc13d9050bd49878f1&txTime=6445a33e"
-                   }
-                   ]
-      },
+     
+   
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 23",
@@ -96,17 +44,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 24",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_xsmall.png",
             "hteam" : "Lyon",
             "ateam" : "Marseille",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1682295334-0-0-888396695adb2a27ed24cc44b234010a&user_session_id=b52171d607ebdfba3348f19c747ad418&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1682295334-0-0-888396695adb2a27ed24cc44b234010a&user_session_id=834d456d134763c0ffb13258ef338535&edge_slice=true&sub_m3u8=true"
                    }
                    ]
        },
@@ -114,17 +62,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 24",
             "time": "1:15 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_xsmall.png",
             "hteam" : "Juventus",
             "ateam" : "Napoli",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=bc3335506c2d0ac6fc170ddddcff209e&txTime=6445cc06"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=bc3335506c2d0ac6fc170ddddcff209e&txTime=6445cc06"
                    }
                    ]
       },
@@ -132,17 +80,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 24",
             "time": "1:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_xsmall.png",
             "hteam" : "Sevilla",
             "ateam" : "Villarreal",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
