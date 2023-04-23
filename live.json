@@ -186,18 +186,18 @@
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 23",
-            "time": "8:30 PM",
-             "isLive": false,
+            "time": "8:00 PM",
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_xsmall.png",
             "hteam" : "Freiburg",
             "ateam" : "Schalke 04",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0473dc12b6f25e83f4bed0aab4eb5b5c&auth_key=1682276374-0-0-b27eafa9513d7a5929a9f9706332b07f"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0473dc12b6f25e83f4bed0aab4eb5b5c&auth_key=1682276374-0-0-b27eafa9513d7a5929a9f9706332b07f"
                    }
                    ]
        },
