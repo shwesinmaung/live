@@ -2,24 +2,7 @@
      
      
     
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
-            "date": "April 23",
-            "time": "5:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_xsmall.png",
-            "hteam" : "Empoli",
-            "ateam" : "Inter",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?sub_m3u8=true&user_session_id=2a0d8d49ea839ff69c17c5da500874e8&edge_slice=true&auth_key=1682266414-0-0-be0f9b0a981fedba14bd58198f111537"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                   }
-                   ]
-       },
+     
    {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 23",
@@ -60,17 +43,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_xsmall.png",
             "hteam" : "AC Ajaccio",
             "ateam" : "Brest",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=755a21e04ff6ab9475b1b562dc8cf39d&txTime=64457ab2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=755a21e04ff6ab9475b1b562dc8cf39d&txTime=64457ab2"
                    }
                    ]
        },
@@ -78,17 +61,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_xsmall.png",
             "hteam" : "Lorient",
             "ateam" : "Toulouse",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=aaf8013c6d026c6a34ed28ad8c75bfea&txTime=644579fe"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://1123139281.cdn.khmer-hd.com/may61/chunks.m3u8"
                    }
                    ]
       },
@@ -96,17 +79,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_xsmall.png",
             "hteam" : "Nantes",
             "ateam" : "Troyes",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682274934-0-0-e91e26adeabcd0196bff739de9540034&sub_m3u8=true&user_session_id=f8a2461dd92afd6c077974543896b361&edge_slice=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682274934-0-0-e91e26adeabcd0196bff739de9540034&sub_m3u8=true&user_session_id=f8a2461dd92afd6c077974543896b361&edge_slice=true"
                    }
                    ]
        },
@@ -114,17 +97,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_xsmall.png",
             "hteam" : "Nice",
             "ateam" : "Clermont Foot",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?user_session_id=4370b583a763a2c23ea90d50a72bacad&edge_slice=true&auth_key=1682275834-0-0-012f9738c8a5407502d0b3e0dbb0cde3&sub_m3u8=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8"
                    }
                    ]
        },
@@ -132,17 +115,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_xsmall.png",
             "hteam" : "Bournemouth",
             "ateam" : "West Ham",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=5551e5025e2334650070e11091464dee&txTime=64457986"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
                    }
                    ]
       },
@@ -150,17 +133,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_xsmall.png",
             "hteam" : "Newcastle",
             "ateam" : "Tottenham",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=65caacd811ab2aebfeece915f1a4435a&txTime=644579c2"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
                    }
                    ]
        },
@@ -168,17 +151,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_xsmall.png",
             "hteam" : "Monza",
             "ateam" : "Fiorentina",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=377f6a364b6a271ced96b070b64a00bf&txTime=64457d46"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
                    }
                    ]
        },
@@ -186,17 +169,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 23",
             "time": "7:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_xsmall.png",
             "hteam" : "Udinese",
             "ateam" : "Cremonese",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=10a9158f0e5e106084545a4f0fff42de&txTime=64457b2a"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may13/chunklist.m3u8"
                    }
                    ]
       },
