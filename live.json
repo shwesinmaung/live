@@ -1,26 +1,6 @@
 [
      
      
-    
-     
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 23",
-            "time": "5:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_xsmall.png",
-            "hteam" : "Reims",
-            "ateam" : "Strasbourg",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?edge_slice=true&auth_key=1682268334-0-0-c596a6cdebb5d969cf3970523dcb0ffb&sub_m3u8=true&user_session_id=937ae3e74a586729b50f981402632796"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may111/chunklist.m3u8v"
-                   }
-                   ]
-      },
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 23",
