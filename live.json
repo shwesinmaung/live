@@ -42,17 +42,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 23",
             "time": "6:30 PM",
-             "isLive": false,
+             "isLive":true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_xsmall.png",
             "hteam" : "Elche",
             "ateam" : "Valencia",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=2ad63c2b92a82a0a5dbec254a335cc32&txTime=64456dba"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
                    }
                    ]
        },
