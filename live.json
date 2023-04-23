@@ -2,78 +2,10 @@
      
      
     
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8576_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_xsmall.png",
-            "hteam" : "AC Ajaccio",
-            "ateam" : "Brest",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=755a21e04ff6ab9475b1b562dc8cf39d&txTime=64457ab2"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=755a21e04ff6ab9475b1b562dc8cf39d&txTime=64457ab2"
-                   }
-                   ]
-       },
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_xsmall.png",
-            "hteam" : "Lorient",
-            "ateam" : "Toulouse",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=aaf8013c6d026c6a34ed28ad8c75bfea&txTime=644579fe"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may61/chunks.m3u8"
-                   }
-                   ]
-      },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_xsmall.png",
-            "hteam" : "Nantes",
-            "ateam" : "Troyes",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682274934-0-0-e91e26adeabcd0196bff739de9540034&sub_m3u8=true&user_session_id=f8a2461dd92afd6c077974543896b361&edge_slice=true"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1682274934-0-0-e91e26adeabcd0196bff739de9540034&sub_m3u8=true&user_session_id=f8a2461dd92afd6c077974543896b361&edge_slice=true"
-                   }
-                   ]
-       },
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/fra.png",
-            "date": "April 23",
-            "time": "7:30 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_xsmall.png",
-            "hteam" : "Nice",
-            "ateam" : "Clermont Foot",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?user_session_id=4370b583a763a2c23ea90d50a72bacad&edge_slice=true&auth_key=1682275834-0-0-012f9738c8a5407502d0b3e0dbb0cde3&sub_m3u8=true"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8"
-                   }
-                   ]
-       },
+   
+  
+     
+     
    {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
             "date": "April 23",
@@ -204,17 +136,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
             "date": "April 23",
             "time": "10:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_xsmall.png",
             "hteam" : "Leverkusen",
             "ateam" : "RB Leipzig",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -222,17 +154,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/132.png",
             "date": "April 23",
             "time": "10:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "hteam" : "Brighton",
             "ateam" : "Man United",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682283574-0-0-818be405bb61c8913a5eaad4af6e2dcf&user_session_id=c69b7f534fea88fa489e929a203828be&sub_m3u8=true"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-931508_lhd.m3u8?edge_slice=true&auth_key=1682283574-0-0-818be405bb61c8913a5eaad4af6e2dcf&user_session_id=c69b7f534fea88fa489e929a203828be&sub_m3u8=true"
                    }
                    ]
        },
