@@ -7,24 +7,7 @@
      
      
    
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ger.png",
-            "date": "April 23",
-            "time": "8:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_xsmall.png",
-            "hteam" : "Freiburg",
-            "ateam" : "Schalke 04",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0473dc12b6f25e83f4bed0aab4eb5b5c&auth_key=1682276374-0-0-b27eafa9513d7a5929a9f9706332b07f"
-                     },
-                   {   "type": "HD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0473dc12b6f25e83f4bed0aab4eb5b5c&auth_key=1682276374-0-0-b27eafa9513d7a5929a9f9706332b07f"
-                   }
-                   ]
-       },
+     
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 23",
@@ -101,17 +84,17 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/ita.png",
             "date": "April 23",
             "time": "10:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_xsmall.png",
             "hteam" : "AC Milan",
             "ateam" : "Lecce",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-120778_lhd.m3u8?txSecret=9fb43e9b6f5c31dc13d9050bd49878f1&txTime=6445a33e"
                      },
                    {   "type": "HD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-120778_lhd.m3u8?txSecret=9fb43e9b6f5c31dc13d9050bd49878f1&txTime=6445a33e"
                    }
                    ]
       },
