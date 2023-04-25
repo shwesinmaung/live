@@ -55,14 +55,14 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
             "date": "April 26",
             "time": "1:00 AM",
-             "isLive": true,
+             "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_xsmall.png",
             "hteam" : "Wolves",
             "ateam" : "Crystal Palace",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+                       "livelink":""
                      },
                    {   "type": "SD ",
                        "livelink":""
