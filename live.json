@@ -105,23 +105,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/eng.png",
             "date": "April 26",
             "time": "1:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_xsmall.png",
             "hteam" : "Leeds",
             "ateam" : "Leicester",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb26c5ef2cae0b8bf127d1&txTime=64487033"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb26c5ef2cae0b8bf127d1&txTime=64487033"
                    },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb26c5ef2cae0b8bf127d1&txTime=64487033"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=c2351e2b2edb26c5ef2cae0b8bf127d1&txTime=64487033"
                    }
                    ]
        },
@@ -136,16 +136,16 @@
             "ateam" : "Real Sociedad",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
