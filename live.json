@@ -3,30 +3,7 @@
      
   
      
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
-            "date": "April 26",
-            "time": "12:00 AM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_xsmall.png",
-            "hteam" : "Cadiz",
-            "ateam" : "Osasuna",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?edge_slice=true&auth_key=1682464906-0-0-cdc94ca3c4ffb1508b3eb5f874bbbbf5&user_session_id=f743fa464a97da89b1961e4660688908&sub_m3u8=true"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b3767b07f9ad0e25088983de44bdc4d&auth_key=1682464415-0-0-ae71c386ce816ef8a3583fb700cb3e35"
-                   },
-                   {   "type": "HD 2",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may11/chunks.m3u8"
-                   }
-                   ]
-      },
+   
      {
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 26",
@@ -129,23 +106,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 26",
             "time": "2:30 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_xsmall.png",
             "hteam" : "Real Betis",
             "ateam" : "Real Sociedad",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=5c49b8c98eee8dd09b8859ad29264bd8&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0a5ceb45abbc24a493a3106eb8c53176&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978"
                    },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=7efb5ca965a8a406a8e2766e0a295caf&sub_m3u8=true&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978&edge_slice=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=7efb5ca965a8a406a8e2766e0a295caf&sub_m3u8=true&auth_key=1682472977-0-0-5b89a05d63c5b3af0bb0a4977bc3c978&edge_slice=true"
                    }
                    ]
        },
