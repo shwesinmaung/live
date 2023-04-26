@@ -13,10 +13,10 @@
                        "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=105379bcb228ab92b6393c5a5e85c8b9&auth_key=1682550275-0-0-6a9b53d1b3d4d30fc2d6005e5257001d&sub_m3u8=true&edge_slice=true"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=64b3f26feb29020c2a3f1cfd12e3a7d9&auth_key=1682550275-0-0-6a9b53d1b3d4d30fc2d6005e5257001d&sub_m3u8=true&edge_slice=true"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-661570_lhd.m3u8?user_session_id=f540fe0097dc82db2489dcc160565f6c&sub_m3u8=true&edge_slice=true&auth_key=1682551487-0-0-389adc392fe8f7c33de635be584a3374"
                    },
                    {   "type": "HD 1",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=25b8c7fd1c94648b4866bd452e84990a&auth_key=1682550275-0-0-6a9b53d1b3d4d30fc2d6005e5257001d&edge_slice=true&sub_m3u8=true"
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
                      },
                    {   "type": "HD 2",
                        "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=25b8c7fd1c94648b4866bd452e84990a&auth_key=1682550275-0-0-6a9b53d1b3d4d30fc2d6005e5257001d&edge_slice=true&sub_m3u8=true"
@@ -27,7 +27,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/teamlogo/esp.png",
             "date": "April 27",
             "time": "12:00 AM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_xsmall.png",
             "hteam" : "Getafe",
@@ -37,7 +37,7 @@
                        "livelink":""
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682550826-0-0-3b221d46c25fd4d95a1e8bcb820ecbff&user_session_id=c5aaeedcbb1205883d8af18c4826726d"
                    },
                    {   "type": "HD 1",
                        "livelink":""
