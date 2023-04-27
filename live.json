@@ -37,16 +37,16 @@
             "ateam" : "Espanyol",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=39533455494652fa1449c28c5597787a&txTime=644afe57"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=39533455494652fa1449c28c5597787a&txTime=644afe57"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=39533455494652fa1449c28c5597787a&txTime=644afe57"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=39533455494652fa1449c28c5597787a&txTime=644afe57"
                    }
                    ]
        },
