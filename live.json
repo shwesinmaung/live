@@ -1,30 +1,7 @@
 [
    
 
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "April 28",
-            "time": "11:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-            "hteam" : "Lecce",
-            "ateam" : "Udinese",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=1d8ba208d1e05d64f495dcc6b097dee5&txTime=644c436b"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=1d8ba208d1e05d64f495dcc6b097dee5&txTime=644c436b"
-                   },
-                 {   "type": "HD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=1d8ba208d1e05d64f495dcc6b097dee5&txTime=644c436b"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=1d8ba208d1e05d64f495dcc6b097dee5&txTime=644c436b"
-                   }
-                   ]
-       },
+     
      {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 29",
@@ -84,16 +61,16 @@
             "ateam" : "Real Sociedad",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=6b3646dd6f9008557fab4f78a1e02e55&txTime=644c67fb"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=6b3646dd6f9008557fab4f78a1e02e55&txTime=644c67fb"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=6b3646dd6f9008557fab4f78a1e02e55&txTime=644c67fb"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=6b3646dd6f9008557fab4f78a1e02e55&txTime=644c67fb"
                    }
                    ]
        },
