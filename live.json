@@ -53,7 +53,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "April 29",
             "time": "11:00 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_xsmall.png",
             "hteam" : "Schalke 04",
