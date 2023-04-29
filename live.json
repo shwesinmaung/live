@@ -184,13 +184,13 @@
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1682798987-0-0-3134df268c0fb9a967d1eb3981ec1606&sub_m3u8=true&user_session_id=e891a65a1ab8fda0c9dd517f1fc85f1e&edge_slice=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1682798987-0-0-3134df268c0fb9a967d1eb3981ec1606&sub_m3u8=true&user_session_id=e891a65a1ab8fda0c9dd517f1fc85f1e&edge_slice=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
                    }
                    ]
        },
