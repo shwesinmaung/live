@@ -82,16 +82,16 @@
             "ateam" : "Reims",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?user_session_id=fff83083f2aff6eead3841effe608897&auth_key=1682880155-0-0-c7071fb6f885b0ce2214a30ab9d98234&sub_m3u8=true&edge_slice=true"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1682881067-0-0-776335b68f0d810928b7ef5a641a9472&edge_slice=true&sub_m3u8=true&user_session_id=17bf758368fe8a7123a936a932e41e09"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true"
                    },
                  {   "type": "HD 1",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may7/chunks.m3u8"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?user_session_id=fff83083f2aff6eead3841effe608897&auth_key=1682880155-0-0-c7071fb6f885b0ce2214a30ab9d98234&sub_m3u8=true&edge_slice=true"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?edge_slice=true&auth_key=1682880815-0-0-aa91de4ec896ff38ccf112940dd60559&user_session_id=f8c1ba0f4d58bcab5e5f01890ea58de4&sub_m3u8=true"
                    }
                    ]
        },
@@ -106,16 +106,16 @@
             "ateam" : "Angers",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -154,16 +154,16 @@
             "ateam" : "Leeds United",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-109053_lhd.m3u8?txSecret=810d3c3ddf8117ce375f5b652a22f4b3&txTime=644eb4f7"
+                       "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=e873ecfef66ed66f3f9382247efe32be&txTime=644eb9a7"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?user_session_id=743ab10312629e508f42a2755bd70fb2&edge_slice=true&auth_key=1682880947-0-0-d73d308c60e29e6cb264e27f401fa161&sub_m3u8=true"
+                       "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=e873ecfef66ed66f3f9382247efe32be&txTime=644eb9a7"
                    },
                  {   "type": "HD 1",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may101/chunks.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=e873ecfef66ed66f3f9382247efe32be&txTime=644eb9a7"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-109053_lhd.m3u8?txSecret=810d3c3ddf8117ce375f5b652a22f4b3&txTime=644eb4f7"
+                       "livelink":"https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=e873ecfef66ed66f3f9382247efe32be&txTime=644eb9a7"
                    }
                    ]
        },
@@ -178,16 +178,16 @@
             "ateam" : "Man City",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=a4cc8d182463471ee3d47074a1c83b03&txTime=644eb443"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=e4efcc5ff39c5abfbaae10ce9c3b81ee&txTime=644eba1f"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682880647-0-0-19b5391f296fe8b881e26b63f7cb2591&user_session_id=9d27dc9ce464b547d2242a359605c1b8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=e4efcc5ff39c5abfbaae10ce9c3b81ee&txTime=644eba1f"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=e4efcc5ff39c5abfbaae10ce9c3b81ee&txTime=644eba1f"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=a4cc8d182463471ee3d47074a1c83b03&txTime=644eb443"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=e4efcc5ff39c5abfbaae10ce9c3b81ee&txTime=644eba1f"
                    }
                    ]
        },
@@ -202,16 +202,16 @@
             "ateam" : "Aston Villa",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=2a3adb0765c2c77a219a5ce4ba5bdc8a&txTime=644eb47f"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f7dd35342352898b8d8f41515e6c6a65&txTime=644eba5b"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1682880767-0-0-df216662da36c53ded32b161b18b5e8f&sub_m3u8=true&user_session_id=8161e373301f7c43847ad43ce72b9770&edge_slice=true"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f7dd35342352898b8d8f41515e6c6a65&txTime=644eba5b"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f7dd35342352898b8d8f41515e6c6a65&txTime=644eba5b"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=2a3adb0765c2c77a219a5ce4ba5bdc8a&txTime=644eb47f"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f7dd35342352898b8d8f41515e6c6a65&txTime=644eba5b"
                    }
                    ]
        },
@@ -226,16 +226,16 @@
             "ateam" : "Southampton",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=c54e83836a33448203a4ac0cbb30764c&txTime=644eb5e7"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=1d1aab24e9ef02d3bd63bb28cf1e9e5a&txTime=644ebad3"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1682880887-0-0-ab9c18caa3f431d4b55d343abcad2a53"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=1d1aab24e9ef02d3bd63bb28cf1e9e5a&txTime=644ebad3"
                    },
                  {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=1d1aab24e9ef02d3bd63bb28cf1e9e5a&txTime=644ebad3"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=c54e83836a33448203a4ac0cbb30764c&txTime=644eb5e7"
+                       "livelink":"https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=1d1aab24e9ef02d3bd63bb28cf1e9e5a&txTime=644ebad3"
                    }
                    ]
        },
@@ -250,16 +250,16 @@
             "ateam" : "Hellas Verona",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-161243_lhd.m3u8?txSecret=8798e935613bc9c6f31ab4c9c82dd6f3&txTime=644eb623"
+                       "livelink":""
                      },
                    {   "type": "SD ",
                        "livelink":""
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may6/chunks.m3u8"
+                       "livelink":""
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-161243_lhd.m3u8?txSecret=8798e935613bc9c6f31ab4c9c82dd6f3&txTime=644eb623"
+                       "livelink":""
                    }
                    ]
        },
@@ -274,16 +274,16 @@
             "ateam" : "Salernitana",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=b469aa87917ae3db6d8c1d0641fad4fd&txTime=644eb5ab"
+                       "livelink":""
                      },
                    {   "type": "SD ",
                        "livelink":""
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
+                       "livelink":""
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=b469aa87917ae3db6d8c1d0641fad4fd&txTime=644eb5ab"
+                       "livelink":""
                    }
                    ]
        },
@@ -298,16 +298,16 @@
             "ateam" : "Empoli",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=42ca895eb37e69e5aaf7423a344d3ac2&txTime=644eb56f"
+                       "livelink":""
                      },
                    {   "type": "SD ",
                        "livelink":""
                    },
                  {   "type": "HD 1",
-                       "livelink":"https://1123139281.cdn.khmer-hd.com/may61/chunks.m3u8"
+                       "livelink":""
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=42ca895eb37e69e5aaf7423a344d3ac2&txTime=644eb56f"
+                       "livelink":""
                    }
                    ]
        },
