@@ -2,30 +2,7 @@
   
  
    
-     {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-            "date": "April 30",
-            "time": "8:00 PM",
-             "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177.png",
-            "hteam" : "Bayern Munchen",
-            "ateam" : "Hertha BSC",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?user_session_id=867725d605e822d74c70b7637c92fc0f&edge_slice=true&auth_key=1682881655-0-0-674f0d1c735d755af66f56b025220827&sub_m3u8=true"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/batSD/chunklist.m3u8"
-                   },
-                 {   "type": "HD 1",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?user_session_id=867725d605e822d74c70b7637c92fc0f&edge_slice=true&auth_key=1682881655-0-0-674f0d1c735d755af66f56b025220827&sub_m3u8=true"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/batSD/chunklist.m3u8"
-                   }
-                   ]
-       },
+     
    {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "April 30",
@@ -126,23 +103,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "April 30",
             "time": "10:30 PM",
-             "isLive": false,
+             "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882.png",
             "hteam" : "Fiorentina",
             "ateam" : "Sampdoria",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ea36047eefa08911e171c107cd4e0b5c&txTime=644edeeb"
                    }
                    ]
        },
