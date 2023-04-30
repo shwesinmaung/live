@@ -556,8 +556,8 @@
             "date": "May 1",
             "time": "11:30 PM",
             "isLive": false,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_xsmall.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
             "hteam" : "Mallorca",
             "ateam" : "Athletic Club",
             "link":[
@@ -580,8 +580,8 @@
             "date": "May 2",
             "time": "1:30 AM",
             "isLive": false,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_xsmall.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
             "hteam" : "Sevilla",
             "ateam" : "Girona",
             "link":[
@@ -601,11 +601,11 @@
        },
      {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "May 1",
+            "date": "May 2",
             "time": "1:30 AM",
             "isLive": false,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_xsmall.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_xsmall.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "hteam" : "Leicester",
             "ateam" : "Everton",
             "link":[
