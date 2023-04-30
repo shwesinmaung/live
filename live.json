@@ -106,13 +106,13 @@
             "ateam" : "Angers",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?auth_key=1682881355-0-0-e807fffc628e256c7a73b3ff89573ea0&sub_m3u8=true&user_session_id=a1c461806b18840ed4f1e02057429bbf&edge_slice=true"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-435421_lhd.m3u8?auth_key=1682881355-0-0-e807fffc628e256c7a73b3ff89573ea0&sub_m3u8=true&user_session_id=a1c461806b18840ed4f1e02057429bbf&edge_slice=true"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -274,16 +274,16 @@
             "ateam" : "Salernitana",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1682881295-0-0-8e3402d2d498273072ac64f1b7f2360c&sub_m3u8=true&user_session_id=f8504ade8c95f9707078b0f803e06c09&edge_slice=true"
+                       "livelink":""
                      },
                    {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1682881295-0-0-8e3402d2d498273072ac64f1b7f2360c&sub_m3u8=true&edge_slice=true&user_session_id=3efa21a6a84304e183f26b5923abc6e6"
+                       "livelink":""
                    },
                   {   "type": "HD 1",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1682881295-0-0-8e3402d2d498273072ac64f1b7f2360c&sub_m3u8=true&user_session_id=178abd525bbb89625a654f7b89af5fc3&edge_slice=true"
+                       "livelink":""
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1682881295-0-0-8e3402d2d498273072ac64f1b7f2360c&user_session_id=2d2d956b38eafa2d719864ff725c6c53&sub_m3u8=true"
+                       "livelink":""
                    }
                    ]
        },
