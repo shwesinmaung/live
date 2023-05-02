@@ -54,23 +54,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/209.png",
             "date": "May 3",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "hteam" : "freiburg",
             "ateam" : "RB Leipzig",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f43569c922b300b3d2bbc2826594297b&txTime=6451a6f3"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1683072887-0-0-caa7b81bc88e4a3128da83a95ef30349"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f43569c922b300b3d2bbc2826594297b&txTime=6451a6f3"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1683072887-0-0-caa7b81bc88e4a3128da83a95ef30349"
                    }
                    ]
        },   
