@@ -64,13 +64,13 @@
                        "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f43569c922b300b3d2bbc2826594297b&txTime=6451a6f3"
                      },
                    {   "type": "SD ",
-                       "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1683072887-0-0-caa7b81bc88e4a3128da83a95ef30349"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=fcba19b660dcd7fab74eeaefb212417c&auth_key=1683073187-0-0-1227b87d93f344b2b60fc8e5262d6085"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=f43569c922b300b3d2bbc2826594297b&txTime=6451a6f3"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1683072887-0-0-caa7b81bc88e4a3128da83a95ef30349"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-698583_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d2d5aa37085d65166debf555fb1f0756&auth_key=1683073187-0-0-1227b87d93f344b2b60fc8e5262d6085"
                    }
                    ]
        },   
