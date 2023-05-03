@@ -106,7 +106,7 @@
             "ateam" : "Inter",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=c79c436c7276e5fd95936a5430a3997b&txTime=6452ffb7"
                      },
                    {   "type": "SD ",
                        "livelink":""
@@ -115,7 +115,7 @@
                        "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=c79c436c7276e5fd95936a5430a3997b&txTime=6452ffb7"
                    }
                    ]
        },
@@ -178,7 +178,7 @@
             "ateam" : "Roma",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-173024_lhd.m3u8?txSecret=8addd88487874c8e6981a509d814596e&txTime=6452fff3"
                      },
                    {   "type": "SD ",
                        "livelink":""
@@ -187,7 +187,7 @@
                        "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-173024_lhd.m3u8?txSecret=8addd88487874c8e6981a509d814596e&txTime=6452fff3"
                    }
                    ]
        },
