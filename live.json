@@ -100,23 +100,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "May 5",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "hteam" : "Brighton",
             "ateam" : "Man United",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=b18db9b017819baa8a758ac7e2540abb&txTime=64544ea3"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=b18db9b017819baa8a758ac7e2540abb&txTime=64544ea3"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1683246896-0-0-d7c1d8d548d68b06f698d940eacf84c7&user_session_id=14e2042829458301b61d495ff1da869d&sub_m3u8=true&edge_slice=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=4a2afcdbe98bbb34bb25d06dc7e18b46&sub_m3u8=true&auth_key=1683246896-0-0-d7c1d8d548d68b06f698d940eacf84c7"
                    }
                    ]
        },
