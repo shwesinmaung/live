@@ -150,23 +150,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 6",
             "time": "11:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "hteam" : "Werder Bremen",
             "ateam" : "Bayern Munchen",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -174,23 +174,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "May 6",
             "time": "11:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
             "hteam" : "Liverpool",
             "ateam" : "Brentford",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
