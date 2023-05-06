@@ -5,29 +5,7 @@
 
  
  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "May 6",
-            "time": "10:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-            "hteam" : "Roma",
-            "ateam" : "Inter",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-158841_lhd.m3u8?txSecret=0bbf55b44ac888290249159ccec53eee&txTime=6456c918"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-158841_lhd.m3u8?txSecret=0bbf55b44ac888290249159ccec53eee&txTime=6456c918"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lhd.m3u8?edge_slice=true&user_session_id=0041f870429ab7ec968abcddef21196e&auth_key=1683409377-0-0-b7a3f1ed4e78e3174d83161f3edb280b&sub_m3u8=true"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lhd.m3u8?edge_slice=true&user_session_id=f9ff7f21e004b0184662052e3ef9da95&auth_key=1683409377-0-0-b7a3f1ed4e78e3174d83161f3edb280b&sub_m3u8=true"
-                   }
-                   ]
-       },
+      
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 6",
@@ -419,7 +397,7 @@
             "time": "10:30 PM",
             "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.pngu",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "hteam" : "Napoli",
             "ateam" : "Fiorentina",
             "link":[
