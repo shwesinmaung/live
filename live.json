@@ -62,13 +62,13 @@
             "ateam" : "Wolfsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=8c8f38931a48f5f3ce50f0c7a920f916&txTime=645811b0"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=8c8f38931a48f5f3ce50f0c7a920f916&txTime=645811b0"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -86,13 +86,13 @@
             "ateam" : "Arsenal",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?user_session_id=58479dd2fa70b58b4c7d066cc28c354b&auth_key=1683493236-0-0-ab22a0df764ddd3ac8db8d21a44fec87&sub_m3u8=true&edge_slice=true"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?user_session_id=3201b219ae72f75bdf6616e2457cb2b5&auth_key=1683493236-0-0-ab22a0df764ddd3ac8db8d21a44fec87&sub_m3u8=true&edge_slice=true"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
