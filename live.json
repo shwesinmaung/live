@@ -1,35 +1,7 @@
 [
  
- 
- 
 
-
- 
-
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "May 7",
-            "time": "10:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "hteam" : "Napoli",
-            "ateam" : "Fiorentina",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-112310_lhd.m3u8?txSecret=e8454de415316ec019dfa862124bf7f5&txTime=64581a20"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1683495537-0-0-39cc7d314036b89a6c17e22dd2d86460&edge_slice=true&user_session_id=c3224839c936bfcf3f8b79fd3c2a7a6e&sub_m3u8=true"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-112310_lhd.m3u8?txSecret=e8454de415316ec019dfa862124bf7f5&txTime=64581a20"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1683495537-0-0-39cc7d314036b89a6c17e22dd2d86460&edge_slice=true&sub_m3u8=true&user_session_id=56d2ad66895f0c1849bf8a14750ace4f"
-                   }
-                   ]
-       },
+     
 
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
@@ -60,23 +32,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "May 8",
             "time": "1:15 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "hteam" : "Lecce",
             "ateam" : "Hellas Verona",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1683504936-0-0-fd21cf78ac79f9287b252c12c1137d7e&user_session_id=e01af70cba91b1616351183b61b9748a&edge_slice=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?sub_m3u8=true&auth_key=1683505137-0-0-88af930c05d37d1bf2cb0d2701eabd2a&edge_slice=true&user_session_id=c55e31e9f92e45a9a0e84faa54367ec5"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&auth_key=1683504936-0-0-fd21cf78ac79f9287b252c12c1137d7e&user_session_id=e01af70cba91b1616351183b61b9748a&edge_slice=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=a28b66f16b9011e45fd92350501af40d&edge_slice=true&sub_m3u8=true&auth_key=1683505137-0-0-88af930c05d37d1bf2cb0d2701eabd2a"
                    }
                    ]
        },
@@ -85,23 +57,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
             "date": "May 8",
             "time": "1:15 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "hteam" : "Troyes",
             "ateam" : "PSG",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?edge_slice=true&auth_key=1683504936-0-0-69a51473c9f91061d9fcaec07e2e64d7&sub_m3u8=true&user_session_id=1db018716cb1aac3060fe9ebedadc47a"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1683505017-0-0-611f8e1e0d52877eff452bccbe9530e1&user_session_id=6259d94e0363eda752d375594f69a01e&sub_m3u8=true&edge_slice=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1683504936-0-0-69a51473c9f91061d9fcaec07e2e64d7&edge_slice=true&user_session_id=57d446338789762be9c3018826bf0a83&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1683505017-0-0-611f8e1e0d52877eff452bccbe9530e1&sub_m3u8=true&user_session_id=0db0a9141fed8d9080dd7d50a7215cc0&edge_slice=true"
                    }
                    ]
        },
