@@ -6,23 +6,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "May 10",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "hteam" : "Real Madrid",
             "ateam" : "Man City",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?user_session_id=9b8fa44981f897d3c05420e4f88b8344&edge_slice=true&sub_m3u8=true&auth_key=1683678696-0-0-1f0cf62011d20e9d0edc39a13a914908"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683678859-0-0-4e29a9f8e2c41c14d3b3ffdfe2e68a31&user_session_id=b1e6ed13fba3d29beb5fd891fde3e782"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?edge_slice=true&user_session_id=24020d02dea852e732e9f1da9bd8a8d5&auth_key=1683678696-0-0-1f0cf62011d20e9d0edc39a13a914908&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&edge_slice=tr"
                    }
                    ]
        },
