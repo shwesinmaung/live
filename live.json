@@ -75,23 +75,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 13",
             "time": "8:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189.png",
             "hteam" : "Bayern Munchen",
             "ateam" : "Schalke 04",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=7441c3bd0d08d8fd0d2cacc426c34ce1&txTime=645fe0e8"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=7441c3bd0d08d8fd0d2cacc426c34ce1&txTime=645fe0e8"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -99,23 +99,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 13",
             "time": "8:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
             "hteam" : "VfL Bochum",
             "ateam" : "Augsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=3e2232036cd4be4b39cb84ba79ad4ce9&txTime=645fe0ac"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=3e2232036cd4be4b39cb84ba79ad4ce9&txTime=645fe0ac"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -123,23 +123,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 13",
             "time": "8:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
             "hteam" : "Frankfurt",
             "ateam" : "Mainz",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?edge_slice=true&user_session_id=1ee5c5e3af1b7b832a5753bbec30f2f9&sub_m3u8=true&auth_key=1684005156-0-0-445b2c211a7de82115e79d42afaa57c5"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?edge_slice=true&auth_key=1684005156-0-0-445b2c211a7de82115e79d42afaa57c5&user_session_id=f61a6ea8cd1d2b48e7c4e4f7c02181da&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -147,23 +147,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 13",
             "time": "8:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
             "hteam" : "Union Berlin",
             "ateam" : "Freiburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=103374cc17e0808c769fd98dc3f8c3fe&txTime=645fe124"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=103374cc17e0808c769fd98dc3f8c3fe&txTime=645fe124"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -171,23 +171,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 13",
             "time": "8:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
             "hteam" : "Wolfsburg",
             "ateam" : "Hoffenheim",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?edge_slice=true&auth_key=1684005216-0-0-7459920446dff168988db764da0f397b&user_session_id=6952be43eb45076c1f200ac9db10110e&sub_m3u8=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-499490_lhd.m3u8?user_session_id=26b1318ed8c9ac4a8fb19636e3e07954&edge_slice=true&sub_m3u8=true&auth_key=1684005216-0-0-7459920446dff168988db764da0f397b"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
