@@ -26,54 +26,7 @@
                    }
                    ]
        },
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-            "date": "May 14",
-            "time": "7:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-            "hteam" : "Brentford",
-            "ateam" : "West Ham",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=c77a535268892dd7b0e66d9e7ddc7a14&txTime=646127dc"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&user_session_id=0dd8b5f9383eb232b9ce96ef80429cf1&auth_key=1684088420-0-0-2410f4de8990766d9b01c7aab5ccf58d&edge_slice=true"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1684090640-0-0-f1c518e597f2cdb58c2eae8a9400ca42&edge_slice=true&user_session_id=5932015da3b5e441a6efad84b15ac4b1&sub_m3u8=true"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=c77a535268892dd7b0e66d9e7ddc7a14&txTime=646127dc"
-                   }
-                   ]
-       },
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-            "date": "May 14",
-            "time": "7:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-            "hteam" : "Fiorentina",
-            "ateam" : "Udinese",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=f365e8b10db128bd0a64fc279c6e851a&txTime=64612b60"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0bf38d64d7b340d7bae64e4cbba7723d&auth_key=1684090580-0-0-9d50157fed86b3994f93119ef18145dc"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=f365e8b10db128bd0a64fc279c6e851a&txTime=64612b60"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=0bf38d64d7b340d7bae64e4cbba7723d&auth_key=1684090580-0-0-9d50157fed86b3994f93119ef18145dc"
-                   }
-                   ]
-       },
+           
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
             "date": "May 14",
@@ -136,13 +89,13 @@
                        "livelink":"https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=ec9bd86f2e0d8d558cbeb635136d5d0f&txTime=646148e9"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-130736_lhd.m3u8?sub_m3u8=true&auth_key=1684098680-0-0-76d865822a1533645ab1c7f092f70603&edge_slice=true&user_session_id=1ecd1e6f5958124d12ee36824e85e773"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=ec9bd86f2e0d8d558cbeb635136d5d0f&txTime=646148e9"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-130736_lhd.m3u8?sub_m3u8=true&auth_key=1684098680-0-0-76d865822a1533645ab1c7f092f70603&edge_slice=true&user_session_id=e8fb935a1137953195d6553d8f6a26ba"
                    }
                    ]
        },
