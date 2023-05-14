@@ -1,30 +1,7 @@
 [
             
 
-{
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-            "date": "May 14",
-            "time": "5:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-            "hteam" : "Clermont Foot",
-            "ateam" : "Lyon",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&auth_key=1684082196-0-0-d072ed310545584a3433b18182b85410&user_session_id=d8e4714fab2517258032e7e0ecf5b569&edge_slice=true"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?auth_key=1684082360-0-0-d5a0e09fa0a7add3fde5685903535a6e&sub_m3u8=true&user_session_id=c4b955081764a68f1bf4831b7cefab09&edge_slice=true"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991113_lhd.m3u8?sub_m3u8=true&auth_key=1684082196-0-0-d072ed310545584a3433b18182b85410&user_session_id=d8e4714fab2517258032e7e0ecf5b569&edge_slice=true"
-                   }
-                   ]
-       },
+
 {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 14",
