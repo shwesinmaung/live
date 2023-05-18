@@ -27,23 +27,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
             "date": "May 19",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "hteam" : "Leverkusen",
             "ateam" : "Roma",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=400be07a568e0ce68d2f0940033d458b&txTime=6466c585"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=400be07a568e0ce68d2f0940033d458b&txTime=6466c585"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -51,23 +51,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
             "date": "May 19",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "hteam" : "Sevilla",
             "ateam" : "Juventus",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?user_session_id=765ad74e7491e0afee1c4cfe99056477&edge_slice=true&sub_m3u8=true&auth_key=1684456717-0-0-4977cc3a3e6af2bf20621f0141665036"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?user_session_id=a381917c1fc7b41eb5bf15559f4798ed&edge_slice=true&sub_m3u8=true&auth_key=1684456717-0-0-4977cc3a3e6af2bf20621f0141665036"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -75,23 +75,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
             "date": "May 19",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "hteam" : "AZ Alkmaar",
             "ateam" : "West Ham",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=9663254c16c192e9eaf697f6974365c7&txTime=6466c549"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=9663254c16c192e9eaf697f6974365c7&txTime=6466c549"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -99,23 +99,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
             "date": "May 19",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9931_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "hteam" : "Basel",
             "ateam" : "Fiorentina",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=c50f0469453bd0fcec8041bcc666434d&txTime=6466c5c1"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=c50f0469453bd0fcec8041bcc666434d&txTime=6466c5c1"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
