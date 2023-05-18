@@ -3,23 +3,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "May 19",
             "time": "1:00 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "hteam" : "Newcastle",
             "ateam" : "Brighton",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=ef8255b019a718984d94e6beb5c54786&txTime=6466bd15"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=ded714ccdcd884aa36779bbd452a088b&sub_m3u8=true&edge_slice=true&auth_key=1684454780-0-0-a610609c7eb2b05641c6033dc691816b"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=ef8255b019a718984d94e6beb5c54786&txTime=6466bd15"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=7d3871104158f7b914e5a38e9fd5894a&sub_m3u8=true&edge_slice=true&auth_key=1684454780-0-0-a610609c7eb2b05641c6033dc691816b"
                    }
                    ]
        },
