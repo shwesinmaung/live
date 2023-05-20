@@ -85,13 +85,13 @@
             "ateam" : "RB Leipzig",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=26091eaa1e8df537709aa4b8f1f5f1af&txTime=646943b9"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=26091eaa1e8df537709aa4b8f1f5f1af&txTime=646943b9"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -109,13 +109,13 @@
             "ateam" : "Elche",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&user_session_id=459c2385e6551645f0ba8cb08baaca69&edge_slice=true&auth_key=1684620517-0-0-3052ef1f955d1610a18076020f36500e"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&user_session_id=98713785217a7f0c4fb33220344f4489&edge_slice=true&auth_key=1684620517-0-0-3052ef1f955d1610a18076020f36500e"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -133,16 +133,16 @@
             "ateam" : "Arsenal",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=51ccc9ba0f43ef36d99ad895b2f7241e&txTime=6469446d"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=51ccc9ba0f43ef36d99ad895b2f7241e&txTime=6469446d"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
@@ -157,16 +157,16 @@
             "ateam" : "Mallorca",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=255f71bc994028ed311988754c93ff8f&txTime=6469455d"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=255f71bc994028ed311988754c93ff8f&txTime=6469455d"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
        },
