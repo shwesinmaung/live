@@ -11,13 +11,13 @@
             "ateam" : "Spezia",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=e825644c1230018d2581c7a35d913001&txTime=646a418d"
                      },
                    {   "type": "SD ",
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?user_session_id=e1ae95a9816c366a88c14b3940896a04&sub_m3u8=true&auth_key=1684684760-0-0-8ded6d52d41d6e735713e68216901919&edge_slice=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=e825644c1230018d2581c7a35d913001&txTime=646a418d"
                      },
                    {   "type": "HD 2",
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?user_session_id=e1ae95a9816c366a88c14b3940896a04&sub_m3u8=true&auth_key=1684684760-0-0-8ded6d52d41d6e735713e68216901919&edge_slice=true"
