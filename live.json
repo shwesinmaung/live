@@ -28,23 +28,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "May 23",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "hteam" : "Empoli",
             "ateam" : "Juventus",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?sub_m3u8=true&auth_key=1684801237-0-0-d398121ce1fcaef812acec204db41b2f&user_session_id=7fa604f94b25668b66654ced86a8fb96&edge_slice=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684801340-0-0-8c197c6aed8dc96c43f3a5bc748c6769&edge_slice=true&user_session_id=1ae61e06ad8bebb0eceed25e871613c8&sub_m3u8=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?sub_m3u8=true&user_session_id=0d913b9e809461c5b715c786022ad77b&edge_slice=true&auth_key=1684801237-0-0-d398121ce1fcaef812acec204db41b2f"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684801340-0-0-8c197c6aed8dc96c43f3a5bc748c6769&edge_slice=true&user_session_id=2552c365653a839e88fd556b31a8c919&sub_m3u8=true"
                    }
                    ]
      },
