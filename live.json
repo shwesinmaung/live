@@ -79,23 +79,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
             "date": "May 25",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "hteam" : "Brighton",
             "ateam" : "Man city",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=efd789b37c57bae64e7118491399869b&auth_key=1684975221-0-0-6c4abdff2edf2306d531536800fa4438&edge_slice=true&sub_m3u8=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=81ea6e61f58381e0dd9b650ddc3fd73c&auth_key=1684975221-0-0-6c4abdff2edf2306d531536800fa4438&edge_slice=true&sub_m3u8=true"
                    }
                    ]
      },
@@ -103,23 +103,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/141.png",
             "date": "May 25",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "hteam" : "Fiorentina",
             "ateam" : "Inter",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-617898_lhd.m3u8?edge_slice=true&auth_key=1684975281-0-0-2be9208e0b7aaceb43e88298af00899a&sub_m3u8=true&user_session_id=fb4aee4532df0e816fa88d046d3cc470"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
