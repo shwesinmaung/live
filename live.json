@@ -1,55 +1,6 @@
 [
 
   
-      {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/48.png",
-            "date": "May 27",
-            "time": "10:15 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8669.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-            "hteam" : "Coventry",
-            "ateam" : "Luton",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991131_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685223038-0-0-f9118368ebc8d161f23d245f017b8b6e&user_session_id=ebc402f2c194f0e035ac3060fb1732e3"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1685223441-0-0-3fb769612ce0759dd5609fff91a3c143&user_session_id=89d62b850d9178056afe384a72975c30&edge_slice=true"
-                   }
-                   ]
-     },
- 
-  {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-            "date": "May 27",
-            "time": "11:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-            "hteam" : "Sevilla",
-            "ateam" : "Real Madrid",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?user_session_id=0ed68bb3766f4cde48f47c65b1b0ebd5&auth_key=1685226878-0-0-71376b9860aec9dd3090f2db4a508e70&sub_m3u8=true&edge_slice=true"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?user_session_id=2998e7574227d68cf988139ef9f3ef99&sub_m3u8=true&auth_key=1685227041-0-0-972048ed6952db699f9ac5fb00b8c1df&edge_slice=true"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?user_session_id=0ed68bb3766f4cde48f47c65b1b0ebd5&auth_key=1685226878-0-0-71376b9860aec9dd3090f2db4a508e70&sub_m3u8=true&edge_slice=true"
-                   }
-                   ]
-     },
   {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "May 28",
@@ -85,13 +36,13 @@
             "ateam" : "Troyes",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9453d7cc584bb48e91f56054e9c432f4&auth_key=1685235741-0-0-4401afb1cbf8a1c7a7c21b6818a16de1"
                      },
                    {   "type": "SD ",
                        "livelink":""
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-609240_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9453d7cc584bb48e91f56054e9c432f4&auth_key=1685235741-0-0-4401afb1cbf8a1c7a7c21b6818a16de1"
                      },
                    {   "type": "HD 2",
                        "livelink":""
@@ -112,13 +63,13 @@
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-724853_lhd.m3u8?auth_key=1685235561-0-0-00e59b6cea8b01b07715234abc8f2f77&edge_slice=true&sub_m3u8=true&user_session_id=385351054db4ddd13f6c43d3bb502bcd"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-k82rekh083p5rep/chunklist_w1986043396.m3u8"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-724853_lhd.m3u8?auth_key=1685235561-0-0-00e59b6cea8b01b07715234abc8f2f77&edge_slice=true&sub_m3u8=true&user_session_id=385351054db4ddd13f6c43d3bb502bcd"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-k82rekh083p5rep/chunklist_w1986043396.m3u8"
                    }
                    ]
      },
@@ -184,13 +135,13 @@
                        "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685234918-0-0-ad1afbfe63458564538703cc0c19cb6b&sub_m3u8=true&edge_slice=true&user_session_id=233b555a9cb08622ea47e89ae4087a75"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8elp0r51/chunklist_w1944914547.m3u8"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685234918-0-0-ad1afbfe63458564538703cc0c19cb6b&sub_m3u8=true&edge_slice=true&user_session_id=233b555a9cb08622ea47e89ae4087a75"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8elp0r51/chunklist_w1944914547.m3u8"
                    }
                    ]
      },
@@ -208,13 +159,13 @@
                        "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685235098-0-0-115db8ae038106c22b2b54ad815a8fd1&user_session_id=223000ef83558397ca50fd478246c150&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-dj2ryohednonq1z/chunklist_w1006524827.m3u8"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685235098-0-0-115db8ae038106c22b2b54ad815a8fd1&user_session_id=223000ef83558397ca50fd478246c150&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-dj2ryohednonq1z/chunklist_w1006524827.m3u8"
                    }
                    ]
      },
@@ -229,16 +180,16 @@
             "ateam" : "Nice",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?user_session_id=059e41054b190d15a5b0f677c5601c92&edge_slice=true&sub_m3u8=true&auth_key=1685235861-0-0-1bc5a4bf1a3185cdbe3924217acceed5"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-8yomo4hg50p5q0j/chunklist_w1467911571.m3u8"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?user_session_id=059e41054b190d15a5b0f677c5601c92&edge_slice=true&sub_m3u8=true&auth_key=1685235861-0-0-1bc5a4bf1a3185cdbe3924217acceed5"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-8yomo4hg50p5q0j/chunklist_w1467911571.m3u8"
                    }
                    ]
      },
@@ -304,13 +255,13 @@
                        "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&auth_key=1685234121-0-0-ec3303b175b9dd863c5d5254500fcaf2&edge_slice=true&user_session_id=4c8bb83a9ae2a914839acf9e473cfe52"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3596zm2w/chunklist_w574376512.m3u8"
                    },
                   {   "type": "HD 1",
                        "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&auth_key=1685234121-0-0-ec3303b175b9dd863c5d5254500fcaf2&edge_slice=true&user_session_id=4c8bb83a9ae2a914839acf9e473cfe52"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3596zm2w/chunklist_w574376512.m3u8"
                    }
                    ]
      },
