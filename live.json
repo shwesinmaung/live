@@ -58,13 +58,13 @@
             "ateam" : "Leverkusen",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=a5eeed6456192cdd3b3e5edf0b9b81be&txTime=64725536"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=a5eeed6456192cdd3b3e5edf0b9b81be&txTime=64725536"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -82,13 +82,13 @@
             "ateam" : "Mainz",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?user_session_id=aec00dae1ac0e2a527b2bcf8bb1019dc&auth_key=1685214458-0-0-75f769164349805886cbc0acc431f8f4&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685214458-0-0-75f769164349805886cbc0acc431f8f4&sub_m3u8=true&edge_slice=true&user_session_id=d6b2003a0928a05011895838b1c1f943"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -106,13 +106,13 @@
             "ateam" : "Augsburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=21d8274f015f0b57dd75954894d38c0c&txTime=64725626"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=21d8274f015f0b57dd75954894d38c0c&txTime=64725626"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -130,16 +130,16 @@
             "ateam" : "Freiburg",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=b9891a9348eeb5fdb5549b8128477edf&txTime=6472569e"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=b9891a9348eeb5fdb5549b8128477edf&txTime=6472569e"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=b9891a9348eeb5fdb5549b8128477edf&txTime=6472569e"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=b9891a9348eeb5fdb5549b8128477edf&txTime=6472569e"
                    }
                    ]
      },
@@ -154,13 +154,13 @@
             "ateam" : "Bayern Munchen",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=28fa943be006378944b2d94990fbde62&txTime=64725446"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=28fa943be006378944b2d94990fbde62&txTime=64725446"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -178,16 +178,16 @@
             "ateam" : "Schalke 04",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8c94c714c44cc082bbfc2fd1cfb9d001&txTime=64725392"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8c94c714c44cc082bbfc2fd1cfb9d001&txTime=64725392"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8c94c714c44cc082bbfc2fd1cfb9d001&txTime=64725392"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=8c94c714c44cc082bbfc2fd1cfb9d001&txTime=64725392"
                    }
                    ]
      },
@@ -202,13 +202,13 @@
             "ateam" : "Werder Bremen",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd-1685192604.ts?txspiseq=103554131795166272370"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd-1685192604.ts?txspiseq=103554131795166272370"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -226,13 +226,13 @@
             "ateam" : "Hoffenheim",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991135_lhd.m3u8?user_session_id=33f12c855771433d3e2185e3d19be013&auth_key=1685214938-0-0-7bdc2a01760a19ebd74e736fa0c96840&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991135_lhd.m3u8?user_session_id=33f12c855771433d3e2185e3d19be013&auth_key=1685214938-0-0-7bdc2a01760a19ebd74e736fa0c96840&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
@@ -250,13 +250,13 @@
             "ateam" : "Hertha BSC",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685214998-0-0-bc24038a7411509194478e9ea640b4df&sub_m3u8=true&user_session_id=9c97f8c1c2efa789825578ea3697b3c3&edge_slice=true"
                      },
                    {   "type": "SD ",
                        "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685214998-0-0-bc24038a7411509194478e9ea640b4df&sub_m3u8=true&user_session_id=2839827da48505d19e039a88758b4636&edge_slice=true"
                      },
                    {   "type": "HD 2",
                        "livelink":"https"
