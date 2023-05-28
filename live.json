@@ -268,23 +268,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281.png",
             "hteam" : "Almeria",
             "ateam" : "Real Valladolid",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -292,23 +292,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
             "hteam" : "Athletic Club",
             "ateam" : "Elche",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -316,23 +316,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
             "hteam" : "Atletico Madrid",
             "ateam" : "Real Sociedad",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -340,23 +340,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
             "hteam" : "Barcelona",
             "ateam" : "Mallorca",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=cda9f635a2cd5866a593a6b017466716&txTime=6473d73a"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=cda9f635a2cd5866a593a6b017466716&txTime=6473d73a"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -364,23 +364,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
             "hteam" : "Cadiz",
             "ateam" : "Celta Vigo",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -388,23 +388,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
             "hteam" : "Getafe",
             "ateam" : "Osasuna",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -412,23 +412,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
             "hteam" : "Girona",
             "ateam" : "Real Betis",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -436,23 +436,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
             "hteam" : "Rayo Vallecano",
             "ateam" : "Villarreal",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -460,23 +460,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
             "date": "May 28",
             "time": "11:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
             "hteam" : "Valencina",
             "ateam" : "Espanyol",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -491,16 +491,16 @@
             "ateam" : "Milan",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
