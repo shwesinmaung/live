@@ -226,7 +226,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "May 29",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
             "hteam" : "Juventus",
