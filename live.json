@@ -2,23 +2,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "May 28",
             "time": "5:00 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
             "hteam" : "Verona",
             "ateam" : "Empoli",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1685289801-0-0-cf0a64e90eb9c38341265c2fd8bf38f4&user_session_id=9ed7572a1898eb6b376574bd1b1659cf&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1685289801-0-0-cf0a64e90eb9c38341265c2fd8bf38f4&user_session_id=9ed7572a1898eb6b376574bd1b1659cf&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685289998-0-0-d9563ef0a6043927171c8a2028f15851&sub_m3u8=true&user_session_id=bffc72e6ae79b7f5512a492f60b40329&edge_slice=true"
                    }
                    ]
      },
