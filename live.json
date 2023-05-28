@@ -275,16 +275,16 @@
             "ateam" : "Real Valladolid",
             "link":[
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&user_session_id=7c53abcb91265df0fee2a3948586be0c&auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true"
                      },
                    {   "type": "SD ",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&user_session_id=7ff55c6ee46e6399d3ffa81c9f5aca97&auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true&user_session_id=ea8d43cab5b6522b355a849b4a7dc37d&sub_m3u8=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685315541-0-0-6aa217fd0eddb57a28058dfe180335fc&edge_slice=true&user_session_id=ea8d43cab5b6522b355a849b4a7dc37d&sub_m3u8=true"
                    }
                    ]
      },
@@ -473,10 +473,10 @@
                        "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&edge_slice=true&user_session_id=019eb4830bd20cb9d356bc74708ff1d1&sub_m3u8=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&user_session_id=a6c1552dc054f14f3baacd918c61284a&edge_slice=true"
                      },
                    {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&auth_key=1685315302-0-0-03988f6ad69be709707456a1f402382e&user_session_id=a6c1552dc054f14f3baacd918c61284a&edge_slice=true"
                    }
                    ]
      },
