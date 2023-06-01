@@ -3,7 +3,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
             "date": "Jun 1",
             "time": "1:30 AM",
-            "isLive": true,
+            "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
             "hteam" : "Sevilla",
