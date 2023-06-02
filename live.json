@@ -3,23 +3,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
             "date": "Jun 3",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "hteam" : "Sassuolo",
             "ateam" : "Fiorentina",
             "link":[
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=4ca04cd46fdfff5d76bcf6d3d715c1d8&txTime=647a8a26"
                      },
                    {   "type": "SD ",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&auth_key=1685752461-0-0-191ea89ee6835af769c5220f8358233d&user_session_id=a19f92b25d7f86d408df596d83ba9c51&sub_m3u8=true"
                    },
                   {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=4ca04cd46fdfff5d76bcf6d3d715c1d8&txTime=647a8a26"
                      },
                    {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&auth_key=1685752461-0-0-191ea89ee6835af769c5220f8358233d&user_session_id=52595b67c612f61d0ae9727b54146fff&sub_m3u8=true"
                    }
                    ]
      },
