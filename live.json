@@ -24,7 +24,30 @@
                        "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1685925879-0-0-da8608836af6ef135bacb104a350d64d&sub_m3u8=true&edge_slice=true&user_session_id=6d5b638eb2aca0a6d66aebf667537e90"
                    }
                    ]
+     },
+  {
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+            "date": "Jun 11",
+            "time": "1:30 AM",
+            "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "hteam" : "Man City",
+            "ateam" : "Inter",
+            "link":[
+                   {   "type": "SD ",
+                       "livelink":""
+                     },
+                   {   "type": "SD ",
+                       "livelink":""
+                   },
+                  {   "type": "HD 1",
+                       "livelink":""
+                     },
+                   {   "type": "HD 2",
+                       "livelink":""
+                   }
+                   ]
      }
-  
 
 ]
