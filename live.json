@@ -5,7 +5,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10216.png",
             "date": "Jun 8",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
             "hteam" : "Fiorentina",
