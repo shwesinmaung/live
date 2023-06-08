@@ -2,30 +2,6 @@
  
  
   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/10216.png",
-            "date": "Jun 8",
-            "time": "1:30 AM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-            "hteam" : "Fiorentina",
-            "ateam" : "West Ham",
-            "link":[
-                   {   "type": "SD ",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1685925682-0-0-3136f964441a918e58514dcd67d92d17&sub_m3u8=true&edge_slice=true&user_session_id=38d18936d52ad0b5990a70ac93cce571"
-                     },
-                   {   "type": "SD ",
-                       "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1685925879-0-0-da8608836af6ef135bacb104a350d64d&sub_m3u8=true&edge_slice=true&user_session_id=ee43e865a32e3ed7a854c9ee035c6cbf"
-                   },
-                  {   "type": "HD 1",
-                       "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&user_session_id=ac43e8858c9c17afc8e7d35ff8f4f49b&auth_key=1685925682-0-0-3136f964441a918e58514dcd67d92d17&sub_m3u8=true"
-                     },
-                   {   "type": "HD 2",
-                       "livelink":"https://e10b5fdb7827004052bc658014554172.livehwc3.cn/pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1685925879-0-0-da8608836af6ef135bacb104a350d64d&sub_m3u8=true&edge_slice=true&user_session_id=6d5b638eb2aca0a6d66aebf667537e90"
-                   }
-                   ]
-     },
-  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
             "date": "Jun 11",
             "time": "1:30 AM",
