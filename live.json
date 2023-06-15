@@ -26,23 +26,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 15",
             "time": "6:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6716_xsmall.png",
             "hteam" : "Argentina",
             "ateam" : "Australia",
             "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686851380-0-0-c530041703a784b124f787a1c5475c24&sub_m3u8=true&user_session_id=9d77cdc8efbbe76025b8127fd95c4f1b&edge_slice=true"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686851380-0-0-c530041703a784b124f787a1c5475c24&sub_m3u8=true&user_session_id=d8a012b3b013500e7baf820d3a42a849&edge_slice=true"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1686851380-0-0-c530041703a784b124f787a1c5475c24&user_session_id=ce3e6d949572a9f016745b94d0ad5464"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1686851380-0-0-c530041703a784b124f787a1c5475c24&user_session_id=ce3e6d949572a9f016745b94d0ad5464"
                    }
                    ]
      },
