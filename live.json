@@ -1,29 +1,4 @@
  [ 
- 
-   {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png",
-            "date": "Jun 16",
-            "time": "1:15 AM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
-            "hteam" : "Spain",
-            "ateam" : "Italy",
-            "link":[
-                   {   "type": "SD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=fd68209cdffe3dd6ff82f0f3cb5e9832&txTime=648bad6c"
-                   },
-                  {   "type": "SD 2 ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://pull.juqihuo.com/live/stream-308116_lhd.flv?auth_key=1686875602-0-0-2c276d77f578a8a7e1f91c1211e4e456"
-                    },
-                  {   "type": "HD 2",
-                       "livelink":"https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=fd68209cdffe3dd6ff82f0f3cb5e9832&txTime=648bad6c"
-                   }
-                   ]
-     },
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 16",
