@@ -3,23 +3,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 16",
             "time": "5:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
             "hteam" : "South Korea",
             "ateam" : "Peru",
             "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&user_session_id=331949bc98121b9a27fe5a2ac3984b15&sub_m3u8=true&auth_key=1686932680-0-0-f9e4bcd3e6276ad772a4c95c79d8afe0"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?edge_slice=true&user_session_id=331949bc98121b9a27fe5a2ac3984b15&sub_m3u8=true&auth_key=1686932680-0-0-f9e4bcd3e6276ad772a4c95c79d8afe0"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
                    }
                    ]
      },
