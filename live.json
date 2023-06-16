@@ -2,30 +2,6 @@
 
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-            "date": "Jun 16",
-            "time": "10:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
-            "hteam" : "Filand",
-            "ateam" : "Slovenia",
-           "link":[
-                   {   "type": "SD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=b073431db5fcce2671eb5560b7fbd7d9&txTime=648cd5ac"
-                   },
-                  {   "type": "SD 2 ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=b073431db5fcce2671eb5560b7fbd7d9&txTime=648cd5ac"
-                    },
-                  {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-                   }
-                   ]
-     },
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
             "isLive": true,
@@ -35,16 +11,16 @@
             "ateam" : "Switzerland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=f36c27b83e9cd8c4ab6fd8dbbe3d7ce2&txTime=648cfe74"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=f36c27b83e9cd8c4ab6fd8dbbe3d7ce2&txTime=648cfe74"
                      },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=f36c27b83e9cd8c4ab6fd8dbbe3d7ce2&txTime=648cfe74"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=f36c27b83e9cd8c4ab6fd8dbbe3d7ce2&txTime=648cfe74"
                    }
                    ]
      },
@@ -59,13 +35,13 @@
             "ateam" : "Northern Ireland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b95b0c09747398b3c3b1673421996814&txTime=648cfc58"
                    },
                   {   "type": "SD 2 ",
                        "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b95b0c09747398b3c3b1673421996814&txTime=648cfc58"
                     },
                   {   "type": "HD 2",
                        "livelink":"https"
@@ -86,13 +62,13 @@
                        "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1686961882-0-0-90db8d4cd93f18c40e9873217e817925"
                      },
                    {   "type": "HD 1",
                        "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1686961882-0-0-90db8d4cd93f18c40e9873217e817925"
                    }
                    ]
      },
@@ -107,16 +83,16 @@
             "ateam" : "Ireland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ff2703771186e44ed18f9ae7cc357ef0&txTime=648cfd0c"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ff2703771186e44ed18f9ae7cc357ef0&txTime=648cfd0c"
                      },
                    {   "type": "HD 1",
-                       "livelink":"httpd"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ff2703771186e44ed18f9ae7cc357ef0&txTime=648cfd0c"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ff2703771186e44ed18f9ae7cc357ef0&txTime=648cfd0c"
                    }
                    ]
      },
@@ -134,13 +110,13 @@
                        "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://pull.juqihuo.com/live/stream-492306_lhd.flv?auth_key=1686961583-0-0-ad6e1a1570c0c906b095b30f08e8e923"
                      },
                    {   "type": "HD 1",
                        "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://pull.juqihuo.com/live/stream-492306_lhd.flv?auth_key=1686961583-0-0-ad6e1a1570c0c906b095b30f08e8e923"
                    }
                    ]
      },
@@ -179,16 +155,16 @@
             "ateam" : "Armenia",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":"https"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1686961300-0-0-17e1f85f0e00cb54e9c072eda02385c3&user_session_id=ac65772a29d1b4f183f9450578a32503"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686961300-0-0-17e1f85f0e00cb54e9c072eda02385c3&edge_slice=true&user_session_id=2fb4d787f14c55772200426cbd7ba312&sub_m3u8=true"
                      },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686961300-0-0-17e1f85f0e00cb54e9c072eda02385c3&edge_slice=true&sub_m3u8=true&user_session_id=d81d1f52ea1c79fb2a3d9b2b8984f17f"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686961300-0-0-17e1f85f0e00cb54e9c072eda02385c3&edge_slice=true&sub_m3u8=true&user_session_id=d81d1f52ea1c79fb2a3d9b2b8984f17f"
                    }
                    ]
      },
