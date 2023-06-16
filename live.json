@@ -28,23 +28,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
             "hteam" : "Andorra",
             "ateam" : "Switzerland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -52,23 +52,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259.png",
             "hteam" : "Denmark",
             "ateam" : "Northern Ireland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -76,23 +76,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
             "hteam" : "Gibraltar",
             "ateam" : "France",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -100,23 +100,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
             "hteam" : "Greece",
             "ateam" : "Ireland",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"httpd"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -124,23 +124,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
             "hteam" : "Malta",
             "ateam" : "England",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -148,23 +148,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
             "hteam" : "North Macedonia",
             "ateam" : "Ukraine",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -172,23 +172,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
             "hteam" : "Wales",
             "ateam" : "Armenia",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -196,23 +196,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_xsmall.png",
             "hteam" : "Poland",
             "ateam" : "Germany",
             "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
