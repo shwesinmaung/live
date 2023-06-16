@@ -196,7 +196,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 17",
             "time": "1:15 AM",
-            "isLive": true,
+            "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_xsmall.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8570_xsmall.png",
             "hteam" : "Poland",
