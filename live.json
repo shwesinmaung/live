@@ -190,5 +190,29 @@
                        "livelink":""
                    }
                    ]
+     },
+  {
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
+            "date": "Jun 18",
+            "time": "6:00 PM",
+            "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5797_small.png",
+            "hteam" : "Ecuador",
+            "ateam" : "Bolivia",
+           "link":[
+                   {   "type": "SD 1",
+                       "livelink":""
+                   },
+                  {   "type": "SD 2 ",
+                       "livelink":""
+                     },
+                   {   "type": "HD 1",
+                       "livelink":""
+                    },
+                  {   "type": "HD 2",
+                       "livelink":""
+                   }
+                   ]
      }
  ]
