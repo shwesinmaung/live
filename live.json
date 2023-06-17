@@ -2,23 +2,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/289.png",
             "date": "Jun 17",
             "time": "7:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6277.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
             "hteam" : "Zambia",
             "ateam" : "Ivory Coast",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -26,23 +26,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "7:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150.png",
             "hteam" : "Lithuania",
             "ateam" : "Bulgaria",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -50,23 +50,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 17",
             "time": "7:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
             "hteam" : "Luxembourg",
             "ateam" : "Liechtenstein",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
