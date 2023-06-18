@@ -131,16 +131,16 @@
             "ateam" : "South Sudan",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":"https"
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687128040-0-0-05f46fde65775bd19672befb530be297&edge_slice=true&sub_m3u8=true&user_session_id=e7ff773bcb0058e8bb2ec6d57a570304"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":"https"
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687128040-0-0-05f46fde65775bd19672befb530be297&edge_slice=true&sub_m3u8=true&user_session_id=e5259aada472f6a7fcfbf9bdee9bf9e0"
                      },
                    {   "type": "HD 1",
-                       "livelink":"https"
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?sub_m3u8=true&auth_key=1687128040-0-0-05f46fde65775bd19672befb530be297&user_session_id=1fabbe944a1755af4816fc00f3552026&edge_slice=true"
                     },
                   {   "type": "HD 2",
-                       "livelink":"https"
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lhd.m3u8?sub_m3u8=true&auth_key=1687128040-0-0-05f46fde65775bd19672befb530be297&user_session_id=1fabbe944a1755af4816fc00f3552026&edge_slice=true"
                    }
                    ]
      },
