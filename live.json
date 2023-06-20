@@ -1,52 +1,5 @@
 [
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "Jun 20",
-            "time": "5:30 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327.png",
-            "hteam" : "South Korea",
-            "ateam" : "El Salvador",
-           "link":[
-                   {   "type": "SD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687261802-0-0-9267eb9fcbd5b4a876615187dc03e8b9&edge_slice=true&sub_m3u8=true&user_session_id=b5ce720f3729b3b73cb60f7bce1b0fc8"
-                   },
-                  {   "type": "SD 2 ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687261802-0-0-9267eb9fcbd5b4a876615187dc03e8b9&edge_slice=true&sub_m3u8=true&user_session_id=b5ce720f3729b3b73cb60f7bce1b0fc8"
-                    },
-                  {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
-                   }
-                   ]
-     },
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
-            "date": "Jun 21",
-            "time": "7:00 PM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6320.png",
-            "hteam" : "Vietnam",
-            "ateam" : "Syria",
-           "link":[
-                   {   "type": "SD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1687266902-0-0-a44ece9bc39e266476d0ee116be9beb2&user_session_id=f941063885bca04b60fbdedf5ab0cc0a"
-                   },
-                  {   "type": "SD 2 ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991128_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1687266902-0-0-a44ece9bc39e266476d0ee116be9beb2&user_session_id=f941063885bca04b60fbdedf5ab0cc0a"
-                    },
-                  {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-                   }
-                   ]
-     },
+ 
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
             "date": "Jun 21",
