@@ -11,16 +11,16 @@
             "ateam" : "Sweden ",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https"
                    }
                    ]
      },
@@ -292,7 +292,7 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 21",
             "time": "1:30 AM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
             "hteam" : "Brazil",
