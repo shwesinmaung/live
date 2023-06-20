@@ -30,23 +30,23 @@
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/114.png",
             "date": "Jun 20",
             "time": "5:30 PM",
-            "isLive": false,
+            "isLive": true,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6327.png",
             "hteam" : "South Korea",
             "ateam" : "El Salvador",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687261802-0-0-9267eb9fcbd5b4a876615187dc03e8b9&edge_slice=true&sub_m3u8=true&user_session_id=b5ce720f3729b3b73cb60f7bce1b0fc8"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687261802-0-0-9267eb9fcbd5b4a876615187dc03e8b9&edge_slice=true&sub_m3u8=true&user_session_id=b5ce720f3729b3b73cb60f7bce1b0fc8"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8"
                    }
                    ]
      },
