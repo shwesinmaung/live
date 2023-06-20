@@ -252,16 +252,16 @@
             "ateam" : "Colombia",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?user_session_id=c57cc7ced31e83dd29d5d332c5561c90&auth_key=1687291142-0-0-0c987532d991c46a0aeb27eebfa87ea3&edge_slice=true&sub_m3u8=true"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?user_session_id=d6fff4e7b0e4b8ea150e7c15b69c856c&auth_key=1687291142-0-0-0c987532d991c46a0aeb27eebfa87ea3&edge_slice=true&sub_m3u8=true"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687291142-0-0-0c987532d991c46a0aeb27eebfa87ea3&edge_slice=true&sub_m3u8=true&user_session_id=734fbd7cdb0a8630f787c2e25e0cba1a"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687291142-0-0-0c987532d991c46a0aeb27eebfa87ea3&edge_slice=true&sub_m3u8=true&user_session_id=734fbd7cdb0a8630f787c2e25e0cba1a"
                    }
                    ]
      },
@@ -276,16 +276,16 @@
             "ateam" : "Senegal",
            "link":[
                    {   "type": "SD 1",
-                       "livelink":""
+                       "livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=189b241feb7672d14bf2e32a9184152f&txTime=64924b92"
                    },
                   {   "type": "SD 2 ",
-                       "livelink":""
+                       "livelink":"https://pull.juqihuo.com/live/stream-716626_lhd.flv?auth_key=1687309343-0-0-f139e0b2da536de7f56016cdd15edd48"
                      },
                    {   "type": "HD 1",
-                       "livelink":""
+                       "livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=189b241feb7672d14bf2e32a9184152f&txTime=64924b92"
                     },
                   {   "type": "HD 2",
-                       "livelink":""
+                       "livelink":"https://pull.juqihuo.com/live/stream-716626_lhd.flv?auth_key=1687309343-0-0-f139e0b2da536de7f56016cdd15edd48"
                    }
                    ]
      },
