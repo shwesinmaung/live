@@ -1,31 +1,4 @@
 [
- 
-
-
- {
-           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/288.png",
-            "date": "Jun 22",
-            "time": "1:15 AM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8553.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505.png",
-            "hteam" : "Romania U21",
-            "ateam" : "Spain U21",
-           "link":[
-                   {   "type": "SD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687375322-0-0-66dc0a8420ae8a4f2852db3903cb20f4&sub_m3u8=true&user_session_id=96c7f4156ea2f418bed11f716c4e2483&edge_slice=true"
-                   },
-                  {   "type": "SD 2 ",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
-                     },
-                   {   "type": "HD 1",
-                       "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687375322-0-0-66dc0a8420ae8a4f2852db3903cb20f4&sub_m3u8=true&user_session_id=96c7f4156ea2f418bed11f716c4e2483&edge_slice=true"
-                    },
-                  {   "type": "HD 2",
-                       "livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
-                   }
-                   ]
-     },
  {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/288.png",
             "date": "Jun 22",
