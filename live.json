@@ -3,8 +3,8 @@
            {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
             "date": "Jun 28",
-            "time": "10:30 PM",
-            "isLive": true,
+            "time": "Ended",
+            "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6638_small.png",
             "hteam" : "England U21",
@@ -31,8 +31,8 @@
            {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
             "date": "Jun 28",
-            "time": "10:30 PM",
-            "isLive": true,
+            "time": "Ended",
+            "isLive": false,
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5833_small.png",
             "hteam" : "Israel U21",
