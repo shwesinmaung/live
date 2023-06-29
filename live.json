@@ -56,6 +56,34 @@
 }
                    ]
      },
+              {
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/130.png",
+            "date": "July 2",
+            "time": "6:00 AM",
+            "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1218886_small.png",
+            "hteam" : "Inter Miami CF",
+            "ateam" : "Austin FC",
+           "link":[
+              {
+"type": "SD 1",
+"livelink":""
+},
+                                 {
+"type": "SD 2",
+"livelink":""
+},
+                                 {
+"type": "HD 1",
+"livelink":""
+},
+                                 {
+"type": "HD 2",
+"livelink":""
+}
+                   ]
+     },
             {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
             "date": "July 2",
