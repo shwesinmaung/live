@@ -3,29 +3,57 @@
          
             {
            "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
-            "date": "July 3",
+            "date": "July 5",
+            "time": "10:30 PM",
+            "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5828_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5846_small.png",
+            "hteam" : "Israel U21",
+            "ateam" : "England U21",
+           "link":[
+              {
+"type": "SD 1",
+"livelink":""
+},
+                                 {
+"type": "SD 2",
+"livelink":""
+},
+                                 {
+"type": "HD 1",
+"livelink":""
+},
+                                 {
+"type": "HD 2",
+"livelink":""
+}
+                   ]
+     },
+          {
+           "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/288.png",
+            "date": "July 6",
             "time": "1:30 AM",
-            "isLive": true,
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6653_small.png",
+            "isLive": false,
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8505_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6658_small.png",
-            "hteam" : "France U21",
+            "hteam" : "Spain U21",
             "ateam" : "Ukraine U21",
            "link":[
               {
 "type": "SD 1",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
+"livelink":""
 },
                                  {
 "type": "SD 2",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1688327166-0-0-b242515924ffedc4b905ac531859c610&edge_slice=true&user_session_id=0e97bd3f992782531381515e381e16ee&sub_m3u8=true"
+"livelink":""
 },
                                  {
 "type": "HD 1",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1688327166-0-0-b242515924ffedc4b905ac531859c610&user_session_id=1eb9aa19dc35a7c1f1160554e97c7574&edge_slice=true&sub_m3u8=true"
+"livelink":""
 },
                                  {
 "type": "HD 2",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+"livelink":""
 }
                    ]
      }
