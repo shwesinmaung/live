@@ -3,7 +3,7 @@
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/287.png",
 "date": "July 9",
 "time": "10:30 PM",
-"isLive": false,
+"isLive": true,
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401896_small.png",
 
@@ -13,19 +13,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688920808-0-0-c8289586d575f948a242922b2955d193&user_session_id=f04ea93b69082500be17f665ab2011a6"
 }, 
 {
 "type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991136_lhd.m3u8?edge_slice=true&user_session_id=a3ae57cd027b33f411c2c18645ee14fc&sub_m3u8=true&auth_key=1688920808-0-0-c8289586d575f948a242922b2955d193"
 }
 ]
 },
@@ -35,7 +27,7 @@
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/287.png",
 "date": "July 9",
 "time": "10:30 PM",
-   "isLive": false,         
+   "isLive": true,         
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5931_small.png",
 "hteam" : "Italy U19",
@@ -44,19 +36,11 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?user_session_id=570fe073033f78b6f30f529c560a62b4&edge_slice=true&sub_m3u8=true&auth_key=1688920748-0-0-129006b94d4cdf4f2fb358c7ab841d95"
 }, 
 {
 "type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688920748-0-0-129006b94d4cdf4f2fb358c7ab841d95&user_session_id=0555d7df2d1cd199ce26658292900b86"
 }
 ]
 },
