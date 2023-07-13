@@ -7,7 +7,7 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
 "hteam" : "Portugal U19",
 "ateam" : "Norway U19",
-"islive":false,
+"isLive":false,
 "link":[
 {
 "type": "360 SD",
@@ -70,7 +70,7 @@
 
 "hteam" : "Spain U19",
 "ateam" : "Italy U19",
-"islive":false,
+"isLive":false,
 "link":[
 {
 "type": "360 SD",
