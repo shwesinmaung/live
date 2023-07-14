@@ -7,23 +7,11 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8587_small.png",
 "hteam" : "Lens",
 "ateam" : "Amiens",
-"isLive":false,
+"isLive":true,
 "link":[
 {
 "type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://pull.juqihuo.com/live/stream-265460_lhd.flv?auth_key=1689346823-0-0-4d2f063dcce34fd9786047ca45413745"
 }
 ]
 },
