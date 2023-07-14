@@ -1,23 +1,211 @@
 [     
        {
-"league":"https://images.fotmob.com/image_resources/logo/leaguelogo/dark/287.png",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "July 14",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
-
-"hteam" : "Spain U19",
-"ateam" : "Italy U19",
+"time": "8:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8587_small.png",
+"hteam" : "Lens",
+"ateam" : "Amiens",
 "isLive":false,
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-479379_lhd.m3u8?edge_slice=true&auth_key=1689277569-0-0-f4c977516e5b0a3b49c6c902f6e83fa2&sub_m3u8=true&user_session_id=6ef9c0106487eb3a6f970aaed8f12be5"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-479379_lhd.m3u8?edge_slice=true&auth_key=1689277569-0-0-f4c977516e5b0a3b49c6c902f6e83fa2&sub_m3u8=true&user_session_id=6ef9c0106487eb3a6f970aaed8f12be5"
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "9:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7730_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+"hteam" : "Lausanne",
+"ateam" : "Nice",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/553865_small.png",
+"hteam" : "Mallorca",
+"ateam" : "Union Gurten",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2442_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+"hteam" : "Stade Nyonnais",
+"ateam" : "Everton",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7869_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"hteam" : "Cordoba",
+"ateam" : "Sevilla",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/183563_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+"hteam" : "De Treffers",
+"ateam" : "Lyon",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+  
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 14",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8318_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+"hteam" : "TuS Koblenz",
+"ateam" : "Mainz",
+"isLive":false,
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
+
  ]
