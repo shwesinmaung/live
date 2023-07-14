@@ -1,35 +1,7 @@
 [     
        
 
-  
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 14",
-"time": "9:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7730_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"hteam" : "Lausanne",
-"ateam" : "Nice",
-"isLive":false,
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
+
 
   
 {
