@@ -1,39 +1,6 @@
 [     
        
  
-
-
-
-
-
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8651_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-
-"hteam" : "Northampton",
-"ateam" : "Leicester",
-"isLive":true,
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://1123793335.cdn.vnns.org/nenSD/chunks.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
-},
-
-{
-"type": "FHD",
-"livelink":"https://179314182.global.cdnfastest.com/live/nenFHD/playlist.m3u8"
-}
-]
-},
-
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
@@ -60,36 +27,8 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 }
 ]
-},
+}
 
  
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
-"time": "11:45 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1925_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
 
-"hteam" : "Göztepe",
-"ateam" : "Southampton",
-"isLive":false,
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-}
  ]
