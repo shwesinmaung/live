@@ -10,23 +10,20 @@
 
 "hteam" : "Perth Glory",
 "ateam" : "West Ham",
-"isLive":false,
+"isLive":true,
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://1123793335.cdn.vnns.org/may3SD/chunks.m3u8"
 }, 
 {
-"type": "480 HD",
-"livelink":""
+"type": "HD 1",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
+
 {
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 }
 ]
 },
