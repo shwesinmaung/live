@@ -53,67 +53,6 @@
 ]
 },
 
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
-"time": "6:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7978_small.png",
-
-"hteam" : "Feyenoord",
-"ateam" : "Union St.Gilloise",
-"isLive":false,
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
-
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
-"time": "6:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10006_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-
-"hteam" : "Walsall",
-"ateam" : "Aston Villa",
-"isLive":false,
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
 
  
 {
