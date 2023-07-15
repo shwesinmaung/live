@@ -28,35 +28,7 @@
 ]
 },
 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
-"time": "5:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9776_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 
-"hteam" : "Eintracht Braunschweig",
-"ateam" : "Real Betis",
-"isLive":false,
-"link":[
-{
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
-}
-]
-},
 
  
 {
