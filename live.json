@@ -4,36 +4,6 @@
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "July 15",
-"time": "4:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7961_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-
-"hteam" : "Perth Glory",
-"ateam" : "West Ham",
-"isLive":true,
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://1123793335.cdn.vnns.org/may3SD/chunks.m3u8"
-}, 
-{
-"type": "HD 1",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-}
-]
-},
-
-
-
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 15",
 "time": "6:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6189_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
@@ -64,23 +34,11 @@
 
 "hteam" : "Crystal Palace",
 "ateam" : "Brøndby IF",
-"isLive":false,
+"isLive":true,
 "link":[
 {
 "type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://179720687.global.cdnfastest.com/live/sd-8yomo4hgwne4q0j/playlist.m3u8"
 }
 ]
 },
