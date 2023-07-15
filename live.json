@@ -45,6 +45,10 @@
 {
 "type": "360 SD",
 "livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp5x3zmoe/playlist.m3u8"
+},
+       {
+"type": "HD",
+"livelink":"http://stream.doball.com:8080/hls/ch3.m3u8"
 }
 ]
 },
