@@ -40,23 +40,11 @@
 
 "hteam" : "Gateshead FC",
 "ateam" : "Newcastle",
-"isLive":false,
+"isLive":true,
 "link":[
 {
 "type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"livelink":"https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp5x3zmoe/playlist.m3u8"
 }
 ]
 },
