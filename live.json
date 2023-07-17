@@ -1,14 +1,42 @@
 [
  
 {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/287.png",
-"date": "July 17",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 18",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "isLive":false,
-"hteam" : "Portugal U19",
-"ateam" : "Italy U19",
+"hteam" : "Spurs",
+"ateam" : "West Ham",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c24a42e5c76df16b7b7db4e2deaa3e76&txTime=64b489b1"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "720 FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+},
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 18",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/954908_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"isLive":false,
+"hteam" : "Rottach-Egern",
+"ateam" : "Bayern Munchen",
 
 "link":[
 {
@@ -28,6 +56,61 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 }
 ]
+},
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 18",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/357259_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"isLive":false,
+"hteam" : "AD Ceuta",
+"ateam" : "Sevilla",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c24a42e5c76df16b7b7db4e2deaa3e76&txTime=64b489b1"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "720 FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+},
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 18",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"isLive":false,
+"hteam" : "Valencia",
+"ateam" : "Nottingham Forest",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c24a42e5c76df16b7b7db4e2deaa3e76&txTime=64b489b1"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98c69191330b8309338590e89953d7a1&txTime=64b489b1"
+},
+{
+"type": "720 FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 }
 
  
