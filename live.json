@@ -26,6 +26,10 @@
 {
 "type": "720 FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+}
+
+]
+
 },
 
  {
@@ -83,7 +87,9 @@
 {
 "type": "720 FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
-},
+}
+]
+ },
 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
@@ -115,7 +121,8 @@
 
  
 ]
-
  }
+
+
 
 ]
