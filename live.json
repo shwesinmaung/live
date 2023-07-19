@@ -9,22 +9,61 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Man United",
 "ateam" : "Lyon",
 
 "link":[
+ {
+
+                    "type": "MUTV 360 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+
+         
+
+                },
+
+                
+
 {
-"type": "360 SD",
-"livelink":""
+
+                    "type": "MUTV 240 SD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MUTV 540 HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+         
+
+                },
+
+{
+
+                    "type": "MAN U TV 1080HD",
+
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+
+                },
+{
+"type": "Soco HD",
+"livelink":"https://pull.niues.live/live/stream-991139_lhd.m3u8?auth_key=1689774050-0-0-430385b63dfad6fa302583ef5207cf14"
 },
  {
 "type": "HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
  {
 "type": "FHD",
-"livelink":""
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 
  
