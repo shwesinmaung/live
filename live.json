@@ -48,15 +48,19 @@
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-231997_lsd.m3u8?auth_key=1689786710-0-0-5226387485db29ee561e11437ed5a03b"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull.niues.live/live/stream-231997_lhd.m3u8?auth_key=1689786710-0-0-5bb17307482f92c18dea216272053890"
 },
- {
-"type": "HD",
-"livelink":""
+{
+"type": "480 HD",
+"livelink":"https://pull.niues.live/live/stream-381973_lsd.m3u8?auth_key=1689786710-0-0-2a592f6b12e9701b8441ef7e4d5ae6c3"
 },
- {
+{
 "type": "FHD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-381973_lhd.m3u8?auth_key=1689786710-0-0-4081bf1599545a155337137aa4eacd39"
 }
 
  
