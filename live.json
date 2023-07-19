@@ -3,45 +3,6 @@
 
 
 
-
-
-
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 19",
-"time": "4:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1773_small.png",
-"isLive":true,
-"hteam" : "Leicester City",
-"ateam" : "OH Leuven",
-
-"link":[
- {
-"type": "360 SD 1",
-"livelink":"https://pull.niues.live/live/stream-112565_lsd.m3u8?auth_key=1689763310-0-0-ffec8323bc6eb6981107a549df5b1654"
-}, 
-{
-"type": "480 HD 2",
-"livelink":"https://pull.niues.live/live/stream-112565_lhd.m3u8?auth_key=1689763310-0-0-66574e6e0073435835a9834b805d59c4"
-},
-{
-"type": "360 SD",
-"livelink":"https://1123793335.cdn.vnns.org/may2SD/playlist.m3u8"
-},
- {
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
- {
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-}
-
- 
-]
- },
-
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "July 19",
