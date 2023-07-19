@@ -8,32 +8,117 @@
 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 18",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"isLive":true,
-"hteam" : "Valencia",
-"ateam" : "Nottingham Forest",
+"date": "July 19",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1773_small.png",
+"isLive":false,
+"hteam" : "Leicester City",
+"ateam" : "OH Leuven",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":"https://1123793335.cdn.vnns.org/may1SD/chunks.m3u8"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink":""
 },
-
-{
+ {
+"type": "HD",
+"livelink":""
+},
+ {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":""
+}
+
+ 
+]
+ },
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 19",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+"isLive":false,
+"hteam" : "Man United",
+"ateam" : "Lyon",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
+}
+
+ 
+]
+ },
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 19",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7782_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"isLive":false,
+"hteam" : "Oberhausen",
+"ateam" : "Dortmund",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
+}
+
+ 
+]
+ },
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 19",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8295_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"isLive":false,
+"hteam" : "Karlsruher SC",
+"ateam" : "Liverpool",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
 }
 
  
 ]
  }
+
+ 
 
 
 
