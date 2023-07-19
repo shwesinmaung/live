@@ -17,6 +17,14 @@
 "ateam" : "OH Leuven",
 
 "link":[
+ {
+"type": "360 SD 1",
+"livelink":"https://pull.niues.live/live/stream-112565_lsd.m3u8?auth_key=1689763310-0-0-ffec8323bc6eb6981107a549df5b1654"
+}, 
+{
+"type": "480 HD 2",
+"livelink":"https://pull.niues.live/live/stream-112565_lhd.m3u8?auth_key=1689763310-0-0-66574e6e0073435835a9834b805d59c4"
+},
 {
 "type": "360 SD",
 "livelink":"https://1123793335.cdn.vnns.org/may2SD/playlist.m3u8"
