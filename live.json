@@ -21,6 +21,11 @@
 {
 "type": "480 HD 2",
 "livelink":"https://pull06.scstream.net/live/stream-991139_lhd.flv?auth_key=1689849830-0-0-f8abf5f8e2de23a45ca16fe74178139b"
+},
+ 
+{
+"type": "FHD",
+"livelink":"http://128.199.156.233:80/fotlive/fotlive/1"
 }
 ]
 },
