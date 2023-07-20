@@ -30,15 +30,140 @@
 ]
 },
  
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 21",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
+"isLive":false,
+"hteam" : "Nigeria (W)",
+"ateam" : "Canada (W)",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 21",
+"time": "11:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
+"isLive":false,
+"hteam" : "Philippines (W)",
+"ateam" : "Switzerland (W)",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 21",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
+"isLive":false,
+"hteam" : "Spain (W)",
+"ateam" : "Costa Rica (W)",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 20",
-"time": "10:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"aimg": "https://volleybox.net/media/upload/teams/1554471982wvuz0.png",
+"date": "July 21",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "isLive":false,
-"hteam" : "Napoli",
-"ateam" : "Anaune",
+"hteam" : "Le Havre",
+"ateam" : "PSG",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 21",
+"time": "10:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",
+"isLive":false,
+"hteam" : "Leverkusen",
+"ateam" : "Paderborn",
 "link":[
 {
 "type": "360 SD",
