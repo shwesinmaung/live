@@ -9,25 +9,18 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Australia",
 "ateam" : "Ireland",
 "link":[
+ 
 {
-"type": "360 SD",
-"livelink":""
-}, 
-{
-"type": "480 HD",
-"livelink":""
+"type": "480 HD 1",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=37245584a4d0b513d438f15d14ee98b7&txTime=64b955fa"
 },
 {
-"type": "480 HD",
-"livelink":""
-},
-{
-"type": "720 FHD",
-"livelink":""
+"type": "480 HD 2",
+"livelink":"https://pull06.scstream.net/live/stream-991139_lhd.flv?auth_key=1689849830-0-0-f8abf5f8e2de23a45ca16fe74178139b"
 }
 ]
 },
