@@ -10,26 +10,26 @@
 "time": "9:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Nigeria (W)",
 "ateam" : "Canada (W)",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689908390-0-0-b2275c1d0b5042da587b7dd2889acd5e"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689908390-0-0-67ddfe2b1d076ed31d709a03999dbdf6"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": " FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
