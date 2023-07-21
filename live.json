@@ -14,6 +14,14 @@
 "ateam" : "Costa Rica (W)",
 
 "link":[
+ {
+"type": "360 SD",
+"livelink":"https://pull.niues.live/live/stream-991134_lsd.m3u8?auth_key=1689927890-0-0-b6905e392eee198de74f83816528e464"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull.niues.live/live/stream-991134_lhd.m3u8?auth_key=1689927890-0-0-3ff1d36aa4693a2168e5cd5d5bc1fcea"
+},
 {
 "type": "360 SD",
 "livelink":"https://1123793335.cdn.vnns.org/may1SD/playlist.m3u8"
