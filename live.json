@@ -7,59 +7,48 @@
  
 
  
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 22",
-"time": "6:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5904_small.png",
-"isLive":true,
-"hteam" : "Denmark (W)",
-"ateam" : "China (W)",
 
-"link":[
-
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-},
- {
-"type": "English HD",
-"livelink":"https://us.livenflstream.xyz/playlist/stream_1.m3u8"
-},
-
-{
-"type": "720 FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-}
-]
-}, 
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "July 23",
 "time": "3:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Man United",
 "ateam" : "Arsenal",
 
 "link":[
 {
+                    "type": "Vebo SD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+         
+                },
+{
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=98988bf3939d1bca1153db124713d761&txTime=64bc90c4"
 }, 
+ {
+                    "type": "Vebo HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c2640055794eb2b0cebd8d31aa71cb2c&txTime=64bc90c4"
 },
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?user_session_id=57ffcc705bb5a1fa54f7d8ee34089b67&auth_key=1690061488-0-0-fca795cb0cb7592f353c137884d17001&edge_slice=true&sub_m3u8=true"
 },
+ {
+                    "type": "Vebo FHD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+         
+                },
 {
 "type": "720 FHD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?user_session_id=d75e669069efdf67b3a69ff548b9ef8c&auth_key=1690061488-0-0-f16e5682db503b52f86da1a895cf6170&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
