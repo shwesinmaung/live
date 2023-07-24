@@ -2,32 +2,6 @@
 
 
  
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 24",
-"time": "12:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74870_small.png",
-"isLive":true,
-"hteam" : "Italy",
-"ateam" : "Argentina",
-
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=3138b275515c5694c0cc937c951d6082&txTime=64be6188"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-}
-]
-},
-
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
@@ -35,22 +9,22 @@
 "time": "3:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Germany",
 "ateam" : "Morocco",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1690189468-0-0-7d3c789d150fa33f2930a9e37a7f0e24&user_session_id=3411f0d1d05ddbb1c3eaf9c1369e5f81&sub_m3u8=true&edge_slice=true"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
