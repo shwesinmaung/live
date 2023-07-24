@@ -23,6 +23,14 @@
 {
 "type": "480 HD",
 "livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+}, 
+{
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8"
 }
 ]
 },
