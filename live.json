@@ -10,25 +10,103 @@
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 24",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5903_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967026_small.png",
+"date": "July 25",
+"time": "8:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",
 "isLive":false,
-"hteam" : "Brazil",
-"ateam" : "Panama",
+"hteam" : "Colombia",
+"ateam" : "South Korea",
 "link":[
 {
-"type": "360 SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?sub_m3u8=true&user_session_id=8f11be8bfa159c30081481f934cce8ce&edge_slice=true&auth_key=1690198348-0-0-1c30da8d2c509af5014aee383c07e8e3"
-}, 
-{
-"type": "480 HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411"
+"type": "SD",
+"livelink":""
 },
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
+}
+]
+},
+
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 25",
+"time": "12:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
+"isLive":false,
+"hteam" : "New Zealand",
+"ateam" : "Philippines",
+"link":[
 {
-"type": " FHD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+"type": "SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
+}
+]
+},
+
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 25",
+"time": "2:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
+"isLive":false,
+"hteam" : "Switzerland",
+"ateam" : "Norway",
+"link":[
+{
+"type": "SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
+}
+]
+},
+
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 25",
+"time": "4:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"isLive":false,
+"hteam" : "PSG",
+"ateam" : "AI Nassr FC",
+"link":[
+{
+"type": "SD",
+"livelink":""
+},
+ {
+"type": "HD",
+"livelink":""
+},
+ {
+"type": "FHD",
+"livelink":""
 }
 ]
 }
