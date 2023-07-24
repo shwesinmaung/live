@@ -1,39 +1,6 @@
 [
 
 
-
-
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 24",
-"time": "8:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"isLive":true,
-"hteam" : "Real Madrid",
-"ateam" : "Milan",
-
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-171964_lsd.m3u8?txSecret=6030e00a65ff5ad4fe1e389768604756&txTime=64be28d0"
-}, 
- {
-                    "type": "Soco HD",
-                "livelink":"https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=5f1a4f439ebde76bc80fa4669a0e8f3c&txTime=64be28d0"
-         
-                },
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-{
-"type": " FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-}
-]
-},
-
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
