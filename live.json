@@ -5,40 +5,192 @@
  
 
 
-
-
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 25",
-"time": "Ended",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"isLive":false,
-"hteam" : "PSG",
-"ateam" : "AI Nassr FC",
+"date": "July 26",
+"time": "6:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
+"isLive": false
+"hteam" : "Inter Miami CF",
+"ateam" : "Atlanta United",
+
 "link":[
- {
+{
 "type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=52be3f3eac003e826611c16b74abbc36&txTime=64bfed64"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=99776bc3fedaf2d8c5a55d4954dca44f&txTime=64bfed64"
+"livelink":""
 },
 {
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 26",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_small.png",
+"isLive": false
+"hteam" : "Man United",
+"ateam" : "Wrexham",
+
+"link":[
+{
 "type": "360 SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+"livelink":""
 }, 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+"livelink":""
 },
 {
-"type": " FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 26",
+"time": "11:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/604109_small.png",
+"isLive": false
+"hteam" : "Japan",
+"ateam" : "Costa Rica",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+ 
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 26",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1202714_small.png",
+"isLive": false
+"hteam" : "Spain",
+"ateam" : "Zambia",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 26",
+"time": "5:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+"isLive": false
+"hteam" : "Bayern München",
+"ateam" : "Man City",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 26",
+"time": "6:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/67366_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"isLive": false
+"hteam" : "Lion City Sailors FC",
+"ateam" : "Tottenham",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
+}
+]
+},
+
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 26",
+"time": "6:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74873_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/394241_small.png",
+"isLive": false
+"hteam" : "Canada",
+"ateam" : "Ireland",
+
+"link":[
+{
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
+},
+{
+"type": "720 FHD",
+"livelink":""
 }
 ]
 }
+
 
  
 
