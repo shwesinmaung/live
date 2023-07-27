@@ -6,31 +6,6 @@
  
 
  
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 27",
-"time": "2:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633431_small.png",
-"isLive":true,
-"hteam" : "Portugal",
-"ateam" : "Vietnam",
-
-"link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=571cdd6197dc147fc094a10415f43067&txTime=64c26cc4"
-}, 
-{
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": " FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-}
-]
-},
 
  
 {
@@ -44,17 +19,14 @@
 "ateam" : "Nigeria",
 
 "link":[
-{
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=c7332cc67ee8c9ce24af0574ed523870&txTime=64c29190"
-}, 
+
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
 }
 ]
 },
@@ -66,22 +38,22 @@
 "time": "4:45 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Al Nassr FC",
 "ateam" : "Inter",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=c7332cc67ee8c9ce24af0574ed523870&txTime=64c29190"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 }
 ]
 },
