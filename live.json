@@ -12,22 +12,22 @@
 "time": "2:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633431_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Portugal",
 "ateam" : "Vietnam",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=571cdd6197dc147fc094a10415f43067&txTime=64c26cc4"
 }, 
 {
-"type": "480 HD",
-"livelink":""
+"type": "HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": " FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 }
 ]
 },
