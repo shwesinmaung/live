@@ -39,22 +39,22 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Australia",
 "ateam" : "Nigeria",
 
 "link":[
 {
 "type": "360 SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=c7332cc67ee8c9ce24af0574ed523870&txTime=64c29190"
 }, 
 {
 "type": "480 HD",
-"livelink":""
+"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 }
 ]
 },
