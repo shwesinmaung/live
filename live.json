@@ -10,13 +10,13 @@
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 27",
-"time": "4:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
-"isLive":true,
-"hteam" : "Australia",
-"ateam" : "Nigeria",
+"date": "July 28",
+"time": "6:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74870_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
+"isLive":false,
+"hteam" : "Argentina",
+"ateam" : "South Africa",
 
 "link":[
 
@@ -34,13 +34,13 @@
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 27",
-"time": "4:45 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"isLive":true,
-"hteam" : "Al Nassr FC",
-"ateam" : "Inter",
+"date": "July 28",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"isLive":false,
+"hteam" : "Juventus",
+"ateam" : "Milan",
 
 "link":[
 {
@@ -61,13 +61,13 @@
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 27",
-"time": "5:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/207969_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"isLive":true,
-"hteam" : "K-League All Stars",
-"ateam" : "Atletico Madrid",
+"date": "July 28",
+"time": "9:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1124827_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"isLive":false,
+"hteam" : "San Diego",
+"ateam" : "Dortmund",
 
 "link":[
 
@@ -78,6 +78,75 @@
 {
 "type": " FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+}
+]
+},
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 28",
+"time": "3:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
+"isLive":false,
+"hteam" : "England",
+"ateam" : "Denmark",
+
+"link":[
+
+{
+"type": "480 HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
+},
+{
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
+}
+]
+},
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "July 28",
+"time": "4:50 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4692_small.png",
+"isLive":false,
+"hteam" : "PSG",
+"ateam" : "Cerezo Osaka",
+
+"link":[
+
+{
+"type": "480 HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": " FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+}
+]
+},
+
+
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "July 28",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
+"isLive":false,
+"hteam" : "China",
+"ateam" : "Haiti",
+
+"link":[
+
+{
+"type": "480 HD",
+"livelink":"https://images.fotmob.com/image_resources/logo/teamlogo/5904_small.png"
+},
+{
+"type": "FHD",
+"livelink":"https://images.fotmob.com/image_resources/logo/teamlogo/1126571_small.png"
 }
 ]
 }
