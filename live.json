@@ -10,33 +10,7 @@
 
 
 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 28",
-"time": "3:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
-"isLive":true,
-"hteam" : "England",
-"ateam" : "Denmark",
-
-"link":[
  
-{
-"type": "480 HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991146_lhd.m3u8?auth_key=1690535608-0-0-338e5cb72cc054bceb15c75bbe6ed9e5&sub_m3u8=true&user_session_id=95507b36dc5655a1fa14fc11d8d90c81&edge_slice=true"
-},
-
-{
-"type": "480 HD 2",
-"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-}
-]
-},
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "July 28",
@@ -75,19 +49,23 @@
 "time": "5:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "China",
 "ateam" : "Haiti",
 
 "link":[
+ {
+"type": "SD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+},
 
 {
 "type": "480 HD",
-"livelink":"https://images.fotmob.com/image_resources/logo/teamlogo/5904_small.png"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "FHD",
-"livelink":"https://images.fotmob.com/image_resources/logo/teamlogo/1126571_small.png"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 }
 ]
 }
