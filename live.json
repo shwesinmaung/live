@@ -1,31 +1,5 @@
 [
 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "July 29",
-"time": "6:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"isLive":true,
-"hteam" : "Brighton",
-"ateam" : "Newcastle",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8"
-},
-
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
-}
-]
-},
 
 
  
@@ -40,23 +14,23 @@
 "time": "2:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Sweden",
 "ateam" : "Italy",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
 },
 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 }
 ]
 },
