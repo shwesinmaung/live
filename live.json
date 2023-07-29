@@ -145,7 +145,7 @@
 "time": "3:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Leicester",
 "ateam" : "Liverpool",
 
@@ -199,7 +199,7 @@
 "time": "5:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Man City",
 "ateam" : "AT KO Madrid",
 
