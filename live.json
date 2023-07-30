@@ -4,62 +4,7 @@
 
 
 
-   
-
-
-    {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 30",
-"time": "1:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/633428_small.png",
-"isLive":true,
-"hteam" : "Norway",
-"ateam" : "Philippines",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?edge_slice=true&auth_key=1690701688-0-0-3f785935af1c690fb548fb194bbecacb&user_session_id=7408f94e2bf019eaf7e7116ef7a8422c&sub_m3u8=true"
-},
-
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?edge_slice=true&auth_key=1690701688-0-0-3f785935af1c690fb548fb194bbecacb&user_session_id=7408f94e2bf019eaf7e7116ef7a8422c&sub_m3u8=true"
-}
-]
-},
-
-    {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "July 30",
-"time": "1:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/74876_small.png",
-"isLive":true,
-"hteam" : "Switzerland",
-"ateam" : "New Zealand",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690701748-0-0-070bbf45be54a9e8594943443005820c&user_session_id=9ae1d029330b6433be174be88a26d13c"
-},
-
-{
-"type": "480 HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-}
-]
-},
+    
 
    {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
@@ -94,23 +39,23 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Germany",
 "ateam" : "Colombia",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonSD/playlist.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?auth_key=1690711169-0-0-aef75387c1b7fe0221021f842058d914&edge_slice=true&sub_m3u8=true&user_session_id=d96372c41bf09527675928a27cad7ac9"
 },
 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?auth_key=1690711169-0-0-140604fcfd63e582768a34e3266c9bf3&edge_slice=true&sub_m3u8=true&user_session_id=33148435c4b21ccdcdeec1948bfb64c3"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
 }
 ]
 },
