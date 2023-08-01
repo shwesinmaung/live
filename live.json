@@ -10,56 +10,8 @@
 
    
 
-   
-   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "Aug 1",
-"time": "1:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
-"isLive":true,
-"hteam" : "Portugal",
-"ateam" : "USA",
-
-"link":[
 
 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-}
-]
-},
-   
-
-   
-   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "Aug 1",
-"time": "1:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/633431_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
-"isLive":true,
-"hteam" : "Vietnam",
-"ateam" : "Netherlands",
-
-"link":[
-
-
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
    
 
    
@@ -69,7 +21,7 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "PSG",
 "ateam" : "Inter Milan",
 
@@ -79,10 +31,7 @@
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 
-{
-"type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
+
 {
 "type": "FHD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
