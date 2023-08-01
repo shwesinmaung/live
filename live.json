@@ -17,23 +17,20 @@
 "time": "1:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/131400_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Portugal",
 "ateam" : "USA",
 
 "link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-},
+
 
 {
 "type": "480 HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=c0b1f42c73d18fdbbe448964ebe6c80c&txTime=64c7d7cd"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 }
 ]
 },
@@ -46,15 +43,12 @@
 "time": "1:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/633431_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Vietnam",
 "ateam" : "Netherlands",
 
 "link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
+
 
 {
 "type": "480 HD",
