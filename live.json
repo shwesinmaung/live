@@ -15,38 +15,7 @@
    
 
    
-   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 2",
-"time": "9:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"isLive":true,
-"hteam" : "Milan",
-"ateam" : "Barcelona",
 
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-    {
-"type": "HD 1",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-   {
-"type": "HD 2",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=201c8cc49da56f1bf1d6efa74cc757ee&txTime=64ca17a9"
-},
-
-
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
    
    
 
@@ -57,23 +26,27 @@
 "time": "1:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/74870_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Argentina",
 "ateam" : "Sweden",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+   {
+"type": "480 HD 2",
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=dacbd2e95ba410b0f82a3b69ad95e5ec&txTime=64ca5061"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
@@ -86,23 +59,27 @@
 "time": "1:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6326_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "South Africa",
 "ateam" : "Italy",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 },
 
 {
 "type": "480 HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+},
+   {
+"type": "480 HD 2",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=a48b395951b8a163179a682ba47f8c96&txTime=64ca5025"
 },
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 }
 ]
 },
