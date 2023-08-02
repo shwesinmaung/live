@@ -2,87 +2,35 @@
 
 
 
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 2",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"isLive":true,
-"hteam" : "Napoli",
-"ateam" : "Girona",
-
-"link":[
- {
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
 
 
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-}
-]
-},
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 2",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-"isLive":true,
-"hteam" : "Arsenal",
-"ateam" : "Monaco",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-       {
-"type": "HD 1",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-            {
-"type": "HD 2",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991171_lhd.m3u8?auth_key=1690997429-0-0-0d5322fc046ffd6ccee60381b0083f54&edge_slice=true&user_session_id=de39d795c552c5c6848e07f11f52ceb9&sub_m3u8=true"
-},
-         {
-"type": "HD 2",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-
-
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
       {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "Aug 3",
 "time": "6:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Juventus",
 "ateam" : "Real Madrid",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691021849-0-0-4de88131126c3d4b8613264c7475606d&user_session_id=330489b9e03aa51db2be6882a47bc6de"
 },
 
 
 {
+"type": "HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+},
+{
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691021849-0-0-4de88131126c3d4b8613264c7475606d&user_session_id=330489b9e03aa51db2be6882a47bc6de"
 }
 ]
+            
 },
       {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
