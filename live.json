@@ -41,20 +41,27 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",
-"isLive":false,
-"hteam" : "Jeonbuk FC",
-"ateam" : "PSG",
+"isLive":true,
+"hteam" : "Morocco",
+"ateam" : "Colombia",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
+},
+      
+
+
+{
+"type": "HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
 },
 
 
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
 }
 ]
 },
@@ -64,20 +71,24 @@
 "time": "4:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244164_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "South Korea",
 "ateam" : "Germany",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+},
+      {
+"type": "HD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
 },
 
 
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 }
 ]
 }
