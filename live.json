@@ -7,94 +7,10 @@
       {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
 "date": "Aug 3",
-"time": "6:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"isLive":true,
-"hteam" : "Juventus",
-"ateam" : "Real Madrid",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691021849-0-0-4de88131126c3d4b8613264c7475606d&user_session_id=330489b9e03aa51db2be6882a47bc6de"
-},
-
-
-{
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-{
-"type": "FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691021849-0-0-4de88131126c3d4b8613264c7475606d&user_session_id=330489b9e03aa51db2be6882a47bc6de"
-}
-]
-            
-},
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 3",
-"time": "7:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"isLive":true,
-"hteam" : "Chelsea",
-"ateam" : "Dortmund",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-},
-
-
-{
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=d34440885b3cd38c29e79305ed918e89&txTime=64cae841"
-},
-      {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=a7e363e2ddab35fbd8f1883a8ee1b4ec&txTime=64cae841"
-}
-
-]
-},
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 3",
-"time": "7:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"isLive":true,
-"hteam" : "ATKO",
-"ateam" : "Real Sociedad",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-},
-       {
-"type": "SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-},
-      
-
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-}
-]
-},
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 3",
 "time": "2:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Jeonbuk FC",
 "ateam" : "PSG",
 
@@ -102,6 +18,14 @@
  {
 "type": "SD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+       {
+"type": "HD 1",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=9ca2d1e8399a94bdfda63f1f8c684494&txTime=64cbb195"
+},
+       {
+"type": "HD 2",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 
 
