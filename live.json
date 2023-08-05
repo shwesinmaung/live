@@ -11,53 +11,24 @@
 "time": "6:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Leverkusen",
 "ateam" : "West Ham United",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8"
 },
       {
 "type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+"livelink":"https://pull01.rrwes.live/live/stream-102933_lhd.flv?txSecret=1d0df6692eacdff9fbc82dcc1bfd64ff&txTime=64ce8429"
 },
 
 
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-}
-]
-},
-
-
-       {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 5",
-"time": "6:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"isLive":false,
-"hteam" : "Nice",
-"ateam" : "Villarreal",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-},
-      {
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
-},
-
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
 }
 ]
 },
@@ -69,24 +40,28 @@
 "time": "6:15 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Man United",
 "ateam" : "Lens",
 
 "link":[
+   {
+"type": "HD 1",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
 },
       {
 "type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+"livelink":"https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 },
 
 
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+"livelink":"https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
 }
 ]
 },
