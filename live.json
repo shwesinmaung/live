@@ -1,38 +1,6 @@
 [
 
 
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "Aug 5",
-"time": "11:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/391943_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
-"isLive":true,
-"hteam" : "Switzerland",
-"ateam" : "Spain",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-      {
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-         {
-"type": "HD 2",
-"livelink":"https://pullalilive.livnvess.com/live/stream-991140.flv?auth_key=1691231849-0-0-b5bd397de235ef1cad9e31cb19f776ce"
-},
-
-
-{
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
-
 
        {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
@@ -40,24 +8,24 @@
 "time": "2:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5906_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5813_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Japan",
 "ateam" : "Norway",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?auth_key=1691224949-0-0-25d21c665850b4edc9e6409e2211d908&sub_m3u8=true&edge_slice=true&user_session_id=c0aedfd1d3c1711db8f8df2aea7f03f2"
 },
       {
 "type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?edge_slice=true&user_session_id=a177681b36425acb509ed1558c64469d&sub_m3u8=true&auth_key=1691224949-0-0-25d21c665850b4edc9e6409e2211d908"
 },
 
 
 {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
