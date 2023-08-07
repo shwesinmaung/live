@@ -2,14 +2,14 @@
 
 
           {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 6",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
-"isLive":true,
-"hteam" : "Spurs",
-"ateam" : "Shakhtar Donetsk",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "Aug 7",
+"time": "2:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5908_small.png",
+"isLive":false,
+"hteam" : "England",
+"ateam" : "Nigeria",
 
 "link":[
  {
@@ -26,120 +26,128 @@
 }
 ]
 },
-          {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/247.png",
-"date": "Aug 6",
-"time": "9:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"isLive":true,
-"hteam" : "Arsenal",
-"ateam" : "Man City",
-
-"link":[
            {
-"type": "SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
- {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=c99e8e550dda8c61002f12fb90f6f293&txTime=64d005f1"
-},
-      {
-"type": "HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
-          {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 6",
-"time": "9:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-"isLive":true,
-"hteam" : "Man United",
-"ateam" : "Athletic Club",
-
-"link":[
-           {
-"type": "SD",
-"livelink":"https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-},
- {
-"type": "SD",
-"livelink":"https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-},
-      {
-"type": "FHD",
-"livelink":"https://bcovlive-a.akamaihd.net:443/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/../../eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8"
-}
-]
-},
-          {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 6",
-"time": "9:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
-"isLive":true,
-"hteam" : "Dortmund",
-"ateam" : "Ajax",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8"
-},
-      {
-"type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-},
-      {
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
-}
-]
-},
-          {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 6",
-"time": "9:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"isLive":true,
-"hteam" : "Newcastle",
-"ateam" : "Villarreal",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991165_lhd.flv?txSecret=501ff3d75f28033210595038a2884f9a&txTime=64d006e1"
-},
-      {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991165_lhd.flv?txSecret=501ff3d75f28033210595038a2884f9a&txTime=64d006e1"
-}
-]
-},
-          {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 6",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "Aug 7",
+"time": "5:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5818_small.png",
 "isLive":false,
-"hteam" : "Napoli",
-"ateam" : "Augsburg",
+"hteam" : "Australia",
+"ateam" : "Denmark",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=7f28133628cbf2168c9bb048180ee521&txTime=64cea4f9"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
 },
       {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=7f28133628cbf2168c9bb048180ee521&txTime=64cea4f9"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
+}
+]
+},
+           {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "Aug 7",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+"isLive":false,
+"hteam" : "Bayern",
+"ateam" : "Monaco",
+
+"link":[
+ {
+"type": "SD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "HD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
+}
+]
+},
+           {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
+"date": "Aug 7",
+"time": "12:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
+"isLive":false,
+"hteam" : "Liverpool",
+"ateam" : "SV Darmstadt",
+
+"link":[
+ {
+"type": "SD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "HD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
+}
+]
+},
+           {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "Aug 8",
+"time": "2:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/239729_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/967029_small.png",
+"isLive":false,
+"hteam" : "Colombia",
+"ateam" : "Jamaica",
+
+"link":[
+ {
+"type": "SD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "HD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
+}
+]
+},
+           {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
+"date": "Aug 8",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1129300_small.png",
+"isLive":false,
+"hteam" : "France",
+"ateam" : "Morocco",
+
+"link":[
+ {
+"type": "SD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "HD",
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?sub_m3u8=true&user_session_id=a9f378e21932e1482a6872c6b951adaf&auth_key=1691328929-0-0-9fb596f2741904853cc059ea5f180f59&edge_slice=true"
+},
+      {
+"type": "FHD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
 }
 ]
 }
