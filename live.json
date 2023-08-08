@@ -1,31 +1,5 @@
 [
 
-         
-           {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/489.png",
-"date": "Aug 7",
-"time": "12:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-"isLive":true,
-"hteam" : "Liverpool",
-"ateam" : "SV Darmstadt",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911952_lhd.m3u8?auth_key=1691432909-0-0-e19d39deca4e95b868d09ae0ef6ac543&sub_m3u8=true&edge_slice=true&user_session_id=06c84f6d4f020f4a81efb254b8c609f0"
-},
-      {
-"type": "HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911952_lsd.m3u8?auth_key=1691432909-0-0-80d0c9cca18913b652759d9a951ee15a&sub_m3u8=true&edge_slice=true&user_session_id=117377e5c6b3d7a6a040bc268dc55ca3"
-},
-      {
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/soiFHD/chunklist.m3u8"
-}
-]
-},
            {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
 "date": "Aug 8",
