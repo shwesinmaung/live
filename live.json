@@ -7,28 +7,28 @@
 "time": "1:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Australia",
 "ateam" : "France",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=74d343dd80f2fc7c50fb2b80c77a8b69&txTime=64d6ceaa"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
 },
 
       {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=74d343dd80f2fc7c50fb2b80c77a8b69&txTime=64d6ceaa"
+"livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
 },
        {
 "type": "SD 2",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=9d51cff828679ba3e59c45e1bb0c30b6&txTime=64d7808e"
 },
 
       {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/soiFHD/chunklist.m3u8"
 }
 ]
 },
