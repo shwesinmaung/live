@@ -14,6 +14,10 @@
 "ateam" : "Tottenham",
 
 "link":[
+      {
+"type": "SD 1",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=bb57396023810b094154a066e40c2db7&txTime=64d92416"
+},
  {
 "type": "SD",
 "livelink":"https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
