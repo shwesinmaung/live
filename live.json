@@ -5,13 +5,13 @@
 
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-"date": "Aug 12",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"isLive":true,
-"hteam" : "Newcastle United",
-"ateam" : "Aston Villa",
+"date": "Aug 13",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"isLive":false,
+"hteam" : "Brentford",
+"ateam" : "Tottenham",
 
 "link":[
  {
@@ -21,132 +21,6 @@
        {
 "type": "HD",
 "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-
-
-      {
-"type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-}
-]
-},
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 13(12:00 AM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-"isLive":true,
-"hteam" : "Las Palmas",
-"ateam" : "Mallorca",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lhd.m3u8?auth_key=1691861370-0-0-dd3331ba64fbfaaa981603784ad81f6e&edge_slice=true&sub_m3u8=true&user_session_id=82dde4b15aa1bb293c02750198727219"
-},
-       {
-"type": "HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lhd.m3u8?auth_key=1691861370-0-0-dd3331ba64fbfaaa981603784ad81f6e&edge_slice=true&sub_m3u8=true&user_session_id=82dde4b15aa1bb293c02750198727219"
-}
-]
-},
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 13(1:00 AM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"isLive":true,
-"hteam" : "Juventus",
-"ateam" : "Atalanta",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-342075_lhd.m3u8?auth_key=1691861550-0-0-e9a061566645d825f591577e2d663fc1&sub_m3u8=true&edge_slice=true&user_session_id=64cd457af056d81874d2029e0da273e7"
-},
-       {
-"type": "HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-342075_lhd.m3u8?auth_key=1691861550-0-0-e9a061566645d825f591577e2d663fc1&sub_m3u8=true&edge_slice=true&user_session_id=64cd457af056d81874d2029e0da273e7"
-}
-]
-},
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/8924.png",
-"date": "Aug 13(1:15 AM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"isLive":true,
-"hteam" : "Bayern",
-"ateam" : "Leipzig",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911949_lhd.m3u8?auth_key=1691861850-0-0-3f4e6b16728ab4aa88cf166e0b057c00&sub_m3u8=true&user_session_id=bbe006abdb0695debc240b089aa0c38a&edge_slice=true"
-},
-       {
-"type": "HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911949_lhd.m3u8?auth_key=1691861850-0-0-3f4e6b16728ab4aa88cf166e0b057c00&sub_m3u8=true&user_session_id=bbe006abdb0695debc240b089aa0c38a&edge_slice=true"
-}
-]
-},
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/53.png",
-"date": "Aug 13(1:30 AM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-"isLive":true,
-"hteam" : "PSG",
-"ateam" : "Lorient",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=1ab1e0afbb66e59f006d79447b7b35c3&txTime=64d80a22"
-},
-       {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=1ab1e0afbb66e59f006d79447b7b35c3&txTime=64d80a22"
-},
-       {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=1ab1e0afbb66e59f006d79447b7b35c3&txTime=64d80a22"
-}
-]
-},
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 13(2:00 AM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"isLive":true,
-"hteam" : "Athletic Club",
-"ateam" : "Real Madrid",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911974_lhd.m3u8?auth_key=1691862330-0-0-aa2dd6432a54d2bfecb68b281045120d&user_session_id=ebb7bcd2aa0c5b25e86641be2c1de08e&edge_slice=true&sub_m3u8=true"
-},
-       {
-"type": "HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911974_lhd.m3u8?auth_key=1691862330-0-0-aa2dd6432a54d2bfecb68b281045120d&user_session_id=ebb7bcd2aa0c5b25e86641be2c1de08e&edge_slice=true&sub_m3u8=true"
-},
-       {
-"type": "FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911974_lhd.m3u8?auth_key=1691862330-0-0-aa2dd6432a54d2bfecb68b281045120d&user_session_id=ebb7bcd2aa0c5b25e86641be2c1de08e&edge_slice=true&sub_m3u8=true"
-}
-]
 }
    
    
