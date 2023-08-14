@@ -5,10 +5,10 @@
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
 "date": "Aug 14",
-"time": "12:00 AM",
+"time": "Ended",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Villarreal",
 "ateam" : "Real Betis",
 
@@ -32,10 +32,10 @@
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
 "date": "Aug 14(2:00 AM)",
-"time": "2:00 AM",
+"time": "Ended",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Getafe",
 "ateam" : "Barcelona",
 
