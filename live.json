@@ -3,93 +3,8 @@
       
 
         {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 15",
-"time": "12:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-"isLive":true,
-"hteam" : "Cadiz",
-"ateam" : "Deportivo Alaves",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
-},
-       {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
-},
-       {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
-}
-
-]
-
-        },
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-"date": "Aug 15(1:30 AM)",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"isLive":true,
-"hteam" : "Man United",
-"ateam" : "Wolves",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=9a3d6563e0a6a60e898addfbc364836a&txTime=64da9756"
-},
-       {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=9a3d6563e0a6a60e898addfbc364836a&txTime=64da9756"
-},
-       {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=9a3d6563e0a6a60e898addfbc364836a&txTime=64da9756"
-}
-
-]
-
-        },
-
-      
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 15(2:00 AM)",
-"time": "2:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
-"isLive":true,
-"hteam" : "Atletico Madrid",
-"ateam" : "Granada",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pullalilive.livnvess.com/live/stream-991140.flv?auth_key=1692054990-0-0-44f6b0dd248dbb12a5824932cae0a932"
-},
-       {
-"type": "HD",
-"livelink":"https://pullalilive.livnvess.com/live/stream-991140.flv?auth_key=1692054990-0-0-44f6b0dd248dbb12a5824932cae0a932"
-},
-       {
-"type": "FHD",
-"livelink":"https://pullalilive.livnvess.com/live/stream-991140.flv?auth_key=1692054990-0-0-44f6b0dd248dbb12a5824932cae0a932"
-}
-
-]
-
-        },
-
-      
-        {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "Aug 15(Semi-Final)",
+"date": "Aug 15",
 "time": "2:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/244165_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
@@ -100,15 +15,15 @@
 "link":[
  {
 "type": "SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
+"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
 },
        {
 "type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
 },
        {
 "type": "FHD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
 }
 
 ]
