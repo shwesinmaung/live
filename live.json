@@ -1,56 +1,29 @@
 [
 
       
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/76.png",
-"date": "Aug 16",
-"time": "4:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5981_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5811_small.png",
-"isLive":true,
-"hteam" : "Australia",
-"ateam" : "England",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=94ac9241a27542ce1cec01463aefa1bd&txTime=64dcec4a"
-},
-       {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=94ac9241a27542ce1cec01463aefa1bd&txTime=64dcec4a"
-},
-       {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=94ac9241a27542ce1cec01463aefa1bd&txTime=64dcec4a"
-}
-
-]
-
-        },
-      
+        
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/74.png",
-"date": "Aug 16",
+"date": "Aug 16(1:30 AM)",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Man City",
 "ateam" : "Sevilla",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.flv?txSecret=3d8c64bf2c29e89435fac66d00cd76ec&txTime=64dab556"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
 }
 
 ]
