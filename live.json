@@ -4,11 +4,11 @@
         
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/74.png",
-"date": "Aug 16(1:30 AM)",
-"time": "1:30 AM",
+"date": "Aug 16",
+"time": "Ended",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Man City",
 "ateam" : "Sevilla",
 
