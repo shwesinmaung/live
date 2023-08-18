@@ -4,26 +4,26 @@
         
         {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 19",
+"date": "Aug 19(12:00 AM)",
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Mallorca",
 "ateam" : "Villarreal",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1692373951-0-0-cbcf49559d9a2d816128fd9e8557115c&user_session_id=7ad364d228bf3c6c620e3a920a090baf"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1692373951-0-0-cbcf49559d9a2d816128fd9e8557115c&user_session_id=7ad364d228bf3c6c620e3a920a090baf"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479849_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1692373951-0-0-cbcf49559d9a2d816128fd9e8557115c&user_session_id=7ad364d228bf3c6c620e3a920a090baf"
 }
 
 ]
@@ -32,26 +32,26 @@
 
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/54.png",
-"date": "Aug 19",
+"date": "Aug 19(1:00 AM)",
 "time": "1:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Werder Bremen",
 "ateam" : "Bayern München",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=cb2fcde61023e1340f9b871bce48a746&txTime=64dfd91f"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=cb2fcde61023e1340f9b871bce48a746&txTime=64dfd91f"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=cb2fcde61023e1340f9b871bce48a746&txTime=64dfd91f"
 }
 
 ]
@@ -65,26 +65,26 @@
 
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-"date": "Aug 19",
+"date": "Aug 19(1:15 AM)",
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Nottingham Forest",
 "ateam" : "Sheffield",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692374071-0-0-52590a4e57aad8133f88621c71b7c2a2&edge_slice=true&user_session_id=0a5d5d16faafd606c9bf9381b0f324d8&sub_m3u8=true"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692374071-0-0-52590a4e57aad8133f88621c71b7c2a2&edge_slice=true&user_session_id=0a5d5d16faafd606c9bf9381b0f324d8&sub_m3u8=true"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692374071-0-0-52590a4e57aad8133f88621c71b7c2a2&edge_slice=true&user_session_id=0a5d5d16faafd606c9bf9381b0f324d8&sub_m3u8=true"
 }
 
 ]
@@ -98,26 +98,26 @@
 
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/53.png",
-"date": "Aug 19",
+"date": "Aug 19(1:30 AM)",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Metz",
 "ateam" : "Marseille",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=2ef884b4eb26434ae6f56cb2cf4888f6&txTime=64dfd95b"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=2ef884b4eb26434ae6f56cb2cf4888f6&txTime=64dfd95b"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.flv?txSecret=2ef884b4eb26434ae6f56cb2cf4888f6&txTime=64dfd95b"
 }
 
 ]
@@ -131,26 +131,26 @@
 
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 19",
+"date": "Aug 19(2:00 A)",
 "time": "2:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Valencia",
 "ateam" : "Las Palmas",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?user_session_id=c99ae9a1a318109720b953ba0cf69fec&sub_m3u8=true&edge_slice=true&auth_key=1692374191-0-0-07d0c22bc13e3ed1a5c5b9e6c5232c42"
 },
        {
 "type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?user_session_id=c99ae9a1a318109720b953ba0cf69fec&sub_m3u8=true&edge_slice=true&auth_key=1692374191-0-0-07d0c22bc13e3ed1a5c5b9e6c5232c42"
 },
        {
 "type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=d72d56e4124c007027b7cfc8c26821ff&txTime=64dd4e7e"
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?user_session_id=c99ae9a1a318109720b953ba0cf69fec&sub_m3u8=true&edge_slice=true&auth_key=1692374191-0-0-07d0c22bc13e3ed1a5c5b9e6c5232c42"
 }
 
 ]
