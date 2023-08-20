@@ -91,11 +91,11 @@
       
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 21",
+"date": "Aug 21(12:00 AM)",
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Barcelona",
 "ateam" : "Cadiz",
 
