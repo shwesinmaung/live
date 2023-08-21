@@ -89,26 +89,26 @@
 
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-"date": "Aug 22",
+"date": "Aug 22(1:30 AM)",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Palace",
 "ateam" : "Arsenal",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u813"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
 },
        {
 "type": "HD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
 },
        {
 "type": "FHD",
-"livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8"
+"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
 }
 
 ]
