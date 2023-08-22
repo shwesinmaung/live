@@ -1,88 +1,8 @@
 [
 
-      {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/87.png",
-"date": "Aug 21(11:30 PM)",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"isLive":true,
-"hteam" : "Deportivo Alaves",
-"ateam" : "Sevilla",
+      
 
-"link":[
- {
-"type": "SD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=9734505fefaebdfba2ee32dd5c7aa5f4&txTime=64e3d687"
-},
-       {
-"type": "HD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=9734505fefaebdfba2ee32dd5c7aa5f4&txTime=64e3d687"
-},
-       {
-"type": "FHD",
-"livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.flv?txSecret=9734505fefaebdfba2ee32dd5c7aa5f4&txTime=64e3d687"
-}
-
-]
-
-        },
-
-         {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
-"date": "Aug 21(11:00 PM)",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-"isLive":true,
-"hteam" : "Torino",
-"ateam" : "Cagliari",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692635371-0-0-afc19b1a8bc3aec89162282008d651f8&edge_slice=true&sub_m3u8=true&user_session_id=65fd2e70d535780dac308cb9bfc56fef"
-},
-       {
-"type": "HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692635371-0-0-afc19b1a8bc3aec89162282008d651f8&edge_slice=true&sub_m3u8=true&user_session_id=65fd2e70d535780dac308cb9bfc56fef"
-},
-       {
-"type": "FHD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?auth_key=1692635371-0-0-afc19b1a8bc3aec89162282008d651f8&edge_slice=true&sub_m3u8=true&user_session_id=65fd2e70d535780dac308cb9bfc56fef"
-}
-
-]
-
-        },
-
-        {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/55.png",
-"date": "Aug 22(1:15 AM)",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"isLive":true,
-"hteam" : "Bologna",
-"ateam" : "Milan",
-
-"link":[
- {
-"type": "SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a12e97588d8ea8e96a5b942ef2527b38&auth_key=1692635491-0-0-849b3b8c2b41a528c37def9cc6ad0ca2"
-},
-       {
-"type": "HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a12e97588d8ea8e96a5b942ef2527b38&auth_key=1692635491-0-0-849b3b8c2b41a528c37def9cc6ad0ca2"
-},
-       {
-"type": "FHD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911987_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a12e97588d8ea8e96a5b942ef2527b38&auth_key=1692635491-0-0-849b3b8c2b41a528c37def9cc6ad0ca2"
-}
-
-]
-
-        },
+        
       
       
       
@@ -90,10 +10,10 @@
          {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
 "date": "Aug 22(1:30 AM)",
-"time": "1:30 AM",
+"time": "Ended",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "Palace",
 "ateam" : "Arsenal",
 
