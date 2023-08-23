@@ -1,34 +1,120 @@
-[
-
-      
-
-        
-      
-      
-      
-
-         {
+[ 
+{
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
-"date": "Aug 26",
+"date": "Aug 23",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"isLive":false,
+"hteam" : "Hibernian",
+"ateam" : "Aston Villa",
+
+"link":[ {
+"type": "SD",
+"livelink":" "
+},
+{
+"type": "HD",
+"livelink":" "
+},
+{
+"type": "FHD",
+"livelink":" "
+}],
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+"date": "Aug 24",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "isLive":false,
-"hteam" : "Chelsea",
-"ateam" : "Luton Town",
+"hteam" : "Braga",
+"ateam" : "Panathinakos",
 
 "link":[
  {
 "type": "SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
+"livelink":" "
 },
-       {
+ {
 "type": "HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
+"livelink":" "
 },
-       {
+{
 "type": "FHD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?auth_key=1692637591-0-0-62a5d41abea3ca6a2b3d120d1a80a5ee&edge_slice=true&user_session_id=5f2032c695f70d17cbe28e576ba85296&sub_m3u8=true"
+"livelink":" "
+},
+ 
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+"date": "Aug 24",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"isLive":false,
+"hteam" : "Maccabi Haifa",
+"ateam" : "Young Boys",
+
+"link":[
+ {
+"type": "SD",
+"livelink":" "
+},
+{
+"type": "HD",
+"livelink":" "
+},
+ {
+"type": "FHD",
+"livelink":" "
+},
+
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+"date": "Aug 24",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"isLive":false,
+"hteam" : "Molde",
+"ateam" : "Galatasaray",
+
+"link":[ {
+"type": "SD",
+"livelink":" "
+ },
+{
+"type": "HD",
+"livelink":" "
+ },
+{
+"type": "FHD",
+"livelink":" "
+}]},
+
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
+"date": "Aug 24",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"isLive":false,
+"hteam" : "Hacken",
+"ateam" : "Aberdeen",
+
+"link":[
+ {
+"type": "SD",
+"livelink":" "
+},
+{
+"type": "HD",
+"livelink":" "
+},
+{
+"type": "FHD",
+"livelink":" "
 }
 
 ]
