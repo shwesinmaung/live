@@ -1,29 +1,5 @@
 [ 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
-"date": "Aug 23",
-"time": "11:15 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"isLive":true,
-"hteam" : "Hibernian",
-"ateam" : "Aston Villa",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911998_lhd.m3u8?auth_key=1692812311-0-0-9ddc9ea16905ea14b5d97b24f56599c4&edge_slice=true&sub_m3u8=true&user_session_id=f961b81a96126951b3767003417b4082"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1692812978-0-0-3ca47d33b90d03c1b90a638ee2c018b7"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1692812978-0-0-3ca47d33b90d03c1b90a638ee2c018b7"
-       }
-       ]
-       },
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
@@ -31,14 +7,14 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Braga",
 "ateam" : "Panathinakos",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
        },
       {
       "type": "HD",
@@ -57,14 +33,14 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Maccabi Haifa",
 "ateam" : "Young Boys",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8"
        },
       {
       "type": "HD",
@@ -83,7 +59,7 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Molde",
 "ateam" : "Galatasaray",
 
