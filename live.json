@@ -9,18 +9,21 @@
 "hteam" : "Hibernian",
 "ateam" : "Aston Villa",
 
-"link":[ {
-"type": "SD",
-"livelink":" "
-},
-{
-"type": "HD",
-"livelink":" "
-},
-{
-"type": "FHD",
-"livelink":" "
-}],
+"link":[
+      {
+     "type": "SD",
+     "livelink":" "
+       },
+      {
+      "type": "HD",
+      "livelink":" "
+       },
+       {
+      "type": "FHD",
+      "livelink":" "
+       }
+       ]
+       },
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
@@ -33,18 +36,20 @@
 "ateam" : "Panathinakos",
 
 "link":[
- {
-"type": "SD",
-"livelink":" "
-},
- {
-"type": "HD",
-"livelink":" "
-},
-{
-"type": "FHD",
-"livelink":" "
-},
+      {
+     "type": "SD",
+     "livelink":" "
+       },
+      {
+      "type": "HD",
+      "livelink":" "
+       },
+       {
+      "type": "FHD",
+      "livelink":" "
+       }
+       ]
+       },
  
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
@@ -57,18 +62,20 @@
 "ateam" : "Young Boys",
 
 "link":[
- {
-"type": "SD",
-"livelink":" "
-},
-{
-"type": "HD",
-"livelink":" "
-},
- {
-"type": "FHD",
-"livelink":" "
-},
+      {
+     "type": "SD",
+     "livelink":" "
+       },
+      {
+      "type": "HD",
+      "livelink":" "
+       },
+       {
+      "type": "FHD",
+      "livelink":" "
+       }
+       ]
+       },
 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
@@ -80,18 +87,21 @@
 "hteam" : "Molde",
 "ateam" : "Galatasaray",
 
-"link":[ {
-"type": "SD",
-"livelink":" "
- },
-{
-"type": "HD",
-"livelink":" "
- },
-{
-"type": "FHD",
-"livelink":" "
-}]},
+"link":[
+      {
+     "type": "SD",
+     "livelink":" "
+       },
+      {
+      "type": "HD",
+      "livelink":" "
+       },
+       {
+      "type": "FHD",
+      "livelink":" "
+       }
+       ]
+       },
 
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/47.png",
@@ -104,22 +114,22 @@
 "ateam" : "Aberdeen",
 
 "link":[
- {
-"type": "SD",
-"livelink":" "
-},
-{
-"type": "HD",
-"livelink":" "
-},
-{
-"type": "FHD",
-"livelink":" "
-}
+      {
+     "type": "SD",
+     "livelink":" "
+       },
+      {
+      "type": "HD",
+      "livelink":" "
+       },
+       {
+      "type": "FHD",
+      "livelink":" "
+       }
+       ]
+       }
 
 ]
-
-        }
      
       
  
