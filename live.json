@@ -1,83 +1,5 @@
 [ 
 
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"date": "Aug 24",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
-"isLive":true,
-"hteam" : "Braga",
-"ateam" : "Panathinakos",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1692820838-0-0-1ea515128b66bc3d86877f8e3bd752bd"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1692820838-0-0-1ea515128b66bc3d86877f8e3bd752bd"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991184_lhd.m3u8?user_session_id=4db7e27b575ac6d6423d87427f06700f&sub_m3u8=true&auth_key=1692821251-0-0-aaedafc78f5db43e6e56396c60468e07&edge_slice=true"
-       }
-       ]
-       } ,
- 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"date": "Aug 24",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
-"isLive":true,
-"hteam" : "Maccabi Haifa",
-"ateam" : "Young Boys",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1692820538-0-0-be2835900be6d320809ebad67349e877"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1692820538-0-0-be2835900be6d320809ebad67349e877"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911996_lhd.m3u8?edge_slice=true&auth_key=1692821191-0-0-1ccc3e3e558beddaad07460168c5736e&user_session_id=41d4fd0864374ccee81eae92f4e30c7a&sub_m3u8=true"
-       }
-       ]
-       },
-
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"date": "Aug 24",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
-"isLive":true,
-"hteam" : "Molde",
-"ateam" : "Galatasaray",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1692820718-0-0-6560075c62a08cb65841d1d7181ee0c6"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1692820718-0-0-6560075c62a08cb65841d1d7181ee0c6"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912000_lhd.m3u8?auth_key=1692821011-0-0-f084bf85999e1bb6af55918f78b5cdeb&sub_m3u8=true&user_session_id=a220513716ee66b376453f88ad3d1431&edge_slice=true"
-       }
-       ]
-       },
 
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/9441.png",
@@ -85,22 +7,22 @@
 "time": "5:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Cincinnati",
 "ateam" : "Inter Miami CF",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&auth_key=1692834211-0-0-06232bf2ab19372265a0a740f7cfcbf8&user_session_id=4ef8c0d4f5481aa5f5984b0ae53c569a&sub_m3u8=true"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-543595_lhd.flv?auth_key=1692834578-0-0-64409eb7ee9768c3a9e1e2a9ff1f332d"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&auth_key=1692834211-0-0-06232bf2ab19372265a0a740f7cfcbf8&user_session_id=4ef8c0d4f5481aa5f5984b0ae53c569a&sub_m3u8=true"
        }
        ]
        }
