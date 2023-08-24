@@ -117,11 +117,11 @@
 "link":[
       {
      "type": "SD",
-     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+     "livelink":"https://pull06.scstream.net/live/stream-9911989_lhd.m3u8?auth_key=1692903931-0-0-87b8b17d9bd0d72805201f84e457afdd"
        },
       {
       "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/liv"
+      "livelink":"https://pull06.scstream.net/live/stream-9911989_lhd.m3u8?auth_key=1692903931-0-0-87b8b17d9bd0d72805201f84e457afdd"
        },
        {
       "type": "FHD",
