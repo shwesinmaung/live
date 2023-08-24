@@ -1,29 +1,5 @@
 [ 
-{
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/9441.png",
-"date": "Aug 24",
-"time": "5:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-"isLive":true,
-"hteam" : "Cincinnati",
-"ateam" : "Inter Miami CF",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?edge_slice=true&auth_key=1692834211-0-0-06232bf2ab19372265a0a740f7cfcbf8&user_session_id=4ef8c0d4f5481aa5f5984b0ae53c569a&sub_m3u8=true"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-543595_lhd.flv?auth_key=1692834578-0-0-64409eb7ee9768c3a9e1e2a9ff1f332d"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       }
-       ]
-       },
 {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
 "date": "Aug 24",
