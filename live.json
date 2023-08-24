@@ -76,8 +76,61 @@
       "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
        }
        ] 
+       },
+
+{
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Aug 25",
+"time": "12:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10162_small.png",
+"isLive":false,
+"hteam" : "Lille",
+"ateam" : "Rijeka",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+       },
+      {
+      "type": "HD",
+      "livelink":"https://pull.lianggexinxi.xyz/liv"
+       },
+       {
+      "type": "FHD",
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Aug 25",
+"time": "1:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8342_small.png",
+"isLive":false,
+"hteam" : "Osasuna",
+"ateam" : "Club Brugge",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+       },
+      {
+      "type": "HD",
+      "livelink":"https://pull.lianggexinxi.xyz/liv"
+       },
+       {
+      "type": "FHD",
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+       }
+       ] 
        }
 ]
+     
      
       
  
