@@ -47,7 +47,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.c"
+      "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        }
        ] 
        },
@@ -91,11 +91,11 @@
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=e02c8ac0fe660b599c9c1a016fb1f568&txTime=64e7edb7"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=e02c8ac0fe660b599c9c1a016fb1f568&txTime=64e7edb7"
        },
        {
       "type": "FHD",
