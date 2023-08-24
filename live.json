@@ -58,22 +58,22 @@
 "time": "12:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/210173.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Ludogorets",
 "ateam" : "Ajax",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+     "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/liv"
+      "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+      "livelink":"https://pull06.scstream.net/live/stream-9911998_lhd.m3u8?auth_key=1692902611-0-0-d0e6b80e26b15a7c54e9d5c1df84d75d"
        }
        ] 
        },
@@ -84,22 +84,22 @@
 "time": "12:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10162_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Lille",
 "ateam" : "Rijeka",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+     "livelink":""
        },
       {
       "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/liv"
+      "livelink":""
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+      "livelink":"https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=e02c8ac0fe660b599c9c1a016fb1f568&txTime=64e7edb7"
        }
        ] 
        },
