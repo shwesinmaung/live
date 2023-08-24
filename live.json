@@ -6,14 +6,14 @@
 "time": "11:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8632_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Levski Sofia",
 "ateam" : "Frankfurt",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
@@ -21,7 +21,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+      "livelink":"https://1123139281.cdn.khmer-hd."
        }
        ] 
        },
@@ -32,14 +32,14 @@
 "time": "11:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10015_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Rapid Wien",
 "ateam" : "Fiorentina",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"htt=1692834211-0-0-06232bf2ab19372265a0a"
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        },
       {
       "type": "HD",
@@ -47,7 +47,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+      "livelink":"https://1123139281.c"
        }
        ] 
        },
