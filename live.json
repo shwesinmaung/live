@@ -7,14 +7,14 @@
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Las Palmas",
 "ateam" : "Real Sociedad",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
       {
       "type": "HD",
