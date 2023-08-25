@@ -7,14 +7,14 @@
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Las Palmas",
 "ateam" : "Real Sociedad",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://179720687.global.cdnfastest.com/live/sd-6ypq3nh7jl1jmd7/chunklist_w573406136.m3u8"
        },
       {
       "type": "HD",
@@ -33,14 +33,14 @@
 "time": "1:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "RB Leipzig",
 "ateam" : "VfB Stuttgart",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://179720687.global.cdnfastest.com/live/sd-2y8m4zhwl680ql0/chunklist_w469296315.m3u8"
        },
       {
       "type": "HD",
