@@ -389,6 +389,110 @@
       "livelink":""
        }
        ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+"date": "Aug 26",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+"isLive":false,
+"hteam" : "Brighton",
+"ateam" : "West Ham",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Aug 26",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
+"isLive":false,
+"hteam" : "Frosinone",
+"ateam" : "Atalanta",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Aug 26",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
+"isLive":false,
+"hteam" : "Monza",
+"ateam" : "Empoli",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Aug 26",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+"isLive":false,
+"hteam" : "Mgladbach",
+"ateam" : "Leverkusen",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
      
