@@ -134,7 +134,7 @@
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Aug 26",
-"time": " 6:00PM",
+"time": " 6:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
 "aimg": "https://www.fotmob.com/teams/8586/overview/tottenham-hotspur",
 "isLive":false,
@@ -190,7 +190,7 @@
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "isLive":false,
-"hteam" : "SV Darmstadt"
+"hteam" : "SV Darmstadt",
 "ateam" : "Union Berlin",
 
 "link":[
