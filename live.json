@@ -493,6 +493,32 @@
       "livelink":""
        }
        ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 26",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
+"isLive":false,
+"hteam" : "Marseille",
+"ateam" : "Brest",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
      
