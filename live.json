@@ -1,14 +1,15 @@
 [ 
  
+
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Aug 26",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
 "isLive":true,
-"hteam" : "Man United",
-"ateam" : "Nottm Forest",
+"hteam" : "Brighton",
+"ateam" : "West Ham",
 
 "link":[
       {
@@ -17,37 +18,11 @@
        },
       {
       "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911965_lhd.m3u8?auth_key=1693061131-0-0-6d613a563c0b54dc9543d6b3a5b0725d&sub_m3u8=true&edge_slice=true&user_session_id=7752824d0ef60e747792a25252040ac0"
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911975_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a6655d45325c1263a2bf23e54141bbfd&auth_key=1693069471-0-0-eda290a3e227d7d6776f6834ca835f9d"
        },
        {
       "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-363344_lhd.flv?auth_key=1693060659-0-0-efe2ce8ca83c235f78ca3e48eaa79911"
-       }
-       ] 
-       },
-      
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Aug 26",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-"isLive":false,
-"hteam" : "Brighton",
-"ateam" : "West Ham",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":""
-       },
-       {
-      "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-363344_lhd.flv?auth_key=1693070079-0-0-844c9316b38008de22bab12d1dfe1bb2"
        }
        ] 
        },
@@ -58,22 +33,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Frosinone",
 "ateam" : "Atalanta",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lhd.m3u8?sub_m3u8=true&auth_key=1693069531-0-0-2565808494e7dd8a1cf7a353e9429850&user_session_id=c8b31f40de2028127565bbe9ffd3be2c&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693069959-0-0-408956fafd3963fdb2a7d2e48caef16d"
        }
        ] 
        },
@@ -84,7 +59,7 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Monza",
 "ateam" : "Empoli",
 
@@ -95,11 +70,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911948_lhd.m3u8?auth_key=1693069351-0-0-ae43af10e63978f8160fc094cececc4c&edge_slice=true&user_session_id=c6cdb4b39731121045bb6b3296ef0f93&sub_m3u8=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1693070019-0-0-06b9f4ee0dd25426b03294c4c90d59d4"
        }
        ] 
        },
@@ -110,22 +85,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Mgladbach",
 "ateam" : "Leverkusen",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lhd.m3u8?sub_m3u8=true&auth_key=1693069771-0-0-82f2852179077bfa10ba40f4b30ac413&edge_slice=true&user_session_id=89a41f8ad99b1a49a9d171eb1e417f66"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1693070019-0-0-1a58f2b2d9f68bccb3be2c4365fa8c13"
        }
        ] 
        },
