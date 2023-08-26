@@ -133,6 +133,31 @@
       
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"date": "Aug 26",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
+"isLive":false,
+"hteam" : "Cadiz",
+"ateam" : "Almeria",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Aug 27",
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
