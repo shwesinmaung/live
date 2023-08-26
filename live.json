@@ -1,30 +1,5 @@
 [ 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Aug 26",
-"time": " 6:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"isLive":true,
-"hteam" : "Bournemouth",
-"ateam" : "Tottenham",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lhd.m3u8?auth_key=1693052611-0-0-2ff27499921380a6f3728da4560621ea&user_session_id=e86215efcaf07f8675d78f8eaa7d6c8b&edge_slice=true&sub_m3u8=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       }
-       ] 
-       },
-      
+ 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Aug 26",
