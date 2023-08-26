@@ -5,14 +5,14 @@
 "time": " 6:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bournemouth",
 "ateam" : "Tottenham",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull.juqihuo.com/live/stream-2412304_lhd.flv?auth_key=1693030688-0-0-f5636673ab62f1b10fe5e215d46bcafa"
        },
       {
       "type": "HD",
