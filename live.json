@@ -26,59 +26,7 @@
        }
        ] 
        },
-      
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Aug 26",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-"isLive":true,
-"hteam" : "Brentford",
-"ateam" : "Crystal Palace",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-279893_lhd.m3u8?user_session_id=e7e5791e7ad6a85efbfa83cb7085979c&auth_key=1693061071-0-0-607056880e4e548e3e8f307c343a2b7e&sub_m3u8=true&edge_slice=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1693060779-0-0-e75987389832fdd48b7ba030ae7952a5"
-       }
-       ] 
-      
-       },
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Aug 26",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-"isLive":true,
-"hteam" : "Everton",
-"ateam" : "Wolves",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-242744_lhd.m3u8?auth_key=1693061011-0-0-3083e48898ece682b9726e5cc4cc9868&edge_slice=true&user_session_id=e46890c49127a9fcc3be4790e83c1c13&sub_m3u8=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-767255_lhd.flv?auth_key=1693060839-0-0-3ceb764e02f78886e2e2ff43c11fed6d"
-       }
-       ] 
-       },
-      
+ 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Aug 26",
