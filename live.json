@@ -111,14 +111,14 @@
 "time": "11:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Marseille",
 "ateam" : "Brest",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1693071871-0-0-c05be5767d13054580dabfa2ffdbd0c4&user_session_id=c4580d1d380e6e913269ea7970cf19f1"
        },
       {
       "type": "HD",
@@ -137,14 +137,14 @@
 "time": "11:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Cadiz",
 "ateam" : "Almeria",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1693071931-0-0-aeb9436867faa1ad057d0841a1e4921e&edge_slice=true&user_session_id=4ee2b41dfe8639a0e6bbb1d4960900d7&sub_m3u8=true"
        },
       {
       "type": "HD",
