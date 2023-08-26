@@ -5,22 +5,22 @@
 "time": " 6:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bournemouth",
 "ateam" : "Tottenham",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"httpsu82eaec"
+     "livelink":"https://socolive8.tv/room/9911990?scheduleId="
        },
       {
       "type": "HD",
-      "livelink":"https://d83e8ue"
+      "livelink":""
        },
        {
       "type": "FHD",
-      "livelink":"httpsks.m3u8"
+      "livelink":""
        }
        ] 
        },
@@ -31,18 +31,18 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"isLive":true,
+"isLive":false,
 "hteam" : "VfL Bochum",
 "ateam" : "Dortmund",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"https://pull.lianggexinxi.xyz/live/stream-755211_lhd.flv?auth_key=1693032098-0-0-de225c01e4bebfb708b16c4b5fcb3b76"
+     "livelink":""
        },
       {
       "type": "HD",
-      "livelink":"https://pull.juqihuo.com/live/stream-681230_lhd.flv?auth_key=1693032428-0-0-d300b9464d14f937e6f77000d0b51bb3"
+      "livelink":""
        },
        {
       "type": "FHD",
