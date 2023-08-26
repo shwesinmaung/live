@@ -543,6 +543,110 @@
       "livelink":""
        }
        ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 27",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
+"isLive":false,
+"hteam" : "Rennes",
+"ateam" : "Le Haver",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 27",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
+"isLive":false,
+"hteam" : "Clermont Foot",
+"ateam" : "Metz",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 27",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+"isLive":false,
+"hteam" : "Montpellier",
+"ateam" : "Reims",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 27",
+"time": "7:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
+"isLive":false,
+"hteam" : "Strasbourg",
+"ateam" : "Toulouse",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
      
