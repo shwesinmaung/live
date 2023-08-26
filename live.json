@@ -1,32 +1,5 @@
 [ 
  
-
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Aug 26",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-"isLive":true,
-"hteam" : "Arsenal",
-"ateam" : "Fulham",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?auth_key=1693061191-0-0-7d32a63086e1be0b99561b49d3306115&user_session_id=bfbbea8eab59f487f1b7bb106147fdec&edge_slice=true&sub_m3u8=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693060599-0-0-3e897250c1fdc560105207350dc3e2e0"
-       }
-       ] 
-       },
- 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Aug 26",
