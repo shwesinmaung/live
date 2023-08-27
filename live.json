@@ -1,31 +1,6 @@
 [ 
   
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Aug 27",
-"time": "5:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
-"isLive":true,
-"hteam" : "Rennes",
-"ateam" : "Le Haver",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1693136686-0-0-522246fa18be8a1c87e992ace317dbd5&user_session_id=6408bea5774a12142169bbc09c9733d5&sub_m3u8=true&edge_slice=true"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1693136686-0-0-522246fa18be8a1c87e992ace317dbd5&user_session_id=6408bea5774a12142169bbc09c9733d5&sub_m3u8=true&edge_slice=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693135899-0-0-20dfcd74b43ca53b74d73886b63179fb"
-       }
-       ] 
-       },
-      
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Aug 27",
@@ -43,7 +18,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=241243f63ecc980b250bc50f991e11fd&txTime=64eb9e03"
        },
        {
       "type": "FHD",
@@ -69,7 +44,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-380460_lhd.m3u8?txSecret=8ad7e4740f676f99eabe3ad80727ce0e&txTime=64eb9e7c"
        },
        {
       "type": "FHD",
@@ -145,7 +120,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-9911993_lhd.m3u8?user_session_id=fb3ac512ea57b434233d2daada333c70&edge_slice=true&sub_m3u8=true&auth_key=1693145312-0-0-94d9757e587ffdf41b9b6015dd682c24"
        },
        {
       "type": "FHD",
