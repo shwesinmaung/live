@@ -70,7 +70,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-279893_lhd.m3u8?txSecret=6dc9cb5d6d593af8864ce101b541996f&txTime=64eba098"
        },
        {
       "type": "FHD",
@@ -146,11 +146,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-106737_lhd.m3u8?sub_m3u8=true&auth_key=1693145734-0-0-27db1f1ff10fdabca8274d64323c0bd5&user_session_id=b1fa0b62d092e26398945574919ce3eb&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1693145859-0-0-4b0cd82eceb5f9ec2652658012688540"
        }
        ] 
        },
