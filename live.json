@@ -32,7 +32,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Clermont Foot",
 "ateam" : "Metz",
 
@@ -58,7 +58,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Montpellier",
 "ateam" : "Reims",
 
@@ -84,7 +84,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Strasbourg",
 "ateam" : "Toulouse",
 
@@ -109,7 +109,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Burnley",
 "ateam" : "Aston Villa",
 
@@ -120,7 +120,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
        {
       "type": "FHD",
@@ -134,7 +134,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Sheff Utd",
 "ateam" : "Man City",
 
