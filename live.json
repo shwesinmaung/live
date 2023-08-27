@@ -152,6 +152,183 @@
       "livelink":""
        }
        ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Aug 27",
+"time": "8:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+"isLive":false,
+"hteam" : "Mainz",
+"ateam" : "Frankfurt",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Aug 27",
+"time": "9:35 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
+"isLive":false,
+"hteam" : "Lorient",
+"ateam" : "Lille",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Aug 27",
+"time": "10:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
+"isLive":false,
+"hteam" : "Bayern Munchen",
+"ateam" : "Augsburg",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+      
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"date": "Aug 27",
+"time": "10:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+"isLive":false,
+"hteam" : "Villarreal",
+"ateam" : "Barcelona",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+"date": "Aug 27",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+"isLive":false,
+"hteam" : "Newcastle",
+"ateam" : "Liverpool",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Aug 27",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
+"isLive":false,
+"hteam" : "Fiorentina",
+"ateam" : "Lecce",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Aug 27",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+"isLive":false,
+"hteam" : "Juventus",
+"ateam" : "Bologna",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
      
