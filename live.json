@@ -1,30 +1,6 @@
 [ 
 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-"date": "Aug 27",
-"time": "8:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-"isLive":true,
-"hteam" : "Mainz",
-"ateam" : "Frankfurt",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://883f0cd13cae4b9414b1c6ed244aad5f.livehwc3.cn/pull06.scstream.net/live/stream-106737_lhd.m3u8?sub_m3u8=true&auth_key=1693145734-0-0-27db1f1ff10fdabca8274d64323c0bd5&user_session_id=b1fa0b62d092e26398945574919ce3eb&edge_slice=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1693145859-0-0-4b0cd82eceb5f9ec2652658012688540"
-       }
-       ] 
-       },
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Aug 27",
@@ -132,7 +108,7 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Fiorentina",
 "ateam" : "Lecce",
 
@@ -143,11 +119,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=a95f0725cfba30a1ef930ba94f71695f&txTime=64ebc923"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693156179-0-0-bab7f4e5ddc97ccdc61f24025e175a35"
        }
        ] 
        },
@@ -157,22 +133,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Juventus",
 "ateam" : "Bologna",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9911989_lhd.m3u8?txSecret=7e2e579238a72aa6269b4834cef324d7&txTime=64ebc95f"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-294127_lhd.flv?auth_key=1693156179-0-0-23f990326ffe505c635061abd18f551e"
        }
        ] 
        },
