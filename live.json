@@ -1,32 +1,6 @@
 [ 
 
  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-"date": "Aug 27",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
-"isLive":true,
-"hteam" : "Fiorentina",
-"ateam" : "Lecce",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":""
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=a95f0725cfba30a1ef930ba94f71695f&txTime=64ebc923"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-589863_lhd.flv?auth_key=1693156179-0-0-bab7f4e5ddc97ccdc61f24025e175a35"
-       }
-       ] 
-       },
-
- {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Aug 28",
 "time": "12:00 AM",
@@ -99,7 +73,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-288414_lhd.flv?auth_key=1693165659-0-0-e3593eb21076987e05eee05ad7889475"
        }
        ] 
        },
@@ -125,7 +99,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-570320_lhd.flv?auth_key=1693165779-0-0-75b9bd0ee673b7296ce56f8851aae99d"
        }
        ] 
        },
@@ -136,14 +110,14 @@
 "time": "2:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Athletic Club",
 "ateam" : "Real Betis",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
