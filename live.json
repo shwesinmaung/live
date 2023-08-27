@@ -27,32 +27,7 @@
        ] 
        },
       
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Aug 27",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
-"isLive":true,
-"hteam" : "Montpellier",
-"ateam" : "Reims",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://pull.lianggexinxi.xyz/live/stream-530867_lhd.flv?auth_key=1693144179-0-0-eb0dde768632824aff351352bd7da0bb"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-380460_lhd.m3u8?txSecret=8ad7e4740f676f99eabe3ad80727ce0e&txTime=64eb9e7c"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-530867_lhd.flv?auth_key=1693144179-0-0-eb0dde768632824aff351352bd7da0bb"
-       }
-       ] 
-       },
-      
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Aug 27",
