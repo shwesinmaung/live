@@ -1,31 +1,5 @@
 [ 
 
-
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Aug 27",
-"time": "9:35 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-"isLive":true,
-"hteam" : "Lorient",
-"ateam" : "Lille",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?user_session_id=2aefe390e1991aebf715b6e57e109161&edge_slice=true&sub_m3u8=true&auth_key=1693151311-0-0-6e76d73cbabb6f3e9fc2b6b40f18d681"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-686922_lhd.flv?auth_key=1693151139-0-0-8071788be06da36d518a73950da360b1"
-       }
-       ] 
-       },
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Aug 27",
@@ -159,22 +133,22 @@
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Valencia",
 "ateam" : "Osasuna",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911966_lhd.m3u8?auth_key=1693160072-0-0-60bf9c2eb81b1cf41bae6e18490da2d5&user_session_id=c71a721b0e7f82501bb922ad4e68cce1&edge_slice=true&sub_m3u8=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1693159959-0-0-7a75878a981e7d6c24bfaf839bb4642a"
        }
        ] 
        },
