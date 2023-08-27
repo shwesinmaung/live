@@ -83,22 +83,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Nice",
 "ateam" : "Lyon",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?user_session_id=2d837375198524a339d1d140a9bd377e&auth_key=1693164331-0-0-4bed3896c415aa1af0afceae307cb465&sub_m3u8=true&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
        }
        ] 
        },
@@ -109,22 +109,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Lazio",
 "ateam" : "Genoa",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lhd.m3u8?auth_key=1693164391-0-0-738c54f06b3f1b3d21d7359f05dbe511&sub_m3u8=true&user_session_id=157e042bba67845f54b03b72cb21aa94&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        }
        ] 
        },
@@ -135,22 +135,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Napoli",
 "ateam" : "Sassuolo",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=476d2eff19d60af6485b4e2f9c94958e&txTime=64ebe9f3"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        }
        ] 
        },
