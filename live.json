@@ -57,14 +57,14 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Cagliari",
 "ateam" : "Inter",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
        },
       {
       "type": "HD",
