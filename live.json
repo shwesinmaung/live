@@ -32,22 +32,22 @@
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Getafe",
 "ateam" : "Alaves",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693246119-0-0-a163b579b2c0a51db69e6561b736bede"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693246119-0-0-a163b579b2c0a51db69e6561b736bede"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693246119-0-0-a163b579b2c0a51db69e6561b736bede"
        }
        ] 
        },
