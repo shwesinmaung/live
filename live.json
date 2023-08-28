@@ -1,31 +1,7 @@
 [ 
 
 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-"date": "Aug 28",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-"isLive":true,
-"hteam" : "Salernitana",
-"ateam" : "Udinese",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912008_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1693242692-0-0-19bb3e259f5d7716cee57c806bf14603&user_session_id=b21c7b331dac36e515fb3f3b7e284f1d"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-609240_lhd.flv?auth_key=1693242999-0-0-2037fc8f6393c97e54d29d6bb4238d13"
-       }
-       ] 
-       },
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Aug 29",
@@ -82,22 +58,22 @@
 "time": "2:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Rayo Vallecano",
 "ateam" : "Atletico Madrid",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912008_lhd.m3u8?auth_key=1693253672-0-0-f2ffd7c0483fc90d90c8aac8e7cc54f3&user_session_id=63c271cbafea39da93ff9d967e71322a&sub_m3u8=true&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912008_lhd.m3u8?auth_key=1693253672-0-0-f2ffd7c0483fc90d90c8aac8e7cc54f3&user_session_id=63c271cbafea39da93ff9d967e71322a&sub_m3u8=true&edge_slice=true"
        }
        ] 
        },
