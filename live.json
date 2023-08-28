@@ -250,6 +250,81 @@
       "livelink":""
        }
        ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Aug 30",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
+"isLive":false,
+"hteam" :"Young Boys",
+"ateam" : "Maccabi Haifa",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Aug 30",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
+"isLive":false,
+"hteam" : "Galatasaray",
+"ateam" : "Molde",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+       },
+ {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Aug 30",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
+"isLive":false,
+"hteam" : "Panathinaikos",
+"ateam" : "Braga",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
     
