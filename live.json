@@ -7,14 +7,14 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Salernitana",
 "ateam" : "Udinese",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        },
       {
       "type": "HD",
