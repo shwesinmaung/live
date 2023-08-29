@@ -6,22 +6,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Fulham ",
 "ateam" : "Tottenham ",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-9912026_lhd.m3u8?edge_slice=true&user_session_id=f5ff9b2a419cebf664fd5dcd6fa12d66&auth_key=1693337012-0-0-5fc6bf0ea0d1819988e5f6abedf3c811&sub_m3u8=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693337079-0-0-bf8ed5c975f6f7f71b3bdb423246969a"
        }
        ] 
        },
@@ -31,7 +31,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10003.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Swansea ",
 "ateam" : "Bournemouth ",
 
@@ -42,7 +42,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-273736_lhd.m3u8?edge_slice=true&auth_key=1693336832-0-0-9b6634924cc8b78012cf0b55d339869b&sub_m3u8=true&user_session_id=4b9e1f177ca8e212b2da7024f4769e27"
        },
        {
       "type": "FHD",
@@ -56,7 +56,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10173.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Luton ",
 "ateam" : "Gillingham ",
 
@@ -81,7 +81,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10262.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Newport ",
 "ateam" : "Brentford ",
 
@@ -106,7 +106,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8401.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Plymouth ",
 "ateam" : "Crystal Palace ",
 
@@ -131,7 +131,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8483.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Wolves ",
 "ateam" : "Blackpool ",
 
@@ -156,18 +156,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10185.png",
-"isLive":false,
+"isLive":true,
 "hteam" :"Young Boys",
 "ateam" : "Maccabi Haifa",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-427856_lhd.m3u8?edge_slice=true&auth_key=1693337252-0-0-d433ac4d76759c5f725d40a15be8eee4&user_session_id=d4a7d9681aad1b321059bd6e25c10b7f&sub_m3u8=true"
        },
        {
       "type": "FHD",
@@ -181,14 +181,14 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Galatasaray",
 "ateam" : "Molde",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
        },
       {
       "type": "HD",
@@ -196,7 +196,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-767255_lhd.flv?auth_key=1693337379-0-0-ebdd7660129780055350638ad6584d98"
        }
        ] 
        },
@@ -206,11 +206,11 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Panathinaikos",
 "ateam" : "Braga",
 
-"link":[
+"link":[https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
       {
      "type": "SD",
      "livelink":""
