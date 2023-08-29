@@ -210,10 +210,10 @@
 "hteam" : "Panathinaikos",
 "ateam" : "Braga",
 
-"link":[https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8
+"link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
