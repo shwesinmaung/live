@@ -54,31 +54,6 @@
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
 "date": "Aug 31",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_xsmall.png",
-"isLive":true,
-"hteam" : "Nottm Forest",
-"ateam" : "Burnley",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":""
-       },
-      {
-      "type": "HD",
-      "livelink":""
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693424439-0-0-84cdc6c2bc1c08824c3f658c1f7fc61d"
-       }
-       ] 
-      }, 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-"date": "Aug 31",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9903.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
