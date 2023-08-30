@@ -79,31 +79,6 @@
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
 "date": "Aug 31",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8430_xsmall.png",
-"isLive":false,
-"hteam" : "Sheff Utd",
-"ateam" : "Lincoln",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":""
-       },
-      {
-      "type": "HD",
-      "livelink":""
-       },
-       {
-      "type": "FHD",
-      "livelink":""
-       }
-       ] 
-      }, 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
-"date": "Aug 31",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9903.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
