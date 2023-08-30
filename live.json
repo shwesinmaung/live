@@ -100,21 +100,21 @@
       "livelink":""
        }
        ] 
-      }, , 
+      }, 
  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/133.png",
 "date": "Aug 31",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9903.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Doncaster",
 "ateam" : "Everton",
 
 "link":[
       {
       "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        },
       {
       "type": "HD",
