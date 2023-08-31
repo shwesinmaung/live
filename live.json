@@ -5,22 +5,22 @@
 "time": "12:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/210173.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Ajax",
 "ateam" : "Ludogorets",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        }
        ] 
        },
