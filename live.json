@@ -55,22 +55,22 @@
 "time": "12:45 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10162.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Rijeka",
 "ateam" : "Lille",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull.lianggexinxi.xyz/live/stream-718865_lhd.flv?auth_key=1693508420-0-0-cbdf25bec9cedb747083ecde9839a1d7"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-718865_lhd.flv?auth_key=1693508420-0-0-cbdf25bec9cedb747083ecde9839a1d7"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-718865_lhd.flv?auth_key=1693508420-0-0-cbdf25bec9cedb747083ecde9839a1d7"
        }
        ] 
        },
