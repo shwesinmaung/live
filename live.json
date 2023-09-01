@@ -349,6 +349,31 @@
       "livelink":""
        }
        ] 
+       },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
+"date": "Sep 2",
+"time": "8:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+"isLive":false,
+"hteam" : "Brentford",
+"ateam" : "Bournemouth",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
        }
 ]     
     
