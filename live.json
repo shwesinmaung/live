@@ -31,22 +31,22 @@
 "time": "12:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Cadiz",
 "ateam" : "Villarreal",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-479684_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1693592552-0-0-74c2208b474ec4a37abf519c4097e6a5&user_session_id=1eab4f95a2c4bf984cb8b8a36ab66f53"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-553852_lhd.flv?auth_key=1693592420-0-0-3529cf5b863797a536a6b672f9a43380"
        }
        ] 
        },
