@@ -6,22 +6,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Sassuolo",
 "ateam" : "Verona",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=5eccaf0f983efc83f43da64a2a9bfbad&txTime=64f262fc"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693588820-0-0-8b3c14a01696a11398365261fff3fee8"
        }
        ] 
        },
