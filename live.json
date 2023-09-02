@@ -256,7 +256,7 @@
 "time": "8:45 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Real Madrid",
 "ateam" : "Getafe",
 
@@ -267,11 +267,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9912026_lhd.m3u8?txSecret=29ccf868135573274acaf3b427ee018b&txTime=64f391cc"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1693666220-0-0-9ec2705901911c33e894402ec04adf71"
        }
        ] 
        },
