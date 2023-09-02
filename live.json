@@ -281,14 +281,14 @@
 "time": "9:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Brest",
 "ateam" : "Rennes",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693669712-0-0-91cb2cb449ac420d85608029a0c9964a&sub_m3u8=true&user_session_id=b0b7bd21d580133a2fea93338d6233cc&edge_slice=true"
        },
       {
       "type": "HD",
