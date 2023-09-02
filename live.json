@@ -331,22 +331,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Deportivo Alaves",
 "ateam" : "Valencia",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        }
        ] 
        },
@@ -356,22 +356,22 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-"isLive":false,
+"isLive"true,
 "hteam" : "Brighton",
 "ateam" : "Newscatle",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        }
        ] 
       },
@@ -388,7 +388,7 @@
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?user_session_id=fe3665dd0405431539b43c5167f69fec&sub_m3u8=true&auth_key=1693674392-0-0-2ebd6f26ba53ab00e455ac69c5131f00&edge_slice=true"
        },
       {
       "type": "HD",
