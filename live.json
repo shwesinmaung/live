@@ -66,7 +66,7 @@
        },
       {
       "type": "HD",
-      "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9912027_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=191398767c02a4b4808b69d44258bf6e&auth_key=1693663592-0-0-137e208b478f0bc05a16c53241a4e9c3"
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912017_lhd.m3u8?auth_key=1693664792-0-0-8b19e54eaefd58f2e3a009df31124e2f&sub_m3u8=true&edge_slice=true&user_session_id=c2c7b4b57c0f9114cedee9c27c056ab5"
        },
        {
       "type": "FHD",
@@ -187,7 +187,7 @@
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
@@ -212,7 +212,7 @@
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
@@ -262,7 +262,7 @@
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
        },
       {
       "type": "HD",
