@@ -21,7 +21,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693683380-0-0-8210f6a162a7b7ce014ea4013f13ecea"
        }
        ] 
       },
@@ -46,7 +46,7 @@
        },
        {
       "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-736181_lhd.flv?auth_key=1693683440-0-0-b5dfcae1ee257ffcd5bbd2b1b423bdbb"
        }
        ] 
       },
@@ -56,22 +56,22 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Real Betis",
 "ateam" : "Rayo Vallecano",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693683500-0-0-86728aeb411d6cb0f7ab8783b130e9e4"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9911990_lhd.m3u8?txSecret=e6c75f3347bb4237ba98178eed436e69&txTime=64f3d600"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1693683500-0-0-86728aeb411d6cb0f7ab8783b130e9e4"
        }
        ] 
       },
@@ -81,22 +81,22 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Monaco",
 "ateam" : "Lens",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1693683500-0-0-db95590358734c8da1c475767b4bde5c"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=2fcfe37176119989f8291146270d85bf&txTime=64f3d63c"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1693683500-0-0-db95590358734c8da1c475767b4bde5c"
        }
        ] 
       },
