@@ -498,6 +498,56 @@
       "livelink":""
        }
        ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"date": "Sep 3",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
+"isLive":false,
+"hteam" : "Real Betis",
+"ateam" : "Rayo Vallecano",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
+"date": "Sep 3",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+"isLive":false,
+"hteam" : "Monaco",
+"ateam" : "Lens",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
       }
 ]     
     
