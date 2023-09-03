@@ -1,31 +1,4 @@
 [ 
-  
-  
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Sep 3",
-"time": "5:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
-"isLive":true,
-"hteam" : "Toulouse",
-"ateam" : "Clermont Foot",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6o55drz8/chunklist_w1018834288.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912036_lhd.m3u8?user_session_id=83bb1068d7c07e866ce54c4c54d0c9ab&auth_key=1693740452-0-0-59079e13576c93416efbd6a68fe40029&sub_m3u8=true&edge_slice=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1693740380-0-0-58d806d1801f77814157f520e4dff194"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Sep 3",
