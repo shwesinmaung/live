@@ -30,7 +30,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Empoli",
 "ateam" : "Juventus",
 
@@ -55,7 +55,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Lecce",
 "ateam" : "Salernitana",
 
@@ -80,7 +80,7 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Osasuna",
 "ateam" : "Barcelona",
 
@@ -95,7 +95,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693769720-0-0-436f2536493f6522972ddcb6dd36cd72"
        }
        ] 
       },
