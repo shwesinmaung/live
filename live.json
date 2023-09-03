@@ -155,22 +155,22 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Frankfurt",
 "ateam" : "Koln",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?user_session_id=b77347df86e938b65900e6613a1bfb96&edge_slice=true&sub_m3u8=true&auth_key=1693750652-0-0-76f9ccafe91734feca964f693d06379d"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911989_lhd.m3u8?user_session_id=b77347df86e938b65900e6613a1bfb96&edge_slice=true&sub_m3u8=true&auth_key=1693750652-0-0-76f9ccafe91734feca964f693d06379d"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1693750520-0-0-051c326ab5b8b59245e0bb97a2795c5c"
        }
        ] 
       },
