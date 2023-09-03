@@ -32,7 +32,7 @@
 "time": "6:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Girona",
 "ateam" : "Las Palmas",
 
@@ -43,11 +43,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912013_lhd.m3u8?auth_key=1693745192-0-0-91ca14ef667f5cfc9d235a019b88fe44&user_session_id=b19c9ed298d901fd7bd1b730b7921280&sub_m3u8=true&edge_slice=true"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693745060-0-0-af2be1808dc695093b9a640700c17f2e"
        }
        ] 
       },
