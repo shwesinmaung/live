@@ -1,29 +1,4 @@
 [ 
- {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Sep 3",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-"isLive":true,
-"hteam" : "Le Havre",
-"ateam" : "Lorient",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-y39mp1h02dd0moj/chunklist_w1210482631.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-372746_lhd.m3u8?auth_key=1693748792-0-0-821f68c239bcf5fb9d7003a8f6c9bbd9&edge_slice=true&user_session_id=54e4461182608723b4f5a6f5c10715fe&sub_m3u8=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-675198_lhd.flv?auth_key=1693748600-0-0-b9d1c1e5a216dee2430aabf99c1adc6d"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Sep 3",
@@ -74,56 +49,7 @@
        }
        ] 
       },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 3",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
-"isLive":true,
-"hteam" : "Crystal Palace",
-"ateam" : "Wolves",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=d28330303d671a40f4b30919fbf938a5&txTime=64f4d104"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-288414_lhd.flv?auth_key=1693748360-0-0-e7276f57a7c7d7f5aa34309be1b2154e"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 3",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-"isLive":true,
-"hteam" : "Liverpool",
-"ateam" : "Aston Villa",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-9912037_lhd.m3u8?user_session_id=af6200b04a01674ed8c1e1c3bea8310b&sub_m3u8=true&auth_key=1693747952-0-0-a1717c82b350260ebbd1003e30775ff1&edge_slice=true"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-517241_lhd.flv?auth_key=1693748240-0-0-75b1f9e4cca47944ff7ba08c2a594c73"
-       }
-       ] 
-      },
+  
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Sep 3",
@@ -180,7 +106,7 @@
 "time": "9:35 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Nice",
 "ateam" : "Strasbourg",
 
@@ -191,7 +117,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1693756580-0-0-54c4dafc68fcbb455687cbd25cee8e7d"
        },
        {
       "type": "FHD",
@@ -233,31 +159,6 @@
 "isLive":false,
 "hteam" : "Arsenal",
 "ateam" : "Man United",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":""
-       },
-      {
-      "type": "HD",
-      "livelink":""
-       },
-       {
-      "type": "FHD",
-      "livelink":""
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-"date": "Sep 3",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-"isLive":false,
-"hteam" : "Atletico Madrid",
-"ateam" : "Sevilla",
 
 "link":[
       {
