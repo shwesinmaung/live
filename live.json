@@ -1,26 +1,26 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/130.png",
-"date": "Sep 4",
-"time": "8:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-"isLive":true,
-"hteam" : "LAFC",
-"ateam" : "Inter Miami CF",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
+"date": "Sep 8",
+"time": "1:15 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
+"isLive":false,
+"hteam" : "France",
+"ateam" : "Ireland",
 
 "link":[
       {
      "type": "SD",
-     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
+     "livelink":""
        },
       {
       "type": "HD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
+      "livelink":""
        },
        {
       "type": "FHD",
-      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
+      "livelink":""
        }
        ] 
       }
