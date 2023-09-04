@@ -5,22 +5,22 @@
 "time": "8:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "LAFC",
 "ateam" : "Inter Miami CF",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693794812-0-0-c17d2dfc43ca797be326d66b863f0600&edge_slice=true&user_session_id=6d0e453ee2a614bff3dc9b0e54dbb3b7"
        }
        ] 
       }
