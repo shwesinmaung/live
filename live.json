@@ -5,18 +5,18 @@
 "time": "8:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Kazakhstan",
 "ateam" : "Finland",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1694097341-0-0-43929d26b80bac2430a6eb7958f6ace4"
        },
        {
       "type": "FHD",
