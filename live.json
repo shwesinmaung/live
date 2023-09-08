@@ -30,7 +30,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Cyprus",
 "ateam" : "Scotland",
 
@@ -41,11 +41,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1694201081-0-0-f93e461cd37de4673eb2f5b4a261cd13"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-573443_lhd.flv?auth_key=1694200400-0-0-7622fc733d5340d2d25b079d5db0fa4c"
        }
        ] 
       },
@@ -55,7 +55,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Croatia",
 "ateam" : "Latvia",
 
@@ -66,11 +66,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1694201021-0-0-a72c0613ee45b1bad536b46238a7073a"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-697579_lhd.flv?auth_key=1694200760-0-0-761d6bf86ac97aa74df6e5313a8c2c4d"
        }
        ] 
       },
@@ -80,7 +80,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Turkiye",
 "ateam" : "Armenia",
 
@@ -91,11 +91,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1694200121-0-0-26b86da4e8fcdd25fbad0b96d6191ff4"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-294127_lhd.flv?auth_key=1694199860-0-0-db768dc598f8e8c6e453a193d9861d6d"
        }
        ] 
       },
@@ -105,7 +105,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bosnia and Herzegovina",
 "ateam" : "Liechtenstein",
 
@@ -116,11 +116,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912017_lhd.m3u8?auth_key=1694200901-0-0-d6b09e638d18a8bcf7414c741110c203"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1694201420-0-0-ad10dd77bc8191a6991618ffbd311c9e"
        }
        ] 
       },
@@ -130,7 +130,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Luxembourg",
 "ateam" : "Iceland",
 
@@ -145,7 +145,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1694201241-0-0-4a025ed681f7543d6075e64ba2b5f4cc"
        }
        ] 
       },
@@ -155,22 +155,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Slovakia",
 "ateam" : "Portugal",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694200241-0-0-dcf2f9721e119f519f3a3cfbac1da954"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1694199980-0-0-a5b5d993d98d3877fff02e99e4f69101"
        }
        ] 
       },
