@@ -1,138 +1,14 @@
 [
+  
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
 "date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
+"time": "5:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
 "isLive":true,
-"hteam" : "Cyprus",
-"ateam" : "Scotland",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-965mkyh2k3exr1g/playlist.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1694201081-0-0-f93e461cd37de4673eb2f5b4a261cd13"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-573443_lhd.flv?auth_key=1694200400-0-0-7622fc733d5340d2d25b079d5db0fa4c"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
-"isLive":true,
-"hteam" : "Croatia",
-"ateam" : "Latvia",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1694201021-0-0-a72c0613ee45b1bad536b46238a7073a"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-697579_lhd.flv?auth_key=1694200760-0-0-761d6bf86ac97aa74df6e5313a8c2c4d"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-"isLive":true,
-"hteam" : "Turkiye",
-"ateam" : "Armenia",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-y39mp1h06jygmoj/chunklist_w637780677.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1694200121-0-0-26b86da4e8fcdd25fbad0b96d6191ff4"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-294127_lhd.flv?auth_key=1694199860-0-0-db768dc598f8e8c6e453a193d9861d6d"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-"isLive":true,
-"hteam" : "Bosnia and Herzegovina",
-"ateam" : "Liechtenstein",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhxy9g1ryk/chunklist_w1434669217.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912017_lhd.m3u8?auth_key=1694200901-0-0-d6b09e638d18a8bcf7414c741110c203"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1694201420-0-0-ad10dd77bc8191a6991618ffbd311c9e"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
-"isLive":true,
-"hteam" : "Luxembourg",
-"ateam" : "Iceland",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-l7oqdeh8g4y5r51/chunklist_w328349599.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912026_lhd.m3u8?auth_key=1694201561-0-0-3b2e424f32e7e583a51d4a77e39b0a9c"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-789274_lhd.flv?auth_key=1694201241-0-0-4a025ed681f7543d6075e64ba2b5f4cc"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 9",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-"isLive":true,
-"hteam" : "Slovakia",
-"ateam" : "Portugal",
+"hteam" : "Uruguay",
+"ateam" : "Chile",
 
 "link":[
       {
@@ -141,36 +17,11 @@
        },
       {
       "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694200241-0-0-dcf2f9721e119f519f3a3cfbac1da954"
+      "livelink":"https://pullalilive.livnvess.com/live/stream-991140.m3u8?auth_key=1694234801-0-0-015b76cb611bbc84fb2ae5a0007f2a04"
        },
        {
       "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1694199980-0-0-a5b5d993d98d3877fff02e99e4f69101"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
-"date": "Sep 9",
-"time": "5:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-"isLive":false,
-"hteam" : "Uruguay",
-"ateam" : "Chile",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":""
-       },
-      {
-      "type": "HD",
-      "livelink":""
-       },
-       {
-      "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        }
        ] 
       },
