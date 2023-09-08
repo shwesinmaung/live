@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
-"date": "Sep 8",
-"time": "6:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
-"isLive":true,
-"hteam" : "Argentina",
-"ateam" : "Ecuador",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-537790_lhd.flv?auth_key=1694134580-0-0-c99c06ca844871aaa9179374ae0c4e14"
-       },
-       {
-      "type": "FHD",
-      "livelink":""
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "date": "Sep 8",
 "time": "10:30 PM",
