@@ -5,14 +5,14 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Azerbaijan",
 "ateam" : "Belgium",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        },
       {
       "type": "HD",
