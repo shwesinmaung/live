@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
-"date": "Sep 9",
-"time": "7:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5797.png",
-"isLive":true,
-"hteam" : "Brazil",
-"ateam" : "Bolivia",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1694222961-0-0-e0fc9c9d4e41e39d8ee54a64c972b22c"
-       },
-       {
-      "type": "FHD",
-      "livelink":""
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "date": "Sep 9",
 "time": "7:30 PM",
