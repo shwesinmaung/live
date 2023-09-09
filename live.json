@@ -80,7 +80,7 @@
 "time": "6:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Inter Miami CF",
 "ateam" : "Sporting KC",
 
@@ -91,7 +91,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9911990_lhd.m3u8?auth_key=1694305841-0-0-9b950edaafcc52de97d6fc2a618b9727"
        },
        {
       "type": "FHD",
