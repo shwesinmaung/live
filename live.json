@@ -1,112 +1,11 @@
 [
- 
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 10",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_xsmall.png",
-"isLive":true,
-"hteam" : "Kazakhstan",
-"ateam" : "Northern Ireland",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694352942-0-0-069686038d4378f6018ed134cd40ea35"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1694353101-0-0-0339df2525882a225e78ba808ffdd247"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 10",
-"time": "10:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794.png",
-"isLive":true,
-"hteam" : "Faroe Islands",
-"ateam" : "Moldova",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-jw2r09h6kxwlrz8/chunklist_w1711450029.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=d61053ffdd937e7729d13a7df61cd355&txTime=64fe35be"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-763732_lhd.flv?auth_key=1694364441-0-0-3b0cc9a92c22e955a797e868f0651116"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 10",
-"time": "10:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/49437.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150.png",
-"isLive":true,
-"hteam" : "Montenegro",
-"ateam" : "Bulgaria",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694364222-0-0-093202caae343f290230e424cc90e6d4"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1694364141-0-0-6e47c8aec1cabe7657f5783b82312ff3"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 10",
-"time": "10:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
-"isLive":true,
-"hteam" : "Finland",
-"ateam" : "Denmark",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694363382-0-0-ce71650f300dd0b62f17914afdfc8c62"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-363344_lhd.flv?auth_key=1694363781-0-0-3b09bd1db5f391cb89263aaccd56ba03"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "date": "Sep 11",
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Greece",
 "ateam" : "Gibraltar",
 
@@ -131,18 +30,18 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Ireland",
 "ateam" : "Netherlands",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
        {
       "type": "FHD",
@@ -156,18 +55,18 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Albania",
 "ateam" : "Poland",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
        {
       "type": "FHD",
@@ -181,18 +80,18 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Lithuania",
 "ateam" : "Serbia",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
        {
       "type": "FHD",
@@ -206,18 +105,18 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "San Marino",
 "ateam" : "Slovenia",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
        {
       "type": "FHD",
