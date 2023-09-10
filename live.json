@@ -1,31 +1,6 @@
 [
  
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/130.png",
-"date": "Sep 10",
-"time": "6:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png",
-"isLive":true,
-"hteam" : "Inter Miami CF",
-"ateam" : "Sporting KC",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://pull.niues.live/live/stream-9912037_lhd.m3u8?auth_key=1694306681-0-0-031691ff33e8661a538cc35932bb75ce"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9911990_lhd.m3u8?auth_key=1694305841-0-0-9b950edaafcc52de97d6fc2a618b9727"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-686117_lhd.flv?auth_key=1694306061-0-0-6e9365f97113d271d300b7219c2e4a4d"
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "date": "Sep 10",
 "time": "7:30 PM",
