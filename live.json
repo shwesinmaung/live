@@ -1,51 +1,26 @@
 [
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
-"date": "Sep 11",
-"time": "10:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-"isLive":true,
-"hteam" : "Armenia",
-"ateam" : "Croatia",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1694449701-0-0-828d81a24e8ec2b6d03d2b81b6f3c237"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1694449842-0-0-fb89c966255be8da14b6b73894aeba48"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/50.png",
 "date": "Sep 12",
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Latvia",
 "ateam" : "Wales",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1694459922-0-0-1c6ff32fe7dc47d97004403c42911c71"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-238362_lhd.flv?auth_key=1694460561-0-0-27c4355800030198e021c83aafd3beac"
        }
        ] 
       },
@@ -55,22 +30,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Iceland",
 "ateam" : "Bosnia",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=3c736af2272e3610ed4d37ed95dcdefd&txTime=64ffb07e"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1694460621-0-0-57a2bf5b8bed73b82577017eac027a86"
        }
        ] 
       },
@@ -80,22 +55,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Portugal",
 "ateam" : "Luxembourg",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1694460042-0-0-31cdc52618b6c06cfc01dd014cbfc19d"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-500426_lhd.flv?auth_key=1694460681-0-0-74aa8bb0ce21fcbd5115c1e3d1240e7e"
        }
        ] 
       },
@@ -105,22 +80,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Slovakia",
 "ateam" : "Liechtenstein",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=6a1d9e3e96eee4dc4a7f3145a7a1ebda&txTime=64ffaf52"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-466384_lhd.flv?auth_key=1694460741-0-0-eadeba21239883412c38e538b489316b"
        }
        ] 
       },
