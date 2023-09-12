@@ -5,7 +5,7 @@
 "time": "10:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_xsmall.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5816_xsmall.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Azerbaijan",
 "ateam" : "Jordan",
 
@@ -16,7 +16,7 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1694537502-0-0-4426bc686079eada43943029013df19a"
        },
        {
       "type": "FHD",
