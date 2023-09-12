@@ -6,14 +6,14 @@
 "time": "6:50 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Japan",
 "ateam" : "Turkiye",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
