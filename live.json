@@ -306,22 +306,22 @@
 "time": "3:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Ecuador",
 "ateam" : "Uruguay",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
        }
        ] 
       },
