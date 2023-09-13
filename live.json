@@ -1,54 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
-"date": "Sep 13",
-"time": "7:00 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
-"isLive":true,
-"hteam" : "Chile",
-"ateam" : "Colombia",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=d1a8908524586c802ffeb3463640c097&txTime=65015172"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-500426_lhd.flv?auth_key=1694567421-0-0-e3b91fb056d69986a59d6b25b2df1175"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10199.png",
-"date": "Sep 13",
-"time": "8:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-"isLive":true,
-"hteam" : "Peru",
-"ateam" : "Brazil",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912037_lhd.m3u8?auth_key=1694573502-0-0-194cb381823e8b4c0f75a25343a86dbe"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-744823_lhd.flv?auth_key=1694573601-0-0-ba858e144638c972fc9de06bdcf787a1"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Sep 16",
