@@ -6,18 +6,18 @@
 "time": "1:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bayern Munchen",
 "ateam" : "Leverkusen",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
        {
       "type": "FHD",
