@@ -80,7 +80,7 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Koln ",
 "ateam" : "Hoffenheim ",
 
@@ -91,11 +91,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1694873562-0-0-f6e6f322abed261885a1842624a994dc"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-530867_lhd.flv?auth_key=1694872701-0-0-cd8c85aaa2f09e2dc0176c4c67b7c981"
        }
        ] 
       },
@@ -105,22 +105,22 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Freiburg ",
 "ateam" : "Dortmund ",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-379975_lhd.m3u8?auth_key=1694873142-0-0-9ef3f9c1b17b11140b5f1b65df400c9f"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-723064_lhd.flv?auth_key=1694872701-0-0-553fa39bcaf714493096dd1b199d7fc3"
        }
        ] 
       },
@@ -130,7 +130,7 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Mainz",
 "ateam" : "VfB stuttgart",
 
@@ -141,11 +141,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1694873442-0-0-92498671a8dd793695b5224c559440c5"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-639736_lhd.flv?auth_key=1694872761-0-0-feaaf2a4b7fc2328e8862e3f2d076373"
        }
        ] 
       },
@@ -155,7 +155,7 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "RB Leipzig",
 "ateam" : "Augsburg",
 
@@ -166,11 +166,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=9170dbd74bce4d801ea017de1f55a516&txTime=6505fc86"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-259579_lhd.flv?auth_key=1694872821-0-0-749af33cad76f9a94a44959f7588b9dd"
        }
        ] 
       },
@@ -180,7 +180,7 @@
 "time": "8:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Wolfsburg",
 "ateam" : "Union Berlin",
 
@@ -191,11 +191,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1694873082-0-0-3c8844cd2e325520cc8874c51b65444a"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-537790_lhd.flv?auth_key=1694873361-0-0-848c0072ce6fe84a11e813cfa1863ab5"
        }
        ] 
       },
