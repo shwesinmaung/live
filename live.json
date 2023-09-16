@@ -28,56 +28,6 @@
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
 "date": "Sep 16",
 "time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346.png",
-"isLive":true,
-"hteam" : "Fulham",
-"ateam" : "Luton",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhx4w8eryk/chunklist_w830569731.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1694875028-0-0-53f56fee7ac579f22e93c6530e7a662b"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-609240_lhd.flv?auth_key=1694875341-0-0-f0f344f99d737b9a8e0ee8102d82f6a5"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 16",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
-"isLive":true,
-"hteam" : "Man United",
-"ateam" : "Brighton",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1694875062-0-0-ca546b83e9376bf43ed9065973931277"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-697889_lhd.flv?auth_key=1694875461-0-0-93ce88ab9cf74212fe30e8957f05521d"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 16",
-"time": "8:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657.png",
 "isLive":true,
@@ -99,32 +49,7 @@
        }
        ] 
       },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 16",
-"time": "8:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-"isLive":true,
-"hteam" : "West Ham",
-"ateam" : "Man City",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=d8a6761b3e684976b28889bc1919de60&txTime=65060442"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1694875521-0-0-38e028917e71f071eeab46947eb36b88"
-       }
-       ] 
-      },
-  {
+ {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Sep 16",
 "time": "8:45 PM",
