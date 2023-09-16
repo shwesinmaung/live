@@ -30,7 +30,7 @@
 "time": "6:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-"isLive":false,
+"isLive":true,
 "hteam" : " Athletic Club",
 "ateam" : "Cadiz ",
 
@@ -41,11 +41,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912022_lhd.m3u8?auth_key=1694868282-0-0-69dcf24052158849857639dcdf4408ba"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912022_lhd.m3u8?auth_key=1694868282-0-0-69dcf24052158849857639dcdf4408ba"
        }
        ] 
       },
