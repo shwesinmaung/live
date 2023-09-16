@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-"date": "Sep 16",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-"isLive":true,
-"hteam" : "Juventus ",
-"ateam" : "Lazio ",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1694871102-0-0-5fd1c9eaeed2da65e91f66cf44f45a10"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-561402_lhd.flv?auth_key=1694870841-0-0-b3febb79c3653add6903b1b30e688050"
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
 "date": "Sep 16",
 "time": "8:00 PM",
