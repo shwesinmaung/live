@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-"date": "Sep 16",
-"time": "6:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385.png",
-"isLive":true,
-"hteam" : " Athletic Club",
-"ateam" : "Cadiz ",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-n54qllhp0lgzqvy/chunklist_w1656472197.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912022_lhd.m3u8?auth_key=1694868282-0-0-69dcf24052158849857639dcdf4408ba"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-743404_lhd.flv?auth_key=1694868321-0-0-383af7c3dc6ba3b2e003f1c273b0f859"
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 16",
 "time": "7:30 PM",
