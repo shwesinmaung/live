@@ -130,14 +130,14 @@
 "time": "11:00 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Sevilla",
 "ateam" : "Las Palmas",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
       {
       "type": "HD",
@@ -145,7 +145,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-665951_lhd.flv?auth_key=1694969481-0-0-04c76ed586f7044896119ca7292a3bf6"
        }
        ] 
       },
