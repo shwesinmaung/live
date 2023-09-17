@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-"date": "Sep 17",
-"time": "6:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
-"isLive":true,
-"hteam" : "Getafe",
-"ateam" : "Osasuna",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-716626_lhd.flv?auth_key=1694954721-0-0-86211211f97345bc4dc10965364fe2f3"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.niues.live/live/stream-120778_lhd.m3u8?auth_key=1694953302-0-0-cb551975731b991bcf0e54d2e23b8081"
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Sep 17",
 "time": "7:30 PM",
