@@ -3,56 +3,6 @@
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
 "date": "Sep 17",
 "time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
-"isLive":true,
-"hteam" : "Clermont Foot",
-"ateam" : "Nantes",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-dj2ryohez776q1z/chunklist_w177606603.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1694958042-0-0-1bb5e263b27718bf1ecd5de376046d3d"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-735610_lhd.flv?auth_key=1694956941-0-0-a438f75f87ecf3a48f7be483eab6867e"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Sep 17",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-"isLive":true,
-"hteam" : "Reims",
-"ateam" : "Brest",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-pxwrxlhxklldryk/chunklist_w603704167.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1694958042-0-0-926f420233a181f8e49d6786ab387bc3"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-723064_lhd.flv?auth_key=1694957001-0-0-ce8753ad667c1acf095fbadd24a21e66"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Sep 17",
-"time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
 "isLive":true,
@@ -71,31 +21,6 @@
        {
       "type": "FHD",
       "livelink":"https://pull.lianggexinxi.xyz/live/stream-662509_lhd.flv?auth_key=1694957001-0-0-d0d91440af7cc6fa90933bb1d176044f"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-"date": "Sep 17",
-"time": "7:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-"isLive":true,
-"hteam" : "Bournemouth",
-"ateam" : "Chelsea",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694957982-0-0-53faa6b20c68d82fd3acdcc0f4353e81"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1694957061-0-0-d9074f69cca43be9e546fa0f2440cf54"
        }
        ] 
       },
