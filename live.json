@@ -81,7 +81,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Clermont Foot",
 "ateam" : "Nantes",
 
@@ -92,11 +92,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1694958042-0-0-1bb5e263b27718bf1ecd5de376046d3d"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-735610_lhd.flv?auth_key=1694956941-0-0-a438f75f87ecf3a48f7be483eab6867e"
        }
        ] 
       },
@@ -106,7 +106,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Reims",
 "ateam" : "Brest",
 
@@ -117,11 +117,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1694958042-0-0-926f420233a181f8e49d6786ab387bc3"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-723064_lhd.flv?auth_key=1694957001-0-0-ce8753ad667c1acf095fbadd24a21e66"
        }
        ] 
       },
@@ -131,7 +131,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Strasbourg",
 "ateam" : "Montpellier",
 
@@ -142,11 +142,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912049_lhd.m3u8?auth_key=1694958102-0-0-9465faf321fc433ab2cb8ba71569472b"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-662509_lhd.flv?auth_key=1694957001-0-0-d0d91440af7cc6fa90933bb1d176044f"
        }
        ] 
       },
@@ -156,22 +156,22 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bournemouth",
 "ateam" : "Chelsea",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694957982-0-0-53faa6b20c68d82fd3acdcc0f4353e81"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-778499_lhd.flv?auth_key=1694957061-0-0-d9074f69cca43be9e546fa0f2440cf54"
        }
        ] 
       },
@@ -181,7 +181,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Frosinone",
 "ateam" : "Sassuolo",
 
@@ -192,11 +192,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=eb2b34d48634f1748761f3deb6c9dbca&txTime=650747b2"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-309440_lhd.flv?auth_key=1694957061-0-0-b845b570124d432434ceecf10b0dc43a"
        }
        ] 
       },
@@ -206,7 +206,7 @@
 "time": "7:30 PM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Monza",
 "ateam" : "Lecce",
 
@@ -217,11 +217,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-342075_lhd.m3u8?auth_key=1694957930-0-0-33b7af36a9e4c450eec0eadd15721e5e"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-617898_lhd.flv?auth_key=1694957121-0-0-b2e5daa093dc75c00e5bdb9c92a5c924"
        }
        ] 
       },
