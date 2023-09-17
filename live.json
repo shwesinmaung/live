@@ -1,30 +1,5 @@
 [
   {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
-"date": "Sep 17",
-"time": "8:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
-"isLive":true,
-"hteam" : "FC Heidenheim",
-"ateam" : "Werder Bremen",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/sd-k82rekh074vjrep/chunklist_w2112738096.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=e17407d97d5ee234d043a9ee76a72312&txTime=65074eba"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-500426_lhd.flv?auth_key=1694961561-0-0-3ebb38f6f6c212781979e64154df0558"
-       }
-       ] 
-      },
-  {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
 "date": "Sep 17",
 "time": "8:45 PM",
