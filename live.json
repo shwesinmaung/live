@@ -1,29 +1,5 @@
 [
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png",
-"date": "Sep 18",
-"time": "1:15 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746.png",
-"isLive":true,
-"hteam" : "Lyon",
-"ateam" : "Le Havre",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1694979102-0-0-0d67c6192742abdcb531b1137f9725f5"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1694979201-0-0-7d6c335d875d3dd1ff5764e52a1e2069"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 18",
