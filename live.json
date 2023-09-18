@@ -31,22 +31,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Nottm Forest",
 "ateam" : "Burnley",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=19f1470761da563e3ef3295b07521c53&txTime=6508ea48"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-573443_lhd.flv?auth_key=1695065662-0-0-dd5386daa4abdbbc94814cf8904363ba"
        }
        ] 
       },
@@ -56,22 +56,22 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Hellas Verona",
 "ateam" : "Bologna",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912018_lhd.m3u8?auth_key=1695065260-0-0-06c7cceb13af21284086b7bbdfaa89b7"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-683087_lhd.flv?auth_key=1695065542-0-0-c82f3601ae291bd9326d584bc024d9ca"
        }
        ] 
       },
