@@ -81,22 +81,22 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Granada",
 "ateam" : "Girona",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1695065920-0-0-35d0ddbd350953cd483852e6e4b7ac60"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-570320_lhd.flv?auth_key=1695065842-0-0-ea0ac2ace323a0cf08a1f8c2a633f8be"
        }
        ] 
       },
