@@ -198,6 +198,156 @@
       "livelink":""
        }
        ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Sep 20",
+"time": "9:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7872_xsmall.png",
+"isLive":false,
+"hteam" : "Lille",
+"ateam" : "Olimpija Ljubljana",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 20",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8391.png",
+"isLive":false,
+"hteam" : "Galatasaray",
+"ateam" : "FC Kobenhavn",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 20",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
+"isLive":false,
+"hteam" : "Real Madrid",
+"ateam" : "Union Berlin",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 21",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+"isLive":false,
+"hteam" : "Bayern Munchen",
+"ateam" : "Man United",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 21",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png",
+"isLive":false,
+"hteam" : "Arsenal",
+"ateam" : "PSV Eindhoven", 
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 21",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+"isLive":false,
+"hteam" : "Sevilla",
+"ateam" : "Lens",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
       }
   
   ]     
