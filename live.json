@@ -348,6 +348,131 @@
       "livelink":""
        }
        ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 21",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+"isLive":false,
+"hteam" : "Braga",
+"ateam" : "Napoli",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+"date": "Sep 21",
+"time": "1:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013.png",
+"isLive":false,
+"hteam" : "Benfica",
+"ateam" : "Salzburg",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Sep 21",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8673.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+"isLive":false,
+"hteam" : "Legia Warszawa",
+"ateam" : "Aston Villa",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Sep 21",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9987.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+"isLive":false,
+"hteam" : "Genk",
+"ateam" : "Fiorentina",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
+"date": "Sep 21",
+"time": "11:15 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8485.png",
+"isLive":false,
+"hteam" : "Frankfurt",
+"ateam" : "Aberdeen",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
       }
   
   ]     
