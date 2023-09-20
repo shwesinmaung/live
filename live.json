@@ -1,98 +1,22 @@
 [ 
-  
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/10216.png",
-"date": "Sep 20",
-"time": "9:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7872_xsmall.png",
-"isLive":true,
-"hteam" : "Lille",
-"ateam" : "Olimpija Ljubljana",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695222460-0-0-84d0c0308bc007a8bf6bfbd67d9bc9f7"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-609240_lhd.flv?auth_key=1695222622-0-0-abc0ad27c975fc45ca0141674b712c08"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"date": "Sep 20",
-"time": "11:15 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8391.png",
-"isLive":true,
-"hteam" : "Galatasaray",
-"ateam" : "FC Kobenhavn",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=a712152b199ed94c77a57d137217e3af&txTime=650b768c"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-531165_lhd.flv?auth_key=1695232222-0-0-0ebd8e2024630da5bd510d050631c2bd"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-"date": "Sep 20",
-"time": "11:15 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
-"isLive":true,
-"hteam" : "Real Madrid",
-"ateam" : "Union Berlin",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1695230680-0-0-c84533221bbfff61948a505c4b9b06cc"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1695230680-0-0-c84533221bbfff61948a505c4b9b06cc"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
 "date": "Sep 21",
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Bayern Munchen",
 "ateam" : "Man United",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912053_lhd.m3u8?auth_key=1695238840-0-0-3a128a0fc957240ca257f22bce02cb5c"
        },
        {
       "type": "FHD",
@@ -106,18 +30,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Arsenal",
 "ateam" : "PSV Eindhoven", 
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1695238900-0-0-38334e4d853c7c801a232db5a6b61bb9"
        },
        {
       "type": "FHD",
@@ -131,18 +55,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Sevilla",
 "ateam" : "Lens",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=e0f1e05047f1565125e23521da216db5&txTime=650b9144"
        },
        {
       "type": "FHD",
@@ -156,18 +80,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Braga",
 "ateam" : "Napoli",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1695238960-0-0-47a3eaed09b92676f9ece78424ce14ae"
        },
        {
       "type": "FHD",
@@ -181,18 +105,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Benfica",
 "ateam" : "Salzburg",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/may00HD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9912030_lhd.m3u8?txSecret=5247f3a4e4f2d593ac5b204972bb65ef&txTime=650b9180"
        },
        {
       "type": "FHD",
@@ -206,18 +130,18 @@
 "time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_xsmall.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_xsmall.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Real Sociedad",
 "ateam" : "Inter",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=c25954e1094d198fd404098b9af1eb90&txTime=650b91bc"
        },
        {
       "type": "FHD",
