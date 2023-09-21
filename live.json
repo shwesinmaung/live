@@ -138,7 +138,7 @@
 "link":[
       {
      "type": "SD",
-     "livelink":"https://179720687.global.cdnfastest.com/live/hd-en-zp5rzgh5j93yq82/chunklist_w1422167725.m3u8"
+     "livelink":"https://179720687.global.cdnfastest.com/live/sd-zp5rzgh5j93yq82/chunklist_w1765616482.m3u8"
        },
       {
       "type": "HD",
@@ -146,7 +146,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://179720687.global.cdnfastest.com/live/sd-zp5rzgh5j93yq82/chunklist_w1322671970.m3u8"
        }
        ] 
       },
