@@ -56,7 +56,7 @@
 "time": "1:15 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "Lecce",
 "ateam" : "Genoa",
 
@@ -67,11 +67,11 @@
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-9912051_lhd.m3u8?auth_key=1695411640-0-0-54db2ef108b9761925f86259f58390fc"
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-622041_lhd.flv?auth_key=1695411322-0-0-9f701ec3056585f4844ef7cafe847d10"
        }
        ] 
       },
@@ -121,7 +121,7 @@
        },
        {
       "type": "FHD",
-      "livelink":""
+      "livelink":"https://pull.lianggexinxi.xyz/live/stream-3045619_lhd.flv?auth_key=1695411442-0-0-6aa03ecebe4fdc26ec82437d2a6c7f25"
        }
        ] 
       },
