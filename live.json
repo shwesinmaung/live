@@ -31,18 +31,18 @@
 "time": "1:00 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262.png",
-"isLive":false,
+"isLive":true,
 "hteam" : "VfB Stuttgart",
 "ateam" : "SV Darmstadt",
 
 "link":[
       {
      "type": "SD",
-     "livelink":""
+     "livelink":"https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8"
        },
       {
       "type": "HD",
-      "livelink":""
+      "livelink":"https://pull.niues.live/live/stream-469335_lhd.m3u8?auth_key=1695410320-0-0-ea9c9bdab0f172b197fac5a4d57a7a55"
        },
        {
       "type": "FHD",
