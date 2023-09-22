@@ -124,6 +124,131 @@
       "livelink":""
        }
        ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
+"date": "Sep 23",
+"time": "6:30PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+"isLive":false,
+"hteam" : "Girona",
+"ateam" : "Mallorca",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
+"date": "Sep 23",
+"time": "7:30PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
+"isLive":false,
+"hteam" : "Milan",
+"ateam" : " Hellas Verona",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Sep 23",
+"time": "8:00PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+"isLive":false,
+"hteam" : "Augsburg",
+"ateam" : "Mainz",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Sep 23",
+"time": "8:00PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
+"isLive":false,
+"hteam" : "Bayern Munchen",
+"ateam" : "VfL Bochum",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Sep 23",
+"time": "8:00PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
+"isLive":false,
+"hteam" : "Dortmund",
+"ateam" : "Wolfsburg",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
       }
   
   ]     
