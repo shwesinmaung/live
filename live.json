@@ -249,6 +249,56 @@
       "livelink":""
        }
        ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Sep 23",
+"time": "8:00PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+"isLive":false,
+"hteam" : "M'gladbach",
+"ateam" : "RB Leipzig",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
+      },
+  {
+"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png",
+"date": "Sep 23",
+"time": "8:00PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
+"isLive":false,
+"hteam" : "Union Berlin",
+"ateam" : "Hoffenheim",
+
+"link":[
+      {
+     "type": "SD",
+     "livelink":""
+       },
+      {
+      "type": "HD",
+      "livelink":""
+       },
+       {
+      "type": "FHD",
+      "livelink":""
+       }
+       ] 
       }
   
   ]     
