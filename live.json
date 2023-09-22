@@ -4,81 +4,6 @@
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
 "date": "Sep 22",
 "time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_xsmall.png",
-"isLive":true,
-"hteam" : "Ajax",
-"ateam" : "Marseille",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912013_lhd.m3u8?auth_key=1695325180-0-0-292f11b59a5ebb8200e017b5255aadab"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-564408_lhd.flv?auth_key=1695325882-0-0-bf3e68e4c97670f5fb8994a5523703d0"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-"date": "Sep 22",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4024_small.png",
-"isLive":true,
-"hteam" : "Atalanta",
-"ateam" : "Rakow Czestochowa",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1695325240-0-0-102cc356cbfd4b1c9e700b1062553104"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-"date": "Sep 22",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8563_xsmall.png",
-"isLive":true,
-"hteam" : "Brighton",
-"ateam" : "AEK Athens",
-
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1695325180-0-0-24a407c6ab0a8466b66812e3016f8792"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-551893_lhd.flv?auth_key=1695326002-0-0-8a5b2058492d96ce3749aab1ca03fc52"
-       }
-       ] 
-      },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-"date": "Sep 22",
-"time": "1:30 AM",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "isLive":true,
@@ -150,31 +75,7 @@
        }
        ] 
       },
-  {
-"league": "https://images.fotmob.com/image_resources/logo/leaguelogo/73.png",
-"date": "Sep 22",
-"time": "1:30 AM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_xsmall.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/676140_xsmall.png",
-"isLive":true,
-"hteam" : "West Ham",
-"ateam" : "TSC Backa Topola",
 
-"link":[
-      {
-     "type": "SD",
-     "livelink":"https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-       },
-      {
-      "type": "HD",
-      "livelink":"https://pull01.rrwes.live/live/stream-9912054_lhd.m3u8?txSecret=e784a3f3ef270a8ad94f8b173311f5d2&txTime=650ce210"
-       },
-       {
-      "type": "FHD",
-      "livelink":"https://pull.lianggexinxi.xyz/live/stream-772803_lhd.flv?auth_key=1695325942-0-0-b4a11b4358a06f1b50fbe78ab9b142c5"
-       }
-       ] 
-      },
   {
 "league": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
 "date": "Sep 22",
